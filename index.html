@@ -277,6 +277,51 @@
     margin-left: 6px;
     font-weight: 600;
   }
+
+  .topics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 12px;
+    margin-top: 4px;
+  }
+  .topic-card {
+    border: 2px solid var(--border);
+    border-radius: 12px;
+    padding: 16px;
+    cursor: pointer;
+    background: var(--green-light);
+    transition: all 0.15s;
+  }
+  .topic-card:hover { border-color: var(--green-accent); }
+  .topic-card.selected {
+    border-color: var(--green);
+    background: #e2f2e8;
+  }
+  .topic-card .topic-badges { margin-bottom: 8px; }
+  .topic-card .badge { margin-left: 0; margin-right: 6px; }
+  .topic-card .topic-title {
+    font-size: 14px;
+    font-weight: 700;
+    color: #1a2b23;
+    margin-bottom: 6px;
+    line-height: 1.4;
+  }
+  .topic-card .topic-summary {
+    font-size: 12px;
+    color: var(--gray-text);
+    margin-bottom: 8px;
+    line-height: 1.5;
+  }
+  .topic-card .topic-source {
+    font-size: 11px;
+    color: var(--gray-text);
+    opacity: 0.8;
+    word-break: break-all;
+  }
+  .topics-note {
+    font-size: 12px;
+    color: var(--gray-text);
+  }
 </style>
 </head>
 <body>
@@ -305,6 +350,15 @@
     <div class="row" style="margin-top:14px;">
       <button class="primary" id="saveSettings" style="margin-top:0;">저장</button>
     </div>
+  </div>
+
+  <!-- 오늘의 주제 후보 (GitHub Actions 자동 리서치 결과) -->
+  <div class="card" id="todayTopics">
+    <h2>🗓️ 오늘의 주제 후보 <span id="topicsDate" class="badge" style="display:none;"></span></h2>
+    <div class="desc">매일 자동 리서치로 뽑은 주제 5개야. 카드를 클릭하면 그 주제로 바로 제목 생성까지 진행돼. 원하는 주제가 없으면 아래에 직접 입력해도 돼.</div>
+    <div class="topics-note" id="topicsLoading">불러오는 중...</div>
+    <div id="topicsError"></div>
+    <div class="topics-grid" id="topicsGrid" style="display:none;"></div>
   </div>
 
   <!-- STEP 1: 주제 입력 + 제목 생성 -->
@@ -879,6 +933,80 @@ genCaptionBtn.addEventListener('click', async () => {
 document.getElementById('copyCaption').addEventListener('click', (e) => {
   copyText(document.getElementById('captionOutput').dataset.raw || '', e.target);
 });
+
+// ---------- 오늘의 주제 후보 ----------
+async function loadTodayTopics() {
+  const loadingEl = document.getElementById('topicsLoading');
+  const errorEl = document.getElementById('topicsError');
+  try {
+    const res = await fetch('data/topics/latest.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    renderTodayTopics(data);
+  } catch (e) {
+    loadingEl.style.display = 'none';
+    errorEl.innerHTML = `<div class="error-box">오늘의 주제 후보를 불러오지 못했어 (${e.message}). 아래에 직접 입력해줘.</div>`;
+  }
+}
+
+function renderTodayTopics(data) {
+  const loadingEl = document.getElementById('topicsLoading');
+  const gridEl = document.getElementById('topicsGrid');
+  const dateEl = document.getElementById('topicsDate');
+  const topics = data.topics || [];
+
+  loadingEl.style.display = 'none';
+  if (data.date) {
+    dateEl.textContent = data.date;
+    dateEl.style.display = 'inline-block';
+  }
+  if (topics.length === 0) return;
+
+  gridEl.style.display = 'grid';
+  gridEl.innerHTML = '';
+  topics.forEach(t => {
+    const div = document.createElement('div');
+    div.className = 'topic-card';
+    div.innerHTML = `
+      <div class="topic-badges">
+        ${t.category ? `<span class="badge">${t.category}</span>` : ''}
+        ${t.formatType ? `<span class="badge">${t.formatType}</span>` : ''}
+      </div>
+      <div class="topic-title"></div>
+      <div class="topic-summary"></div>
+      <div class="topic-source"></div>
+    `;
+    div.querySelector('.topic-title').textContent = t.topic || '';
+    div.querySelector('.topic-summary').textContent = t.summary || '';
+    div.querySelector('.topic-source').textContent = t.source ? `출처: ${t.source}` : '';
+    div.addEventListener('click', () => selectTodayTopic(t, div));
+    gridEl.appendChild(div);
+  });
+}
+
+function selectTodayTopic(t, cardEl) {
+  document.querySelectorAll('.topic-card').forEach(x => x.classList.remove('selected'));
+  cardEl.classList.add('selected');
+
+  let content = t.topic || '';
+  if (t.summary) content += `\n\n${t.summary}`;
+  if (t.source) content += `\n출처: ${t.source}`;
+  document.getElementById('topicInput').value = content;
+
+  const categorySelect = document.getElementById('categoryHint');
+  if (t.category && [...categorySelect.options].some(o => o.value === t.category)) {
+    categorySelect.value = t.category;
+  }
+  const formatSelect = document.getElementById('formatHint');
+  if (t.formatType && [...formatSelect.options].some(o => o.value === t.formatType)) {
+    formatSelect.value = t.formatType;
+  }
+
+  document.getElementById('step1').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  document.getElementById('genTitlesBtn').click();
+}
+
+loadTodayTopics();
 </script>
 </body>
 </html>
