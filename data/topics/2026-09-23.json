@@ -1,47 +1,47 @@
 {
   "date": "2026-09-23",
-  "generatedAt": "2026-09-22T15:40:58.931Z",
+  "generatedAt": "2026-09-22T23:30:32.483Z",
   "topics": [
     {
-      "topic": "저속노화 시장의 반전, \"비싼 바이오해킹보다 근력·식사·수면이 낫다\"",
-      "summary": "전문가 89%가 NAD+·생체나이검사보다 운동·식사를 노화관리 1순위로 꼽으며 저속노화 트렌드가 기본기로 회귀하는 중임",
-      "source": "U.S. News & World Report, 2026 Healthy Aging Survey, 2026-08-27, https://health.usnews.com/wellness/articles/2026-healthy-aging-survey-5-proven-habits-that-matter-more-than-biohacks",
-      "category": "TREND",
-      "formatType": "해외짜집기",
-      "viralPoint": "저장 (이미 산 보충제·기기 무용지물이라는 자각으로 \"이거 나야\" 저장 유발)"
-    },
-    {
-      "topic": "외로움이 담배보다 무서운 노화 가속기일 수 있음",
-      "summary": "전문가 59%가 사회적 고립을 가장 과소평가된 노화 촉진 요인으로 지목, 퇴직·자녀독립기 4050에게 직결되는 이슈임",
-      "source": "U.S. News & World Report, 2026 Healthy Aging Survey, 2026-08-27, https://health.usnews.com/wellness/articles/2026-healthy-aging-survey-5-proven-habits-that-matter-more-than-biohacks",
-      "category": "MIND",
-      "formatType": "공포유발",
-      "viralPoint": "댓글 (본인 상황 공감/반박 댓글 유도, \"나 이거 해당되는데\" 자기고백)"
-    },
-    {
-      "topic": "8시간 자도 소용없다? 수면시간보다 중요한 '수면 규칙성'",
-      "summary": "웰니스 업계 초점이 수면시간에서 매일 같은 시간 자고 깨는 '수면 규칙성'으로 이동 중, 주말 몰아자기의 함정을 지적함",
-      "source": "Welltory, Health & Wellness Trends 2026: Science vs Hype, 2026-07-22, https://welltory.com/blog/wellness-trends-2026",
-      "category": "ENERGY",
-      "formatType": "꿀팁",
-      "viralPoint": "저장 (당장 적용 가능한 루틴 팁이라 저장 욕구 자극)"
-    },
-    {
-      "topic": "GLP-1으로 살은 뺐는데 근육까지 녹았다면?",
-      "summary": "비만치료제 대중화 이후 체중감량보다 \"무엇을 잃었나\"가 쟁점화, 지방만 빠지고 근육은 지키는 감량법이 새로운 화두임",
-      "source": "Global Wellness Institute, Lifestyle Medicine Initiative Trends for 2026, 2026-04-06, https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/04/06/lifestyle-medicine-initiative-trends-for-2026/",
+      "topic": "장이 뇌와 호르몬, 수면까지 지배한다 - \"장 건강=소화 문제\"라는 상식이 틀렸다",
+      "summary": "장내미생물이 노화·면역·뇌건강·호르몬을 조절하는 핵심 축이라는 해외 리뷰가 최근 잇따라 발표됨. 유산균을 소화제로만 여기던 4050에게 상식파괴형 정보.",
+      "source": "Nat Rev Endocrinol, 2026-03; PubMed(Gut microbiota: The hidden hallmark of aging), 2026-08-07, https://pubmed.ncbi.nlm.nih.gov/42166227/",
       "category": "BODY",
-      "formatType": "공포유발",
-      "viralPoint": "공유 (주변에 GLP-1 사용 지인 태그하며 공유할 가능성)"
+      "formatType": "해외짜집기",
+      "viralPoint": "저장 (장건강 관리법을 다시 봐야 한다는 정보성 저장 욕구)"
     },
     {
-      "topic": "'코르티솔 얼굴', 그거 의학적 진단명 아닙니다",
-      "summary": "SNS발 '코르티솔 얼굴·로우코르티솔' 유행이 확산 중이나 실제로는 폐경·갑상샘·수면무호흡 등 다른 원인을 가릴 수 있어 주의가 필요함",
-      "source": "Nurilounge, 2026년 상반기를 이끈 웰니스 트렌드, 2026-08-08, https://www.nurilounge.com/blog/wellness-trends",
-      "category": "MIND",
+      "topic": "못 자면 장이 망가지고, 장이 망가지면 또 못 잔다 - 수면과 장의 악순환",
+      "summary": "수면 부족이 장내미생물을 교란시키고, 이 교란이 다시 불면을 악화시키는 양방향 관계가 최근 리뷰로 정리됨. 새벽각성·얕은 잠에 시달리는 4050에게 직격 공포 포인트.",
+      "source": "Neurosci Biobehav Rev, 2026-05, https://pubmed.ncbi.nlm.nih.gov/41707761/",
+      "category": "ENERGY",
       "formatType": "공포유발",
-      "viralPoint": "댓글 (내 얼굴이 그런가 자가진단하며 논쟁적 댓글 유도)"
+      "viralPoint": "댓글 (본인 수면 상태 공감 댓글 유도)"
+    },
+    {
+      "topic": "유산균이 우울·불안까지 잡아준다? - 장-뇌축 멘탈케어의 진실과 과장",
+      "summary": "프로바이오틱스가 우울·불안·수면·기분 개선에 효과 있다는 RCT 20건 분석 결과가 나왔지만 코르티솔(스트레스 호르몬) 개선은 일관되지 않아 \"효과 있다 vs 과장이다\" 논쟁 중.",
+      "source": "PubMed(From Gut to Mind: Impact of Probiotics on Depression, Anxiety...), 2026-01-09, https://pubmed.ncbi.nlm.nih.gov/42694318/",
+      "category": "MIND",
+      "formatType": "트렌드",
+      "viralPoint": "공유 (멘탈 관리에 관심 많은 지인 태그 공유)"
+    },
+    {
+      "topic": "저속노화, 보충제 말고 이거부터 - \"근육 없으면 다 소용없다\"",
+      "summary": "저속노화 관리의 핵심이 성분·보충제가 아니라 단백질 섭취+저항운동 조합이라는 리뷰가 발표됨. \"좋은 성분만 찾으면 된다\"는 4050의 통념을 깨는 메시지.",
+      "source": "PubMed(A Review of Physiological and Molecular Benefits), 2026-06-03, https://pubmed.ncbi.nlm.nih.gov/42234350/",
+      "category": "RITUAL",
+      "formatType": "꿀팁",
+      "viralPoint": "저장 (당장 적용 가능한 단백질+운동 루틴 저장)"
+    },
+    {
+      "topic": "멜라토닌은 수면제가 아니다 - \"생체시계 조절자\"로 다시 보는 관점",
+      "summary": "멜라토닌을 단순 수면유도제가 아니라 항산화·생체리듬 조절 성분으로 재해석하는 해외 리뷰 발표. 시차·야간근무·갱년기 수면변화 겪는 4050에게 실용적 관심 유발.",
+      "source": "Front Neurosci, 2026-03-04, https://pubmed.ncbi.nlm.nih.gov/41859230/",
+      "category": "TREND",
+      "formatType": "트렌드",
+      "viralPoint": "저장 (복용 타이밍·방법 정보 저장)"
     }
   ],
-  "rawResponse": "주제 1: 저속노화 시장의 반전, \"비싼 바이오해킹보다 근력·식사·수면이 낫다\"\n한줄요약: 전문가 89%가 NAD+·생체나이검사보다 운동·식사를 노화관리 1순위로 꼽으며 저속노화 트렌드가 기본기로 회귀하는 중임\n출처: U.S. News & World Report, 2026 Healthy Aging Survey, 2026-08-27, https://health.usnews.com/wellness/articles/2026-healthy-aging-survey-5-proven-habits-that-matter-more-than-biohacks\n카테고리: TREND\n포맷유형: 해외짜집기\n바이럴포인트: 저장 (이미 산 보충제·기기 무용지물이라는 자각으로 \"이거 나야\" 저장 유발)\n\n주제 2: 외로움이 담배보다 무서운 노화 가속기일 수 있음\n한줄요약: 전문가 59%가 사회적 고립을 가장 과소평가된 노화 촉진 요인으로 지목, 퇴직·자녀독립기 4050에게 직결되는 이슈임\n출처: U.S. News & World Report, 2026 Healthy Aging Survey, 2026-08-27, https://health.usnews.com/wellness/articles/2026-healthy-aging-survey-5-proven-habits-that-matter-more-than-biohacks\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글 (본인 상황 공감/반박 댓글 유도, \"나 이거 해당되는데\" 자기고백)\n\n주제 3: 8시간 자도 소용없다? 수면시간보다 중요한 '수면 규칙성'\n한줄요약: 웰니스 업계 초점이 수면시간에서 매일 같은 시간 자고 깨는 '수면 규칙성'으로 이동 중, 주말 몰아자기의 함정을 지적함\n출처: Welltory, Health & Wellness Trends 2026: Science vs Hype, 2026-07-22, https://welltory.com/blog/wellness-trends-2026\n카테고리: ENERGY\n포맷유형: 꿀팁\n바이럴포인트: 저장 (당장 적용 가능한 루틴 팁이라 저장 욕구 자극)\n\n주제 4: GLP-1으로 살은 뺐는데 근육까지 녹았다면?\n한줄요약: 비만치료제 대중화 이후 체중감량보다 \"무엇을 잃었나\"가 쟁점화, 지방만 빠지고 근육은 지키는 감량법이 새로운 화두임\n출처: Global Wellness Institute, Lifestyle Medicine Initiative Trends for 2026, 2026-04-06, https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/04/06/lifestyle-medicine-initiative-trends-for-2026/\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 공유 (주변에 GLP-1 사용 지인 태그하며 공유할 가능성)\n\n주제 5: '코르티솔 얼굴', 그거 의학적 진단명 아닙니다\n한줄요약: SNS발 '코르티솔 얼굴·로우코르티솔' 유행이 확산 중이나 실제로는 폐경·갑상샘·수면무호흡 등 다른 원인을 가릴 수 있어 주의가 필요함\n출처: Nurilounge, 2026년 상반기를 이끈 웰니스 트렌드, 2026-08-08, https://www.nurilounge.com/blog/wellness-trends\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글 (내 얼굴이 그런가 자가진단하며 논쟁적 댓글 유도)"
+  "rawResponse": "주제 1: 장이 뇌와 호르몬, 수면까지 지배한다 - \"장 건강=소화 문제\"라는 상식이 틀렸다\n한줄요약: 장내미생물이 노화·면역·뇌건강·호르몬을 조절하는 핵심 축이라는 해외 리뷰가 최근 잇따라 발표됨. 유산균을 소화제로만 여기던 4050에게 상식파괴형 정보.\n출처: Nat Rev Endocrinol, 2026-03; PubMed(Gut microbiota: The hidden hallmark of aging), 2026-08-07, https://pubmed.ncbi.nlm.nih.gov/42166227/\n카테고리: BODY\n포맷유형: 해외짜집기\n바이럴포인트: 저장 (장건강 관리법을 다시 봐야 한다는 정보성 저장 욕구)\n\n주제 2: 못 자면 장이 망가지고, 장이 망가지면 또 못 잔다 - 수면과 장의 악순환\n한줄요약: 수면 부족이 장내미생물을 교란시키고, 이 교란이 다시 불면을 악화시키는 양방향 관계가 최근 리뷰로 정리됨. 새벽각성·얕은 잠에 시달리는 4050에게 직격 공포 포인트.\n출처: Neurosci Biobehav Rev, 2026-05, https://pubmed.ncbi.nlm.nih.gov/41707761/\n카테고리: ENERGY\n포맷유형: 공포유발\n바이럴포인트: 댓글 (본인 수면 상태 공감 댓글 유도)\n\n주제 3: 유산균이 우울·불안까지 잡아준다? - 장-뇌축 멘탈케어의 진실과 과장\n한줄요약: 프로바이오틱스가 우울·불안·수면·기분 개선에 효과 있다는 RCT 20건 분석 결과가 나왔지만 코르티솔(스트레스 호르몬) 개선은 일관되지 않아 \"효과 있다 vs 과장이다\" 논쟁 중.\n출처: PubMed(From Gut to Mind: Impact of Probiotics on Depression, Anxiety...), 2026-01-09, https://pubmed.ncbi.nlm.nih.gov/42694318/\n카테고리: MIND\n포맷유형: 트렌드\n바이럴포인트: 공유 (멘탈 관리에 관심 많은 지인 태그 공유)\n\n주제 4: 저속노화, 보충제 말고 이거부터 - \"근육 없으면 다 소용없다\"\n한줄요약: 저속노화 관리의 핵심이 성분·보충제가 아니라 단백질 섭취+저항운동 조합이라는 리뷰가 발표됨. \"좋은 성분만 찾으면 된다\"는 4050의 통념을 깨는 메시지.\n출처: PubMed(A Review of Physiological and Molecular Benefits), 2026-06-03, https://pubmed.ncbi.nlm.nih.gov/42234350/\n카테고리: RITUAL\n포맷유형: 꿀팁\n바이럴포인트: 저장 (당장 적용 가능한 단백질+운동 루틴 저장)\n\n주제 5: 멜라토닌은 수면제가 아니다 - \"생체시계 조절자\"로 다시 보는 관점\n한줄요약: 멜라토닌을 단순 수면유도제가 아니라 항산화·생체리듬 조절 성분으로 재해석하는 해외 리뷰 발표. 시차·야간근무·갱년기 수면변화 겪는 4050에게 실용적 관심 유발.\n출처: Front Neurosci, 2026-03-04, https://pubmed.ncbi.nlm.nih.gov/41859230/\n카테고리: TREND\n포맷유형: 트렌드\n바이럴포인트: 저장 (복용 타이밍·방법 정보 저장)"
 }
