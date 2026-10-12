@@ -1,47 +1,47 @@
 {
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-11T00:05:47.233Z",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T00:14:12.376Z",
   "topics": [
     {
-      "topic": "크레아틴, 운동 안 해도 근육이 늘어난다?",
-      "summary": "중년층 12주 연구에서 운동 프로그램 없이도 크레아틴만으로 근육량·근력 향상이 관찰돼 \"보충제가 운동을 대신할 수 있나\"는 논쟁을 일으킴",
-      "source": "ScienceDaily, Staying Healthy News, 2026년 9월 29일 (https://www.sciencedaily.com/news/health_medicine/staying_healthy/)",
+      "topic": "텔로미어 정상이어도 소용없다? 근육량이 수명을 더 잘 예측한다는 반전 연구",
+      "summary": "\"텔로미어 관리만 하면 된다\"는 저속노화 상식을 뒤집는 최신 관찰연구로, 근육량이 새로운 장수 지표로 부상 중",
+      "source": "Nutrition & Metabolism(2026) / Yahoo Health, 2026.09.26 게시·10.11 업데이트, https://health.yahoo.com/wellness/healthy-aging/longevity/articles/popular-longevity-marker-looked-healthy-182946129.html",
       "category": "BODY",
-      "formatType": "공포유발",
-      "viralPoint": "댓글(찬반 논쟁 유도)"
+      "formatType": "생체나이",
+      "viralPoint": "저장(기존 상식과 반대되는 정보라 저장 욕구 자극) + 댓글(내 텔로미어/근육 상태 궁금증 유발)"
     },
     {
-      "topic": "\"나이 들면 격한 운동 피하라\"는 말, 틀렸다",
-      "summary": "6개월 HIIT 연구에서 중장년층도 고강도 인터벌 운동으로 체지방 감량+근육 유지 효과가 확인되며 기존 상식을 뒤집음",
-      "source": "ScienceDaily, Healthy Aging News, 2026년 10월 9일 (https://www.sciencedaily.com/news/health_medicine/healthy_aging/)",
+      "topic": "\"건망증인 줄 알았는데 폐경이었다\" - 갱년기 브레인포그 91.6% 경험담",
+      "summary": "4050 여성 대다수가 겪는 기억력·집중력 저하를 \"단순 건망증\"으로 오인하는 경우가 많다는 최신 조사 결과",
+      "source": "Utah State University Extension, 2026.08.10 게시·10.03 업데이트, https://extension.usu.edu/midlife-health-menopause/research/understanding-brain-fog-during-menopause",
+      "category": "MIND",
+      "formatType": "공포유발",
+      "viralPoint": "공감 댓글(\"나도 그런 줄 알았는데\") + 공유(배우자/친구 태그)"
+    },
+    {
+      "topic": "\"장 클렌즈로 호르몬 리셋\"은 거짓말? 소비자 매체가 직접 팩트체크한 결과",
+      "summary": "호르몬 밸런스 상품·간헐적단식·장클렌즈 효능 주장에 영국 소비자매체가 제동을 건 최신 팩트체크",
+      "source": "Which?, 2026.09.23 게시·10.02 업데이트, https://www.which.co.uk/news/article/can-you-balance-your-hormones-with-a-healthy-lifestyle-ar4pX9o5503N",
       "category": "BODY",
       "formatType": "해외짜집기",
-      "viralPoint": "저장(운동법 바뀌는 정보)"
+      "viralPoint": "저장(속았던 정보 재확인 욕구) + 댓글(내가 썼던 제품/방법 공유)"
     },
     {
-      "topic": "뇌가 2.5년 천천히 늙는 식단이 있다",
-      "summary": "MIND 식단을 잘 지킨 사람에게서 뇌 위축 속도가 느려졌고 그 차이가 뇌 노화 2.5년 지연에 해당한다는 연구 결과가 공개됨",
-      "source": "ScienceDaily, Healthy Aging News, 2026년 10월 1일 (https://www.sciencedaily.com/news/health_medicine/healthy_aging/)",
-      "category": "MIND",
-      "formatType": "생체나이",
-      "viralPoint": "저장(식단 체크리스트 니즈)"
+      "topic": "\"몇 시간 잤는지\"보다 \"몇 번 깼는지\"가 노화 속도를 좌우한다",
+      "summary": "영국 바이오뱅크 대규모 분석에서 수면시간보다 수면의 연속성·규칙성이 노화 지표와 더 강하게 연관됨",
+      "source": "Aging Cell(2026.08.26 발표) / 2 Minute Medicine, 2026.09.21, https://www.2minutemedicine.com/2mm-longevity-roundup-sleep-patterns-track-with-biological-aging-earlier-menopause-signals-cognitive-decline-diet-predicts-aging-related-mortality-and-lifestyle-intervention-preserves-mo/",
+      "category": "ENERGY",
+      "formatType": "꿀팁",
+      "viralPoint": "저장(실천 가능한 꿀팁) + 댓글(내 수면패턴 공유)"
     },
     {
-      "topic": "장 속 세균이 내 뇌 나이를 결정한다",
-      "summary": "UCLA 연구에서 특정 장내 세균·부산물이 뇌 노화 가속 및 기억력·집중력·기분 저하와 연관됨이 밝혀져 장-뇌 연결에 대한 관심 확대",
-      "source": "ScienceDaily, Staying Healthy News, 2026년 10월 4일 (https://www.sciencedaily.com/news/health_medicine/staying_healthy/)",
-      "category": "BODY",
-      "formatType": "공포유발",
-      "viralPoint": "공유(내 장 상태 걱정되는 공감 유발)"
-    },
-    {
-      "topic": "관절 보충제가 치매 위험을 높인다?",
-      "summary": "대규모 건강기록 분석에서 글루코사민 복용이 경도인지장애→치매 진행 가능성 증가와 연관되어 4050 장기 복용자들 사이 논쟁 촉발",
-      "source": "ScienceDaily, Healthy Aging News, 2026년 9월 27일 (https://www.sciencedaily.com/news/health_medicine/healthy_aging/)",
-      "category": "MIND",
-      "formatType": "공포유발",
-      "viralPoint": "댓글(복용 중인 사람들 반응 유도)"
+      "topic": "\"저탄수화물이 무조건 장수식\"이라던 상식, 4주 임상시험이 뒤집었다",
+      "summary": "65~75세 대상 4주 식단 비교 시험에서 고탄수화물 일반식단이 저탄수화물식보다 생물학적 나이 지표 개선폭이 더 컸던 반전 결과",
+      "source": "Aging Cell(2026.08 발표) / Yahoo Health, 2026.09.16·09.26, https://health.yahoo.com/wellness/healthy-aging/longevity/articles/longevity-study-finds-one-diet-shift-changed-biological-age-103839728.html",
+      "category": "RITUAL",
+      "formatType": "해외짜집기",
+      "viralPoint": "댓글(저탄수화물 vs 고탄수화물 논쟁 유발) + 공유(다이어트 중인 지인 태그)"
     }
   ],
-  "rawResponse": "주제 1: 크레아틴, 운동 안 해도 근육이 늘어난다?\n한줄요약: 중년층 12주 연구에서 운동 프로그램 없이도 크레아틴만으로 근육량·근력 향상이 관찰돼 \"보충제가 운동을 대신할 수 있나\"는 논쟁을 일으킴\n출처: ScienceDaily, Staying Healthy News, 2026년 9월 29일 (https://www.sciencedaily.com/news/health_medicine/staying_healthy/)\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 댓글(찬반 논쟁 유도)\n\n주제 2: \"나이 들면 격한 운동 피하라\"는 말, 틀렸다\n한줄요약: 6개월 HIIT 연구에서 중장년층도 고강도 인터벌 운동으로 체지방 감량+근육 유지 효과가 확인되며 기존 상식을 뒤집음\n출처: ScienceDaily, Healthy Aging News, 2026년 10월 9일 (https://www.sciencedaily.com/news/health_medicine/healthy_aging/)\n카테고리: BODY\n포맷유형: 해외짜집기\n바이럴포인트: 저장(운동법 바뀌는 정보)\n\n주제 3: 뇌가 2.5년 천천히 늙는 식단이 있다\n한줄요약: MIND 식단을 잘 지킨 사람에게서 뇌 위축 속도가 느려졌고 그 차이가 뇌 노화 2.5년 지연에 해당한다는 연구 결과가 공개됨\n출처: ScienceDaily, Healthy Aging News, 2026년 10월 1일 (https://www.sciencedaily.com/news/health_medicine/healthy_aging/)\n카테고리: MIND\n포맷유형: 생체나이\n바이럴포인트: 저장(식단 체크리스트 니즈)\n\n주제 4: 장 속 세균이 내 뇌 나이를 결정한다\n한줄요약: UCLA 연구에서 특정 장내 세균·부산물이 뇌 노화 가속 및 기억력·집중력·기분 저하와 연관됨이 밝혀져 장-뇌 연결에 대한 관심 확대\n출처: ScienceDaily, Staying Healthy News, 2026년 10월 4일 (https://www.sciencedaily.com/news/health_medicine/staying_healthy/)\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 공유(내 장 상태 걱정되는 공감 유발)\n\n주제 5: 관절 보충제가 치매 위험을 높인다?\n한줄요약: 대규모 건강기록 분석에서 글루코사민 복용이 경도인지장애→치매 진행 가능성 증가와 연관되어 4050 장기 복용자들 사이 논쟁 촉발\n출처: ScienceDaily, Healthy Aging News, 2026년 9월 27일 (https://www.sciencedaily.com/news/health_medicine/healthy_aging/)\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글(복용 중인 사람들 반응 유도)"
+  "rawResponse": "주제 1: 텔로미어 정상이어도 소용없다? 근육량이 수명을 더 잘 예측한다는 반전 연구\n한줄요약: \"텔로미어 관리만 하면 된다\"는 저속노화 상식을 뒤집는 최신 관찰연구로, 근육량이 새로운 장수 지표로 부상 중\n출처: Nutrition & Metabolism(2026) / Yahoo Health, 2026.09.26 게시·10.11 업데이트, https://health.yahoo.com/wellness/healthy-aging/longevity/articles/popular-longevity-marker-looked-healthy-182946129.html\n카테고리: BODY\n포맷유형: 생체나이\n바이럴포인트: 저장(기존 상식과 반대되는 정보라 저장 욕구 자극) + 댓글(내 텔로미어/근육 상태 궁금증 유발)\n\n주제 2: \"건망증인 줄 알았는데 폐경이었다\" - 갱년기 브레인포그 91.6% 경험담\n한줄요약: 4050 여성 대다수가 겪는 기억력·집중력 저하를 \"단순 건망증\"으로 오인하는 경우가 많다는 최신 조사 결과\n출처: Utah State University Extension, 2026.08.10 게시·10.03 업데이트, https://extension.usu.edu/midlife-health-menopause/research/understanding-brain-fog-during-menopause\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 공감 댓글(\"나도 그런 줄 알았는데\") + 공유(배우자/친구 태그)\n\n주제 3: \"장 클렌즈로 호르몬 리셋\"은 거짓말? 소비자 매체가 직접 팩트체크한 결과\n한줄요약: 호르몬 밸런스 상품·간헐적단식·장클렌즈 효능 주장에 영국 소비자매체가 제동을 건 최신 팩트체크\n출처: Which?, 2026.09.23 게시·10.02 업데이트, https://www.which.co.uk/news/article/can-you-balance-your-hormones-with-a-healthy-lifestyle-ar4pX9o5503N\n카테고리: BODY\n포맷유형: 해외짜집기\n바이럴포인트: 저장(속았던 정보 재확인 욕구) + 댓글(내가 썼던 제품/방법 공유)\n\n주제 4: \"몇 시간 잤는지\"보다 \"몇 번 깼는지\"가 노화 속도를 좌우한다\n한줄요약: 영국 바이오뱅크 대규모 분석에서 수면시간보다 수면의 연속성·규칙성이 노화 지표와 더 강하게 연관됨\n출처: Aging Cell(2026.08.26 발표) / 2 Minute Medicine, 2026.09.21, https://www.2minutemedicine.com/2mm-longevity-roundup-sleep-patterns-track-with-biological-aging-earlier-menopause-signals-cognitive-decline-diet-predicts-aging-related-mortality-and-lifestyle-intervention-preserves-mo/\n카테고리: ENERGY\n포맷유형: 꿀팁\n바이럴포인트: 저장(실천 가능한 꿀팁) + 댓글(내 수면패턴 공유)\n\n주제 5: \"저탄수화물이 무조건 장수식\"이라던 상식, 4주 임상시험이 뒤집었다\n한줄요약: 65~75세 대상 4주 식단 비교 시험에서 고탄수화물 일반식단이 저탄수화물식보다 생물학적 나이 지표 개선폭이 더 컸던 반전 결과\n출처: Aging Cell(2026.08 발표) / Yahoo Health, 2026.09.16·09.26, https://health.yahoo.com/wellness/healthy-aging/longevity/articles/longevity-study-finds-one-diet-shift-changed-biological-age-103839728.html\n카테고리: RITUAL\n포맷유형: 해외짜집기\n바이럴포인트: 댓글(저탄수화물 vs 고탄수화물 논쟁 유발) + 공유(다이어트 중인 지인 태그)"
 }
