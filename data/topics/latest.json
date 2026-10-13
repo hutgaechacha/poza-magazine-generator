@@ -1,47 +1,39 @@
 {
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T00:14:12.376Z",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T02:25:33.966Z",
   "topics": [
     {
-      "topic": "텔로미어 정상이어도 소용없다? 근육량이 수명을 더 잘 예측한다는 반전 연구",
-      "summary": "\"텔로미어 관리만 하면 된다\"는 저속노화 상식을 뒤집는 최신 관찰연구로, 근육량이 새로운 장수 지표로 부상 중",
-      "source": "Nutrition & Metabolism(2026) / Yahoo Health, 2026.09.26 게시·10.11 업데이트, https://health.yahoo.com/wellness/healthy-aging/longevity/articles/popular-longevity-marker-looked-healthy-182946129.html",
-      "category": "BODY",
+      "topic": "잠은 길수록 좋다? 6.4시간 수면자의 생체나이가 가장 젊었다",
+      "summary": "\"잠 많이 자야 건강하다\"는 상식을 뒤집는 연구로, 생물학적 노화 지표 23개 분석 결과 너무 짧거나 긴 수면 모두 노화를 앞당긴다는 결과가 나와 4050 세대의 수면 습관 점검 욕구를 자극함",
+      "source": "ScienceDaily, Menopause News, 2026-08-24, https://www.sciencedaily.com/news/health_medicine/menopause/",
+      "category": "ENERGY",
       "formatType": "생체나이",
-      "viralPoint": "저장(기존 상식과 반대되는 정보라 저장 욕구 자극) + 댓글(내 텔로미어/근육 상태 궁금증 유발)"
+      "viralPoint": "저장(내 수면시간과 비교해보려는 심리)"
     },
     {
-      "topic": "\"건망증인 줄 알았는데 폐경이었다\" - 갱년기 브레인포그 91.6% 경험담",
-      "summary": "4050 여성 대다수가 겪는 기억력·집중력 저하를 \"단순 건망증\"으로 오인하는 경우가 많다는 최신 조사 결과",
-      "source": "Utah State University Extension, 2026.08.10 게시·10.03 업데이트, https://extension.usu.edu/midlife-health-menopause/research/understanding-brain-fog-during-menopause",
+      "topic": "장내세균이 내 뇌를 늙게 만들고 있다면",
+      "summary": "UCLA 연구에서 특정 장내세균 부산물이 빠른 뇌 노화 지표와 연관되고, '늙어 보이는 뇌'가 기억력·집중력·기분 저하로 이어진다는 결과가 나와 장건강에 대한 불안감을 자극함",
+      "source": "ScienceDaily, Menopause News, 2026-10-04, https://www.sciencedaily.com/news/health_medicine/menopause/",
       "category": "MIND",
       "formatType": "공포유발",
-      "viralPoint": "공감 댓글(\"나도 그런 줄 알았는데\") + 공유(배우자/친구 태그)"
+      "viralPoint": "댓글(내 장건강 상태 공유·걱정 토로)"
     },
     {
-      "topic": "\"장 클렌즈로 호르몬 리셋\"은 거짓말? 소비자 매체가 직접 팩트체크한 결과",
-      "summary": "호르몬 밸런스 상품·간헐적단식·장클렌즈 효능 주장에 영국 소비자매체가 제동을 건 최신 팩트체크",
-      "source": "Which?, 2026.09.23 게시·10.02 업데이트, https://www.which.co.uk/news/article/can-you-balance-your-hormones-with-a-healthy-lifestyle-ar4pX9o5503N",
+      "topic": "호르몬 치료가 치매를 막아준다? 기대와 신중함 사이",
+      "summary": "고령 여성의 에스트로겐 단독 호르몬 치료가 치매 발생률 감소와 연관됐다는 초기 보도가 나왔지만, 예방 효과로 단정하기엔 이르다는 점에서 4050 여성의 민감한 관심사를 정면으로 건드림",
+      "source": "ScienceDaily, Menopause News, 2026-08-14, https://www.sciencedaily.com/news/health_medicine/menopause/",
       "category": "BODY",
-      "formatType": "해외짜집기",
-      "viralPoint": "저장(속았던 정보 재확인 욕구) + 댓글(내가 썼던 제품/방법 공유)"
+      "formatType": "공포유발",
+      "viralPoint": "공유(갱년기 지인에게 공유하고 싶은 민감 주제)"
     },
     {
-      "topic": "\"몇 시간 잤는지\"보다 \"몇 번 깼는지\"가 노화 속도를 좌우한다",
-      "summary": "영국 바이오뱅크 대규모 분석에서 수면시간보다 수면의 연속성·규칙성이 노화 지표와 더 강하게 연관됨",
-      "source": "Aging Cell(2026.08.26 발표) / 2 Minute Medicine, 2026.09.21, https://www.2minutemedicine.com/2mm-longevity-roundup-sleep-patterns-track-with-biological-aging-earlier-menopause-signals-cognitive-decline-diet-predicts-aging-related-mortality-and-lifestyle-intervention-preserves-mo/",
-      "category": "ENERGY",
-      "formatType": "꿀팁",
-      "viralPoint": "저장(실천 가능한 꿀팁) + 댓글(내 수면패턴 공유)"
-    },
-    {
-      "topic": "\"저탄수화물이 무조건 장수식\"이라던 상식, 4주 임상시험이 뒤집었다",
-      "summary": "65~75세 대상 4주 식단 비교 시험에서 고탄수화물 일반식단이 저탄수화물식보다 생물학적 나이 지표 개선폭이 더 컸던 반전 결과",
-      "source": "Aging Cell(2026.08 발표) / Yahoo Health, 2026.09.16·09.26, https://health.yahoo.com/wellness/healthy-aging/longevity/articles/longevity-study-finds-one-diet-shift-changed-biological-age-103839728.html",
-      "category": "RITUAL",
-      "formatType": "해외짜집기",
-      "viralPoint": "댓글(저탄수화물 vs 고탄수화물 논쟁 유발) + 공유(다이어트 중인 지인 태그)"
+      "topic": "\"건강한 식단이면 다 똑같다\"는 착각, 폐경기엔 안 통한다",
+      "summary": "폐경 전후 여성 11가지 식습관을 비교한 연구에서 저인슐린 식단과 Planetary Health Diet만 체중 증가를 막는",
+      "source": "",
+      "category": "미분류",
+      "formatType": "",
+      "viralPoint": ""
     }
   ],
-  "rawResponse": "주제 1: 텔로미어 정상이어도 소용없다? 근육량이 수명을 더 잘 예측한다는 반전 연구\n한줄요약: \"텔로미어 관리만 하면 된다\"는 저속노화 상식을 뒤집는 최신 관찰연구로, 근육량이 새로운 장수 지표로 부상 중\n출처: Nutrition & Metabolism(2026) / Yahoo Health, 2026.09.26 게시·10.11 업데이트, https://health.yahoo.com/wellness/healthy-aging/longevity/articles/popular-longevity-marker-looked-healthy-182946129.html\n카테고리: BODY\n포맷유형: 생체나이\n바이럴포인트: 저장(기존 상식과 반대되는 정보라 저장 욕구 자극) + 댓글(내 텔로미어/근육 상태 궁금증 유발)\n\n주제 2: \"건망증인 줄 알았는데 폐경이었다\" - 갱년기 브레인포그 91.6% 경험담\n한줄요약: 4050 여성 대다수가 겪는 기억력·집중력 저하를 \"단순 건망증\"으로 오인하는 경우가 많다는 최신 조사 결과\n출처: Utah State University Extension, 2026.08.10 게시·10.03 업데이트, https://extension.usu.edu/midlife-health-menopause/research/understanding-brain-fog-during-menopause\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 공감 댓글(\"나도 그런 줄 알았는데\") + 공유(배우자/친구 태그)\n\n주제 3: \"장 클렌즈로 호르몬 리셋\"은 거짓말? 소비자 매체가 직접 팩트체크한 결과\n한줄요약: 호르몬 밸런스 상품·간헐적단식·장클렌즈 효능 주장에 영국 소비자매체가 제동을 건 최신 팩트체크\n출처: Which?, 2026.09.23 게시·10.02 업데이트, https://www.which.co.uk/news/article/can-you-balance-your-hormones-with-a-healthy-lifestyle-ar4pX9o5503N\n카테고리: BODY\n포맷유형: 해외짜집기\n바이럴포인트: 저장(속았던 정보 재확인 욕구) + 댓글(내가 썼던 제품/방법 공유)\n\n주제 4: \"몇 시간 잤는지\"보다 \"몇 번 깼는지\"가 노화 속도를 좌우한다\n한줄요약: 영국 바이오뱅크 대규모 분석에서 수면시간보다 수면의 연속성·규칙성이 노화 지표와 더 강하게 연관됨\n출처: Aging Cell(2026.08.26 발표) / 2 Minute Medicine, 2026.09.21, https://www.2minutemedicine.com/2mm-longevity-roundup-sleep-patterns-track-with-biological-aging-earlier-menopause-signals-cognitive-decline-diet-predicts-aging-related-mortality-and-lifestyle-intervention-preserves-mo/\n카테고리: ENERGY\n포맷유형: 꿀팁\n바이럴포인트: 저장(실천 가능한 꿀팁) + 댓글(내 수면패턴 공유)\n\n주제 5: \"저탄수화물이 무조건 장수식\"이라던 상식, 4주 임상시험이 뒤집었다\n한줄요약: 65~75세 대상 4주 식단 비교 시험에서 고탄수화물 일반식단이 저탄수화물식보다 생물학적 나이 지표 개선폭이 더 컸던 반전 결과\n출처: Aging Cell(2026.08 발표) / Yahoo Health, 2026.09.16·09.26, https://health.yahoo.com/wellness/healthy-aging/longevity/articles/longevity-study-finds-one-diet-shift-changed-biological-age-103839728.html\n카테고리: RITUAL\n포맷유형: 해외짜집기\n바이럴포인트: 댓글(저탄수화물 vs 고탄수화물 논쟁 유발) + 공유(다이어트 중인 지인 태그)"
+  "rawResponse": "주제 1: 잠은 길수록 좋다? 6.4시간 수면자의 생체나이가 가장 젊었다\n한줄요약: \"잠 많이 자야 건강하다\"는 상식을 뒤집는 연구로, 생물학적 노화 지표 23개 분석 결과 너무 짧거나 긴 수면 모두 노화를 앞당긴다는 결과가 나와 4050 세대의 수면 습관 점검 욕구를 자극함\n출처: ScienceDaily, Menopause News, 2026-08-24, https://www.sciencedaily.com/news/health_medicine/menopause/\n카테고리: ENERGY\n포맷유형: 생체나이\n바이럴포인트: 저장(내 수면시간과 비교해보려는 심리)\n\n주제 2: 장내세균이 내 뇌를 늙게 만들고 있다면\n한줄요약: UCLA 연구에서 특정 장내세균 부산물이 빠른 뇌 노화 지표와 연관되고, '늙어 보이는 뇌'가 기억력·집중력·기분 저하로 이어진다는 결과가 나와 장건강에 대한 불안감을 자극함\n출처: ScienceDaily, Menopause News, 2026-10-04, https://www.sciencedaily.com/news/health_medicine/menopause/\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글(내 장건강 상태 공유·걱정 토로)\n\n주제 3: 호르몬 치료가 치매를 막아준다? 기대와 신중함 사이\n한줄요약: 고령 여성의 에스트로겐 단독 호르몬 치료가 치매 발생률 감소와 연관됐다는 초기 보도가 나왔지만, 예방 효과로 단정하기엔 이르다는 점에서 4050 여성의 민감한 관심사를 정면으로 건드림\n출처: ScienceDaily, Menopause News, 2026-08-14, https://www.sciencedaily.com/news/health_medicine/menopause/\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 공유(갱년기 지인에게 공유하고 싶은 민감 주제)\n\n주제 4: \"건강한 식단이면 다 똑같다\"는 착각, 폐경기엔 안 통한다\n한줄요약: 폐경 전후 여성 11가지 식습관을 비교한 연구에서 저인슐린 식단과 Planetary Health Diet만 체중 증가를 막는 "
 }

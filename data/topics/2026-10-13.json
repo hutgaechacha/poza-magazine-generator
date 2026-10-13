@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T02:25:33.966Z",
+  "topics": [
+    {
+      "topic": "잠은 길수록 좋다? 6.4시간 수면자의 생체나이가 가장 젊었다",
+      "summary": "\"잠 많이 자야 건강하다\"는 상식을 뒤집는 연구로, 생물학적 노화 지표 23개 분석 결과 너무 짧거나 긴 수면 모두 노화를 앞당긴다는 결과가 나와 4050 세대의 수면 습관 점검 욕구를 자극함",
+      "source": "ScienceDaily, Menopause News, 2026-08-24, https://www.sciencedaily.com/news/health_medicine/menopause/",
+      "category": "ENERGY",
+      "formatType": "생체나이",
+      "viralPoint": "저장(내 수면시간과 비교해보려는 심리)"
+    },
+    {
+      "topic": "장내세균이 내 뇌를 늙게 만들고 있다면",
+      "summary": "UCLA 연구에서 특정 장내세균 부산물이 빠른 뇌 노화 지표와 연관되고, '늙어 보이는 뇌'가 기억력·집중력·기분 저하로 이어진다는 결과가 나와 장건강에 대한 불안감을 자극함",
+      "source": "ScienceDaily, Menopause News, 2026-10-04, https://www.sciencedaily.com/news/health_medicine/menopause/",
+      "category": "MIND",
+      "formatType": "공포유발",
+      "viralPoint": "댓글(내 장건강 상태 공유·걱정 토로)"
+    },
+    {
+      "topic": "호르몬 치료가 치매를 막아준다? 기대와 신중함 사이",
+      "summary": "고령 여성의 에스트로겐 단독 호르몬 치료가 치매 발생률 감소와 연관됐다는 초기 보도가 나왔지만, 예방 효과로 단정하기엔 이르다는 점에서 4050 여성의 민감한 관심사를 정면으로 건드림",
+      "source": "ScienceDaily, Menopause News, 2026-08-14, https://www.sciencedaily.com/news/health_medicine/menopause/",
+      "category": "BODY",
+      "formatType": "공포유발",
+      "viralPoint": "공유(갱년기 지인에게 공유하고 싶은 민감 주제)"
+    },
+    {
+      "topic": "\"건강한 식단이면 다 똑같다\"는 착각, 폐경기엔 안 통한다",
+      "summary": "폐경 전후 여성 11가지 식습관을 비교한 연구에서 저인슐린 식단과 Planetary Health Diet만 체중 증가를 막는",
+      "source": "",
+      "category": "미분류",
+      "formatType": "",
+      "viralPoint": ""
+    }
+  ],
+  "rawResponse": "주제 1: 잠은 길수록 좋다? 6.4시간 수면자의 생체나이가 가장 젊었다\n한줄요약: \"잠 많이 자야 건강하다\"는 상식을 뒤집는 연구로, 생물학적 노화 지표 23개 분석 결과 너무 짧거나 긴 수면 모두 노화를 앞당긴다는 결과가 나와 4050 세대의 수면 습관 점검 욕구를 자극함\n출처: ScienceDaily, Menopause News, 2026-08-24, https://www.sciencedaily.com/news/health_medicine/menopause/\n카테고리: ENERGY\n포맷유형: 생체나이\n바이럴포인트: 저장(내 수면시간과 비교해보려는 심리)\n\n주제 2: 장내세균이 내 뇌를 늙게 만들고 있다면\n한줄요약: UCLA 연구에서 특정 장내세균 부산물이 빠른 뇌 노화 지표와 연관되고, '늙어 보이는 뇌'가 기억력·집중력·기분 저하로 이어진다는 결과가 나와 장건강에 대한 불안감을 자극함\n출처: ScienceDaily, Menopause News, 2026-10-04, https://www.sciencedaily.com/news/health_medicine/menopause/\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글(내 장건강 상태 공유·걱정 토로)\n\n주제 3: 호르몬 치료가 치매를 막아준다? 기대와 신중함 사이\n한줄요약: 고령 여성의 에스트로겐 단독 호르몬 치료가 치매 발생률 감소와 연관됐다는 초기 보도가 나왔지만, 예방 효과로 단정하기엔 이르다는 점에서 4050 여성의 민감한 관심사를 정면으로 건드림\n출처: ScienceDaily, Menopause News, 2026-08-14, https://www.sciencedaily.com/news/health_medicine/menopause/\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 공유(갱년기 지인에게 공유하고 싶은 민감 주제)\n\n주제 4: \"건강한 식단이면 다 똑같다\"는 착각, 폐경기엔 안 통한다\n한줄요약: 폐경 전후 여성 11가지 식습관을 비교한 연구에서 저인슐린 식단과 Planetary Health Diet만 체중 증가를 막는 "
+}
