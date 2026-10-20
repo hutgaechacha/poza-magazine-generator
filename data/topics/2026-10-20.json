@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T00:07:08.387Z",
+  "topics": [
+    {
+      "topic": "\"8시간 자면 좋다\"는 상식, 틀렸다",
+      "summary": "50만 명 UK Biobank 데이터서 6.4~7.8시간 잔 집단이 생물학적 노화 지표 가장 낮게 나와 기존 수면 상식 뒤집음",
+      "source": "매일경제, 2026-08-25, \"늘어지게 잤는데 몸상태 왜이래\"…'잠이 보약' 건강상식 틀렸다 (https://www.mk.co.kr/news/it/12135433)",
+      "category": "ENERGY",
+      "formatType": "공포유발",
+      "viralPoint": "댓글(본인 수면시간 재보고 댓글로 공유)"
+    },
+    {
+      "topic": "저탄수화물 식단, 노화 늦추는 최선 아니었다",
+      "summary": "65~75세 104명 대상 4주 식단 실험서 저탄수보다 탄수화물 비중 높은 일반식이 생물학적 나이 변화 더 뚜렷해 저탄수 맹신 흔듦",
+      "source": "Aging Cell 연구 소개, Yahoo Health, 2026-09-16(10-13 업데이트), Older Adults Changed Their Diet for 4 Weeks (https://health.yahoo.com/wellness/healthy-aging/longevity/articles/older-adults-changed-diet-4-185259279.html)",
+      "category": "RITUAL",
+      "formatType": "해외짜집기",
+      "viralPoint": "저장(식단 선택 고민 시 참고용)"
+    },
+    {
+      "topic": "폐경 후 체중보다 무서운 건 근육 손실",
+      "summary": "에스트로겐 감소와 근감소증이 맞물려 낙상·골절 위험 키운다는 논의 확산, 갱년기 건강 체크리스트에 근력 추가해야 함",
+      "source": "University of Colorado Anschutz, 2026-08-20, Is Sarcopenia the New Marker for Postmenopausal Health? (https://news.cuanschutz.edu/medicine/sarcopenia-menopause-research)",
+      "category": "BODY",
+      "formatType": "공포유발",
+      "viralPoint": "공유(또래 여성에게 공유 욕구 자극)"
+    },
+    {
+      "topic": "비싼 항노화 보충제, 생활습관보다 못하다",
+      "summary": "Nature Medicine 분석서 약물·생활습관 개입은 노화 지표와 관련 있었으나 보충제·시술은 근거 불명확·일관성 부족으로 확인",
+      "source": "Medical News Today, 2026-09-05(10-16 업데이트), Longevity: What might actually help slow down aging? (https://www.medicalnewstoday.com/articles/what-can-and-cant-slow-down-aging-new-study-offers-clues)",
+      "category": "TREND",
+      "formatType": "꿀팁",
+      "viralPoint": "저장(보충제 구매 전 체크리스트로 저장)"
+    },
+    {
+      "topic": "운동량보다 중요한 건 낮밤 활동 리듬",
+      "summary": "웨어러블 데이터 분석 결과 걸음 수보다 낮엔 활발하고 밤엔 차분한 규칙적 리듬이 느린 노화와 연관돼 활동 패턴 재점검 필요",
+      "source": "한국일보, 2026-10-14, 천천히 늙는 사람들의 하루는 뭐가 다를까 (https://www.hankookilbo.com/news/article/amp/A2026101309570004801)",
+      "category": "RITUAL",
+      "formatType": "꿀팁",
+      "viralPoint": "저장(하루 루틴 점검용으로 저장)"
+    }
+  ],
+  "rawResponse": "주제 1: \"8시간 자면 좋다\"는 상식, 틀렸다\n한줄요약: 50만 명 UK Biobank 데이터서 6.4~7.8시간 잔 집단이 생물학적 노화 지표 가장 낮게 나와 기존 수면 상식 뒤집음\n출처: 매일경제, 2026-08-25, \"늘어지게 잤는데 몸상태 왜이래\"…'잠이 보약' 건강상식 틀렸다 (https://www.mk.co.kr/news/it/12135433)\n카테고리: ENERGY\n포맷유형: 공포유발\n바이럴포인트: 댓글(본인 수면시간 재보고 댓글로 공유)\n\n주제 2: 저탄수화물 식단, 노화 늦추는 최선 아니었다\n한줄요약: 65~75세 104명 대상 4주 식단 실험서 저탄수보다 탄수화물 비중 높은 일반식이 생물학적 나이 변화 더 뚜렷해 저탄수 맹신 흔듦\n출처: Aging Cell 연구 소개, Yahoo Health, 2026-09-16(10-13 업데이트), Older Adults Changed Their Diet for 4 Weeks (https://health.yahoo.com/wellness/healthy-aging/longevity/articles/older-adults-changed-diet-4-185259279.html)\n카테고리: RITUAL\n포맷유형: 해외짜집기\n바이럴포인트: 저장(식단 선택 고민 시 참고용)\n\n주제 3: 폐경 후 체중보다 무서운 건 근육 손실\n한줄요약: 에스트로겐 감소와 근감소증이 맞물려 낙상·골절 위험 키운다는 논의 확산, 갱년기 건강 체크리스트에 근력 추가해야 함\n출처: University of Colorado Anschutz, 2026-08-20, Is Sarcopenia the New Marker for Postmenopausal Health? (https://news.cuanschutz.edu/medicine/sarcopenia-menopause-research)\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 공유(또래 여성에게 공유 욕구 자극)\n\n주제 4: 비싼 항노화 보충제, 생활습관보다 못하다\n한줄요약: Nature Medicine 분석서 약물·생활습관 개입은 노화 지표와 관련 있었으나 보충제·시술은 근거 불명확·일관성 부족으로 확인\n출처: Medical News Today, 2026-09-05(10-16 업데이트), Longevity: What might actually help slow down aging? (https://www.medicalnewstoday.com/articles/what-can-and-cant-slow-down-aging-new-study-offers-clues)\n카테고리: TREND\n포맷유형: 꿀팁\n바이럴포인트: 저장(보충제 구매 전 체크리스트로 저장)\n\n주제 5: 운동량보다 중요한 건 낮밤 활동 리듬\n한줄요약: 웨어러블 데이터 분석 결과 걸음 수보다 낮엔 활발하고 밤엔 차분한 규칙적 리듬이 느린 노화와 연관돼 활동 패턴 재점검 필요\n출처: 한국일보, 2026-10-14, 천천히 늙는 사람들의 하루는 뭐가 다를까 (https://www.hankookilbo.com/news/article/amp/A2026101309570004801)\n카테고리: RITUAL\n포맷유형: 꿀팁\n바이럴포인트: 저장(하루 루틴 점검용으로 저장)"
+}
