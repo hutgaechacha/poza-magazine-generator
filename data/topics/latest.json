@@ -1,47 +1,47 @@
 {
-  "date": "2026-10-20",
-  "generatedAt": "2026-10-20T00:07:08.387Z",
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-20T23:37:38.648Z",
   "topics": [
     {
-      "topic": "\"8시간 자면 좋다\"는 상식, 틀렸다",
-      "summary": "50만 명 UK Biobank 데이터서 6.4~7.8시간 잔 집단이 생물학적 노화 지표 가장 낮게 나와 기존 수면 상식 뒤집음",
-      "source": "매일경제, 2026-08-25, \"늘어지게 잤는데 몸상태 왜이래\"…'잠이 보약' 건강상식 틀렸다 (https://www.mk.co.kr/news/it/12135433)",
+      "topic": "수면시간보다 \"규칙성\"이 수명을 좌우한다?",
+      "summary": "6만명 분석한 UK Biobank 연구에서 수면 규칙성이 수면시간보다 사망 위험과 더 강하게 연관됨 - \"몇 시간 잤는지\"보다 \"몇 시에 잤는지\"가 중요하다는 반전 메시지",
+      "source": "Welltory, \"Health & Wellness Trends 2026: Science vs Hype,\" 2026-07-22, https://welltory.com/blog/wellness-trends-2026",
       "category": "ENERGY",
       "formatType": "공포유발",
-      "viralPoint": "댓글(본인 수면시간 재보고 댓글로 공유)"
+      "viralPoint": "댓글(본인 수면패턴 불규칙한지 체크하며 공감 유발)"
     },
     {
-      "topic": "저탄수화물 식단, 노화 늦추는 최선 아니었다",
-      "summary": "65~75세 104명 대상 4주 식단 실험서 저탄수보다 탄수화물 비중 높은 일반식이 생물학적 나이 변화 더 뚜렷해 저탄수 맹신 흔듦",
-      "source": "Aging Cell 연구 소개, Yahoo Health, 2026-09-16(10-13 업데이트), Older Adults Changed Their Diet for 4 Weeks (https://health.yahoo.com/wellness/healthy-aging/longevity/articles/older-adults-changed-diet-4-185259279.html)",
-      "category": "RITUAL",
-      "formatType": "해외짜집기",
-      "viralPoint": "저장(식단 선택 고민 시 참고용)"
-    },
-    {
-      "topic": "폐경 후 체중보다 무서운 건 근육 손실",
-      "summary": "에스트로겐 감소와 근감소증이 맞물려 낙상·골절 위험 키운다는 논의 확산, 갱년기 건강 체크리스트에 근력 추가해야 함",
-      "source": "University of Colorado Anschutz, 2026-08-20, Is Sarcopenia the New Marker for Postmenopausal Health? (https://news.cuanschutz.edu/medicine/sarcopenia-menopause-research)",
-      "category": "BODY",
+      "topic": "폐경이 빨리 온 여성, 치매도 빨리 온다?",
+      "summary": "2,603명 분석 연구에서 이른 폐경이 더 빠른 인지기능 저하 및 이른 알츠하이머 진단과 연관됨 - 4050 여성 타겟에게 직접적 공포 자극 가능",
+      "source": "JAMA Network Open 연구(2026-08-25), 2 Minute Medicine 요약, https://www.2minutemedicine.com/2mm-longevity-roundup-sleep-patterns-track-with-biological-aging-earlier-menopause-signals-cognitive-decline-diet-predicts-aging-related-mortality-and-lifestyle-intervention-preserves-mo/",
+      "category": "MIND",
       "formatType": "공포유발",
-      "viralPoint": "공유(또래 여성에게 공유 욕구 자극)"
+      "viralPoint": "저장(본인 폐경 시기 기억해두려는 심리)"
     },
     {
-      "topic": "비싼 항노화 보충제, 생활습관보다 못하다",
-      "summary": "Nature Medicine 분석서 약물·생활습관 개입은 노화 지표와 관련 있었으나 보충제·시술은 근거 불명확·일관성 부족으로 확인",
-      "source": "Medical News Today, 2026-09-05(10-16 업데이트), Longevity: What might actually help slow down aging? (https://www.medicalnewstoday.com/articles/what-can-and-cant-slow-down-aging-new-study-offers-clues)",
-      "category": "TREND",
-      "formatType": "꿀팁",
-      "viralPoint": "저장(보충제 구매 전 체크리스트로 저장)"
+      "topic": "장내세균이 뇌 노화 속도를 결정한다?",
+      "summary": "UCLA 연구에서 특정 장내세균과 대사산물이 뇌 노화 지표 및 기억력·집중력·기분과 연관됨 - 장건강과 뇌건강 연결이라는 신선한 각도",
+      "source": "ScienceDaily, \"A UCLA study links faster brain aging to specific gut bacteria,\" 2026-10-04, https://www.sciencedaily.com/news/health_medicine/staying_healthy/",
+      "category": "BODY",
+      "formatType": "트렌드",
+      "viralPoint": "저장(장건강 관리법 정보성 콘텐츠로 인식)"
     },
     {
-      "topic": "운동량보다 중요한 건 낮밤 활동 리듬",
-      "summary": "웨어러블 데이터 분석 결과 걸음 수보다 낮엔 활발하고 밤엔 차분한 규칙적 리듬이 느린 노화와 연관돼 활동 패턴 재점검 필요",
-      "source": "한국일보, 2026-10-14, 천천히 늙는 사람들의 하루는 뭐가 다를까 (https://www.hankookilbo.com/news/article/amp/A2026101309570004801)",
+      "topic": "\"저속노화 식단 점수\" 19만명 데이터로 밝혀진 공식",
+      "summary": "영국 바이오뱅크 19만명 데이터 기반 MYTH Diet 점수 모델 - 통곡물·견과류는 플러스, 가공육·버터·가당음료는 마이너스라는 구체적 공식 제시",
+      "source": "npj Science of Food 연구(2026년), 2 Minute Medicine 요약, https://www.2minutemedicine.com/2mm-longevity-roundup-sleep-patterns-track-with-biological-aging-earlier-menopause-signals-cognitive-decline-diet-predicts-aging-related-mortality-and-lifestyle-intervention-preserves-mo/",
       "category": "RITUAL",
       "formatType": "꿀팁",
-      "viralPoint": "저장(하루 루틴 점검용으로 저장)"
+      "viralPoint": "저장(식단 체크리스트로 활용 가능)"
+    },
+    {
+      "topic": "마그네슘 수면제, 효과 있다는 근거 생각보다 약하다",
+      "summary": "최신 체계적 문헌고찰에서 마그네슘 수면 개선 효과가 엇갈리고 근거 확실성이 낮다고 지적 - 너도나도 먹는 인기 보충제에 대한 반전 정보",
+      "source": "NutraIngredients, 북미 연구 보도, 2026-10-15, https://www.nutraingredients.com/News/Research/North-America/",
+      "category": "ENERGY",
+      "formatType": "해외짜집기",
+      "viralPoint": "댓글(마그네슘 먹는 사람들 반응 유도, 찬반 논쟁 유발)"
     }
   ],
-  "rawResponse": "주제 1: \"8시간 자면 좋다\"는 상식, 틀렸다\n한줄요약: 50만 명 UK Biobank 데이터서 6.4~7.8시간 잔 집단이 생물학적 노화 지표 가장 낮게 나와 기존 수면 상식 뒤집음\n출처: 매일경제, 2026-08-25, \"늘어지게 잤는데 몸상태 왜이래\"…'잠이 보약' 건강상식 틀렸다 (https://www.mk.co.kr/news/it/12135433)\n카테고리: ENERGY\n포맷유형: 공포유발\n바이럴포인트: 댓글(본인 수면시간 재보고 댓글로 공유)\n\n주제 2: 저탄수화물 식단, 노화 늦추는 최선 아니었다\n한줄요약: 65~75세 104명 대상 4주 식단 실험서 저탄수보다 탄수화물 비중 높은 일반식이 생물학적 나이 변화 더 뚜렷해 저탄수 맹신 흔듦\n출처: Aging Cell 연구 소개, Yahoo Health, 2026-09-16(10-13 업데이트), Older Adults Changed Their Diet for 4 Weeks (https://health.yahoo.com/wellness/healthy-aging/longevity/articles/older-adults-changed-diet-4-185259279.html)\n카테고리: RITUAL\n포맷유형: 해외짜집기\n바이럴포인트: 저장(식단 선택 고민 시 참고용)\n\n주제 3: 폐경 후 체중보다 무서운 건 근육 손실\n한줄요약: 에스트로겐 감소와 근감소증이 맞물려 낙상·골절 위험 키운다는 논의 확산, 갱년기 건강 체크리스트에 근력 추가해야 함\n출처: University of Colorado Anschutz, 2026-08-20, Is Sarcopenia the New Marker for Postmenopausal Health? (https://news.cuanschutz.edu/medicine/sarcopenia-menopause-research)\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 공유(또래 여성에게 공유 욕구 자극)\n\n주제 4: 비싼 항노화 보충제, 생활습관보다 못하다\n한줄요약: Nature Medicine 분석서 약물·생활습관 개입은 노화 지표와 관련 있었으나 보충제·시술은 근거 불명확·일관성 부족으로 확인\n출처: Medical News Today, 2026-09-05(10-16 업데이트), Longevity: What might actually help slow down aging? (https://www.medicalnewstoday.com/articles/what-can-and-cant-slow-down-aging-new-study-offers-clues)\n카테고리: TREND\n포맷유형: 꿀팁\n바이럴포인트: 저장(보충제 구매 전 체크리스트로 저장)\n\n주제 5: 운동량보다 중요한 건 낮밤 활동 리듬\n한줄요약: 웨어러블 데이터 분석 결과 걸음 수보다 낮엔 활발하고 밤엔 차분한 규칙적 리듬이 느린 노화와 연관돼 활동 패턴 재점검 필요\n출처: 한국일보, 2026-10-14, 천천히 늙는 사람들의 하루는 뭐가 다를까 (https://www.hankookilbo.com/news/article/amp/A2026101309570004801)\n카테고리: RITUAL\n포맷유형: 꿀팁\n바이럴포인트: 저장(하루 루틴 점검용으로 저장)"
+  "rawResponse": "주제 1: 수면시간보다 \"규칙성\"이 수명을 좌우한다?\n한줄요약: 6만명 분석한 UK Biobank 연구에서 수면 규칙성이 수면시간보다 사망 위험과 더 강하게 연관됨 - \"몇 시간 잤는지\"보다 \"몇 시에 잤는지\"가 중요하다는 반전 메시지\n출처: Welltory, \"Health & Wellness Trends 2026: Science vs Hype,\" 2026-07-22, https://welltory.com/blog/wellness-trends-2026\n카테고리: ENERGY\n포맷유형: 공포유발\n바이럴포인트: 댓글(본인 수면패턴 불규칙한지 체크하며 공감 유발)\n\n주제 2: 폐경이 빨리 온 여성, 치매도 빨리 온다?\n한줄요약: 2,603명 분석 연구에서 이른 폐경이 더 빠른 인지기능 저하 및 이른 알츠하이머 진단과 연관됨 - 4050 여성 타겟에게 직접적 공포 자극 가능\n출처: JAMA Network Open 연구(2026-08-25), 2 Minute Medicine 요약, https://www.2minutemedicine.com/2mm-longevity-roundup-sleep-patterns-track-with-biological-aging-earlier-menopause-signals-cognitive-decline-diet-predicts-aging-related-mortality-and-lifestyle-intervention-preserves-mo/\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 저장(본인 폐경 시기 기억해두려는 심리)\n\n주제 3: 장내세균이 뇌 노화 속도를 결정한다?\n한줄요약: UCLA 연구에서 특정 장내세균과 대사산물이 뇌 노화 지표 및 기억력·집중력·기분과 연관됨 - 장건강과 뇌건강 연결이라는 신선한 각도\n출처: ScienceDaily, \"A UCLA study links faster brain aging to specific gut bacteria,\" 2026-10-04, https://www.sciencedaily.com/news/health_medicine/staying_healthy/\n카테고리: BODY\n포맷유형: 트렌드\n바이럴포인트: 저장(장건강 관리법 정보성 콘텐츠로 인식)\n\n주제 4: \"저속노화 식단 점수\" 19만명 데이터로 밝혀진 공식\n한줄요약: 영국 바이오뱅크 19만명 데이터 기반 MYTH Diet 점수 모델 - 통곡물·견과류는 플러스, 가공육·버터·가당음료는 마이너스라는 구체적 공식 제시\n출처: npj Science of Food 연구(2026년), 2 Minute Medicine 요약, https://www.2minutemedicine.com/2mm-longevity-roundup-sleep-patterns-track-with-biological-aging-earlier-menopause-signals-cognitive-decline-diet-predicts-aging-related-mortality-and-lifestyle-intervention-preserves-mo/\n카테고리: RITUAL\n포맷유형: 꿀팁\n바이럴포인트: 저장(식단 체크리스트로 활용 가능)\n\n주제 5: 마그네슘 수면제, 효과 있다는 근거 생각보다 약하다\n한줄요약: 최신 체계적 문헌고찰에서 마그네슘 수면 개선 효과가 엇갈리고 근거 확실성이 낮다고 지적 - 너도나도 먹는 인기 보충제에 대한 반전 정보\n출처: NutraIngredients, 북미 연구 보도, 2026-10-15, https://www.nutraingredients.com/News/Research/North-America/\n카테고리: ENERGY\n포맷유형: 해외짜집기\n바이럴포인트: 댓글(마그네슘 먹는 사람들 반응 유도, 찬반 논쟁 유발)"
 }
