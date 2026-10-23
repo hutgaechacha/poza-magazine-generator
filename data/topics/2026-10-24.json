@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-23T23:45:13.651Z",
+  "topics": [
+    {
+      "topic": "매일 낮잠 자는 부모님, 치매 위험 신호일 수 있다",
+      "summary": "65세 이상 995명 10년 추적 결과 매일 낮잠 자는 그룹이 치매 위험 48% 높게 나타나 4050 세대의 부모 걱정을 자극하는 소재임",
+      "source": "Yahoo, 2026년 10월 19일 (Johns Hopkins Bloomberg School of Public Health 연구 소개), https://www.yahoo.com/att/story/older-adults-who-napped-most-days-had-a-48-percent-higher-dementia-risk-and-a-doctor-explains-which-kind-of-nap-carried-the-signal-150000748.html",
+      "category": "MIND",
+      "formatType": "공포유발",
+      "viralPoint": "댓글(부모님 낮잠 습관 공유, 걱정 토로)"
+    },
+    {
+      "topic": "오메가-3, 뇌까지 도달해도 기억력은 안 좋아졌다",
+      "summary": "2년 임상시험에서 오메가-3가 뇌에 전달됐지만 기억력 개선·뇌 위축 방지 효과는 확인되지 않아 보충제 맹신에 경종을 울리는 내용임",
+      "source": "ScienceDaily, Healthy Aging News/Living Well News, 2026년 10월 22일, http://www.sciencedaily.com/news/health_medicine/healthy_aging/",
+      "category": "BODY",
+      "formatType": "공포유발",
+      "viralPoint": "저장(보충제 재고 공유), 댓글(먹고 있었는데 충격)"
+    },
+    {
+      "topic": "수면 시간보다 중요한 건 ‘이 단계’—REM 수면과 83개 질환의 연관성",
+      "summary": "9만5천명 대규모 추적조사에서 REM 수면이 길수록 치매·파킨슨병 등 위험이 낮게 나타나 수면의 질을 다시 보게 만드는 주제임",
+      "source": "ScienceDaily, Staying Healthy News, 2026년 9월 23일; Yahoo Health, 2026년 10월 10일, https://health.yahoo.com/wellness/sleep/articles/scientists-found-sleep-stage-could-120000015.html",
+      "category": "ENERGY",
+      "formatType": "트렌드",
+      "viralPoint": "저장(REM 수면 늘리는 법 찾아보기)"
+    },
+    {
+      "topic": "하루 10분 운동으로도 깊은 잠이 가능하다는 연구",
+      "summary": "텍사스대 연구에서 10분 중강도 활동만으로도 깊은 수면과 연관성이 나타나 바쁜 4050에게 운동 부담을 낮춰주는 실용 메시지임",
+      "source": "ScienceDaily, 2026년 10월 11일(Journal of Physical Activity & Health 소개), https://www.sciencedaily.com/releases/2026/10/261008102721.htm",
+      "category": "ENERGY",
+      "formatType": "꿀팁",
+      "viralPoint": "저장(당장 따라할 루틴)"
+    },
+    {
+      "topic": "매일 4분 근력운동, 고령자 신체 기능 개선 가능성",
+      "summary": "Penn State 연구에서 짧은 4분 근력운동만으로도 이동성·신체 기능 개선 가능성이 보고돼 운동 진입장벽을 낮추는 메시지임",
+      "source": "ScienceDaily, Staying Healthy News, 2026년 10월 21일, https://www.sciencedaily.com/news/health_medicine/staying_healthy/",
+      "category": "RITUAL",
+      "formatType": "꿀팁",
+      "viralPoint": "저장(루틴표 캡처), 공유(부모님께 전달)"
+    }
+  ],
+  "rawResponse": "주제 1: 매일 낮잠 자는 부모님, 치매 위험 신호일 수 있다\n한줄요약: 65세 이상 995명 10년 추적 결과 매일 낮잠 자는 그룹이 치매 위험 48% 높게 나타나 4050 세대의 부모 걱정을 자극하는 소재임\n출처: Yahoo, 2026년 10월 19일 (Johns Hopkins Bloomberg School of Public Health 연구 소개), https://www.yahoo.com/att/story/older-adults-who-napped-most-days-had-a-48-percent-higher-dementia-risk-and-a-doctor-explains-which-kind-of-nap-carried-the-signal-150000748.html\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글(부모님 낮잠 습관 공유, 걱정 토로)\n\n주제 2: 오메가-3, 뇌까지 도달해도 기억력은 안 좋아졌다\n한줄요약: 2년 임상시험에서 오메가-3가 뇌에 전달됐지만 기억력 개선·뇌 위축 방지 효과는 확인되지 않아 보충제 맹신에 경종을 울리는 내용임\n출처: ScienceDaily, Healthy Aging News/Living Well News, 2026년 10월 22일, http://www.sciencedaily.com/news/health_medicine/healthy_aging/\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 저장(보충제 재고 공유), 댓글(먹고 있었는데 충격)\n\n주제 3: 수면 시간보다 중요한 건 ‘이 단계’—REM 수면과 83개 질환의 연관성\n한줄요약: 9만5천명 대규모 추적조사에서 REM 수면이 길수록 치매·파킨슨병 등 위험이 낮게 나타나 수면의 질을 다시 보게 만드는 주제임\n출처: ScienceDaily, Staying Healthy News, 2026년 9월 23일; Yahoo Health, 2026년 10월 10일, https://health.yahoo.com/wellness/sleep/articles/scientists-found-sleep-stage-could-120000015.html\n카테고리: ENERGY\n포맷유형: 트렌드\n바이럴포인트: 저장(REM 수면 늘리는 법 찾아보기)\n\n주제 4: 하루 10분 운동으로도 깊은 잠이 가능하다는 연구\n한줄요약: 텍사스대 연구에서 10분 중강도 활동만으로도 깊은 수면과 연관성이 나타나 바쁜 4050에게 운동 부담을 낮춰주는 실용 메시지임\n출처: ScienceDaily, 2026년 10월 11일(Journal of Physical Activity & Health 소개), https://www.sciencedaily.com/releases/2026/10/261008102721.htm\n카테고리: ENERGY\n포맷유형: 꿀팁\n바이럴포인트: 저장(당장 따라할 루틴)\n\n주제 5: 매일 4분 근력운동, 고령자 신체 기능 개선 가능성\n한줄요약: Penn State 연구에서 짧은 4분 근력운동만으로도 이동성·신체 기능 개선 가능성이 보고돼 운동 진입장벽을 낮추는 메시지임\n출처: ScienceDaily, Staying Healthy News, 2026년 10월 21일, https://www.sciencedaily.com/news/health_medicine/staying_healthy/\n카테고리: RITUAL\n포맷유형: 꿀팁\n바이럴포인트: 저장(루틴표 캡처), 공유(부모님께 전달)"
+}
