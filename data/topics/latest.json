@@ -1,47 +1,31 @@
 {
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-24T22:53:49.874Z",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-25T23:01:40.445Z",
   "topics": [
     {
-      "topic": "뇌에 오메가-3 전달돼도 기억력 못 지킨다?",
-      "summary": "생선기름 보충제 믿고 먹던 4050 세대의 뇌건강 상식을 뒤집는 2년 추적 연구 결과라 공유 욕구 높음",
-      "source": "ScienceDaily, 2026-10-22, \"Millions Take Fish Oil for Brain Health. A Two-year Study Found No Benefit\" (https://www.sciencedaily.com/news/health_medicine/staying_healthy/)",
-      "category": "MIND",
-      "formatType": "공포유발",
-      "viralPoint": "댓글(내가 먹는 영양제 괜찮은지 논쟁 유발)"
-    },
-    {
-      "topic": "\"정답 식단은 없다\" - 7500명 분석한 10가지 저속노화 식단",
-      "summary": "지중해식만 고집할 필요 없다는 대규모 연구로, 식단 선택에 지친 4050에게 해방감과 새 정보 제공",
-      "source": "Nature Communications 연구 보도, ScienceDaily, 2026-10-20, \"Scientists find 10 different diets linked to slower aging\" (https://www.sciencedaily.com/releases/2026/10/261019093439.htm)",
-      "category": "RITUAL",
-      "formatType": "해외짜집기",
-      "viralPoint": "저장(내게 맞는 식단 찾아보기용)"
-    },
-    {
-      "topic": "하루 3000보, 만보 못 채워도 뇌 지킬 수 있다?",
-      "summary": "'만보 걷기' 부담에서 벗어나게 해주는 동시에 알츠하이머 연관성이라는 공포 요소까지 결합된 주제",
-      "source": "ScienceDaily, 2026-10-19자 보도 목록, Staying Healthy News (https://www.sciencedaily.com/news/health_medicine/staying_healthy/)",
-      "category": "MIND",
-      "formatType": "공포유발",
-      "viralPoint": "저장(오늘 걸음 수 체크하고 싶게 만듦)"
-    },
-    {
-      "topic": "근육도 뇌도 '자는 동안' 회복된다 - 성장호르몬의 비밀",
-      "summary": "수면을 단순 휴식이 아닌 회복의 핵심 메커니즘으로 보는 최신 흐름, 운동하는 4050에게 실용적",
-      "source": "ScienceDaily, 2026-10-17 보도, Staying Healthy News (https://www.sciencedaily.com/news/health_medicine/staying_healthy/)",
+      "topic": "평균 수면 6.3시간, 그런데 절반은 \"자도 피곤하다\"",
+      "summary": "수면 관심도는 역대 최고(54%)로 올랐는데 정작 회복은 안 되고 있다는 모순적 데이터가 지금 막 보도됨",
+      "source": "KB금융지주 경영연구소, 《2026 한국 웰니스 보고서》 관련 보도, 2026-10-25 (Straight News, https://www.straightnews.co.kr/news/articleView.html?idxno=313870 / 직썰, https://www.ziksir.com/news/articleView.html?idxno=150624)",
       "category": "ENERGY",
-      "formatType": "꿀팁",
-      "viralPoint": "저장(수면 루틴 개선 팁으로 활용)"
+      "formatType": "공포유발",
+      "viralPoint": "저장 (내 수면시간과 비교해보게 만드는 체크형 콘텐츠)"
     },
     {
-      "topic": "식단 신경 쓰는데 왜 더 피곤하고 아플까 - 미국인 64% 다이어트 vs 체감건강 40%",
-      "summary": "열심히 먹고 관리해도 체감 건강은 역대 최저라는 간극, 4050의 공감과 자기점검 욕구 자극",
-      "source": "국제식품정보위원회(IFIC) 2026 Food & Health Survey, GlobeNewswire, 2026-10-07, \"Trying Harder, Yet Feeling Worse? Americans' Self-Reported Health Status Hits a Record Low\" (https://markets.financialcontent.com/theantlersamerican/article/gnwcq-2026-10-7-trying-harder-yet-feeling-worse-americans-self-reported-health-status-hits-a-record-low)",
-      "category": "TREND",
-      "formatType": "트렌드",
-      "viralPoint": "댓글(나도 그런가? 공감 토로 유도)"
+      "topic": "살 빠지는 주사, 근육부터 빠진다는 경고",
+      "summary": "GLP-1 비만치료제 사용경험 10.3%로 급증하는 가운데, 미국 의료진 76%가 근손실을 '건강한 노화'의 최대 위협으로 지목",
+      "source": "국내 조사 관련 보도, 2026-10-25 (Straight News, https://www.straightnews.co.kr/news/articleView.html?idxno=313870); U.S. News & World Report, \"5 Habits That Matter More Than Biohacks: 2026 Healthy Aging Survey\", 2026-09-01 (https://health.usnews.com/wellness/articles/2026-healthy-aging-survey-5-proven-habits-that-matter-more-than-biohacks)",
+      "category": "BODY",
+      "formatType": "공포유발",
+      "viralPoint": "공유 (GLP-1 사용 지인에게 공유할 만한 경고성 정보)"
+    },
+    {
+      "topic": "\"건강하게 늙고",
+      "summary": "",
+      "source": "",
+      "category": "미분류",
+      "formatType": "",
+      "viralPoint": ""
     }
   ],
-  "rawResponse": "주제 1: 뇌에 오메가-3 전달돼도 기억력 못 지킨다?\n한줄요약: 생선기름 보충제 믿고 먹던 4050 세대의 뇌건강 상식을 뒤집는 2년 추적 연구 결과라 공유 욕구 높음\n출처: ScienceDaily, 2026-10-22, \"Millions Take Fish Oil for Brain Health. A Two-year Study Found No Benefit\" (https://www.sciencedaily.com/news/health_medicine/staying_healthy/)\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글(내가 먹는 영양제 괜찮은지 논쟁 유발)\n\n주제 2: \"정답 식단은 없다\" - 7500명 분석한 10가지 저속노화 식단\n한줄요약: 지중해식만 고집할 필요 없다는 대규모 연구로, 식단 선택에 지친 4050에게 해방감과 새 정보 제공\n출처: Nature Communications 연구 보도, ScienceDaily, 2026-10-20, \"Scientists find 10 different diets linked to slower aging\" (https://www.sciencedaily.com/releases/2026/10/261019093439.htm)\n카테고리: RITUAL\n포맷유형: 해외짜집기\n바이럴포인트: 저장(내게 맞는 식단 찾아보기용)\n\n주제 3: 하루 3000보, 만보 못 채워도 뇌 지킬 수 있다?\n한줄요약: '만보 걷기' 부담에서 벗어나게 해주는 동시에 알츠하이머 연관성이라는 공포 요소까지 결합된 주제\n출처: ScienceDaily, 2026-10-19자 보도 목록, Staying Healthy News (https://www.sciencedaily.com/news/health_medicine/staying_healthy/)\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 저장(오늘 걸음 수 체크하고 싶게 만듦)\n\n주제 4: 근육도 뇌도 '자는 동안' 회복된다 - 성장호르몬의 비밀\n한줄요약: 수면을 단순 휴식이 아닌 회복의 핵심 메커니즘으로 보는 최신 흐름, 운동하는 4050에게 실용적\n출처: ScienceDaily, 2026-10-17 보도, Staying Healthy News (https://www.sciencedaily.com/news/health_medicine/staying_healthy/)\n카테고리: ENERGY\n포맷유형: 꿀팁\n바이럴포인트: 저장(수면 루틴 개선 팁으로 활용)\n\n주제 5: 식단 신경 쓰는데 왜 더 피곤하고 아플까 - 미국인 64% 다이어트 vs 체감건강 40%\n한줄요약: 열심히 먹고 관리해도 체감 건강은 역대 최저라는 간극, 4050의 공감과 자기점검 욕구 자극\n출처: 국제식품정보위원회(IFIC) 2026 Food & Health Survey, GlobeNewswire, 2026-10-07, \"Trying Harder, Yet Feeling Worse? Americans' Self-Reported Health Status Hits a Record Low\" (https://markets.financialcontent.com/theantlersamerican/article/gnwcq-2026-10-7-trying-harder-yet-feeling-worse-americans-self-reported-health-status-hits-a-record-low)\n카테고리: TREND\n포맷유형: 트렌드\n바이럴포인트: 댓글(나도 그런가? 공감 토로 유도)"
+  "rawResponse": "주제 1: 평균 수면 6.3시간, 그런데 절반은 \"자도 피곤하다\"\n한줄요약: 수면 관심도는 역대 최고(54%)로 올랐는데 정작 회복은 안 되고 있다는 모순적 데이터가 지금 막 보도됨\n출처: KB금융지주 경영연구소, 《2026 한국 웰니스 보고서》 관련 보도, 2026-10-25 (Straight News, https://www.straightnews.co.kr/news/articleView.html?idxno=313870 / 직썰, https://www.ziksir.com/news/articleView.html?idxno=150624)\n카테고리: ENERGY\n포맷유형: 공포유발\n바이럴포인트: 저장 (내 수면시간과 비교해보게 만드는 체크형 콘텐츠)\n\n주제 2: 살 빠지는 주사, 근육부터 빠진다는 경고\n한줄요약: GLP-1 비만치료제 사용경험 10.3%로 급증하는 가운데, 미국 의료진 76%가 근손실을 '건강한 노화'의 최대 위협으로 지목\n출처: 국내 조사 관련 보도, 2026-10-25 (Straight News, https://www.straightnews.co.kr/news/articleView.html?idxno=313870); U.S. News & World Report, \"5 Habits That Matter More Than Biohacks: 2026 Healthy Aging Survey\", 2026-09-01 (https://health.usnews.com/wellness/articles/2026-healthy-aging-survey-5-proven-habits-that-matter-more-than-biohacks)\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 공유 (GLP-1 사용 지인에게 공유할 만한 경고성 정보)\n\n주제 3: \"건강하게 늙고 "
 }
