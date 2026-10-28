@@ -1,47 +1,47 @@
 {
-  "date": "2026-10-27",
-  "generatedAt": "2026-10-27T00:14:49.274Z",
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T00:15:27.209Z",
   "topics": [
     {
-      "topic": "건강 관심 1위는 '수면'인데, 실제 수면시간은 더 줄었다",
-      "summary": "4050이 가장 신경 쓰는 건강 영역 1위가 수면인데도 평균 수면시간은 작년보다 더 줄어든 역설적 현상이 최신 보고서로 확인됨",
-      "source": "KB금융지주 경영연구소, 《2026 한국 웰니스 보고서》, 2026-10-26 보도 (http://www.nbnnews.co.kr/news/articleView.html?idxno=1065011) / 2026-10-25 네이버 뉴스 (https://n.news.naver.com/mnews/article/138/0002245898)",
-      "category": "ENERGY",
-      "formatType": "트렌드",
-      "viralPoint": "댓글 (나는 몇 시간 자는지 공유하는 반응 유도)"
-    },
-    {
-      "topic": "갱년기 다이어트약, 살은 빠져도 근육·뼈가 함께 빠진다",
-      "summary": "호르몬치료+GLP-1 비만약 병용이 체중감량엔 효과적이지만 근육·뼈 손실 위험이 함께 거론되며 4050 여성에게 직접적인 경고 메시지가 됨",
-      "source": "미국 Menopause Society 보도자료, 2026-10-08 (https://menopause.org/press-releases/hormone-therapy-may-increase-weight-loss-effectiveness-of-glp-1s) / Everyday Health, 2026-10-20",
+      "topic": "폐경은 서서히 오지 않는다, '전신 절벽'처럼 온다",
+      "summary": "100만명 이상 데이터 분석 결과 폐경 전후로 뼈·간·신장·지질 수치가 급격히 무너지는 '절벽' 패턴이 확인돼 4050 여성에게 경고 신호가 될 만함",
+      "source": "Nature Medicine 연구, 2026년 10월 12일 보도 (Medical Xpress, https://medicalxpress.com/news/2026-10-menopause-body-wide-physiological-cliff.html)",
       "category": "BODY",
       "formatType": "공포유발",
-      "viralPoint": "저장 (체중감량 전 꼭 알아야 할 경고로 저장 유도)"
+      "viralPoint": "저장"
     },
     {
-      "topic": "영양제 여러 개 한꺼번에 먹다간 간이 상한다 - 정부가 제동 걸었다",
-      "summary": "식약처가 기능성 원료 중복 섭취 관리 강화를 추진 중이라는 소식으로, 보충제 여러 개 '스택' 복용하는 4050에게 직접적 경각심을 줌",
-      "source": "뉴스1, 2026-10-23/10-26 업데이트 (https://www.news1.kr/bio/welfare-medical/6330154)",
-      "category": "BODY",
-      "formatType": "꿀팁",
-      "viralPoint": "저장 (내가 먹는 영양제 성분표 체크리스트로 저장 유도)"
-    },
-    {
-      "topic": "\"장이 좋아지면 멘탈도 좋아진다\"는 말, 얼마나 사실일까",
-      "summary": "최신 해외 RCT 체계적 고찰에서 프로바이오틱스가 우울·불안·수면 개선 가능성은 보였지만 스트레스(코르티솔) 효과는 들쭉날쭉하다는 결과가 나와 '장-뇌 축' 열풍에 균형 잡힌 시각 제공",
-      "source": "PMC 체계적 문헌고찰, 2026-09-01 (https://pmc.ncbi.nlm.nih.gov/articles/PMC13538292/) / PMC, 2026-09-04 (https://pmc.ncbi.nlm.nih.gov/articles/PMC13567437/)",
+      "topic": "내 몸이 보내는 신호, 10명 중 7명은 못 알아챘다",
+      "summary": "갱년기 증상(수면장애·불안·관절통·기억력저하)을 다른 문제로 착각한 여성이 70%에 달한다는 설문 결과로 자가진단 체크리스트형 콘텐츠에 적합",
+      "source": "Charlotte Observer, 2026년 10월 21일 (https://www.charlotteobserver.com/health-wellness/article317720868.html)",
       "category": "MIND",
-      "formatType": "해외짜집기",
-      "viralPoint": "공유 (장건강 챙기는 지인에게 공유할 팩트체크 콘텐츠)"
+      "formatType": "공포유발",
+      "viralPoint": "댓글"
     },
     {
-      "topic": "깜빡깜빡하는 게 갱년기 때문만은 아니다 - 브레인포그의 진짜 원인",
-      "summary": "갱년기 집중력 저하에 대한 최신 연구 정리에서 일부 약물이 주관적 개선은 보였지만 실제 작업기억·주의력은 개선되지 않아, 노화 탓으로만 돌리기 전에 수면·스트레스·갱년기를 함께 봐야 한다는 시각 제공",
-      "source": "AARP, 2026-10-23/10-26 업데이트 (https://www.aarp.org/health/conditions",
-      "category": "미분류",
-      "formatType": "",
-      "viralPoint": ""
+      "topic": "살은 빠졌는데 근육이 사라졌다 - GLP-1의 숨겨진 함정",
+      "summary": "체중 감량제로 빠진 무게 중 상당 부분이 근육이라는 리뷰 결과가 나오며, 중장년층 감량 방식 자체를 재점검해야 한다는 경고가 떠오름",
+      "source": "The Lancet Obstetrics, Gynaecology, & Women's Health 리뷰, 2026년 9월 29일 (보도: Nutritional Outlook, 2026년 10월 5일, https://www.nutritionaloutlook.com/view/lancet-review-flags-lean-mass-loss-access-barriers-women-glp-1s)",
+      "category": "BODY",
+      "formatType": "공포유발",
+      "viralPoint": "저장"
+    },
+    {
+      "topic": "전문가 63명이 말하는 '안티에이징의 진실' - 바이오해킹보다 이것부터",
+      "summary": "웨어러블·AI코칭 같은 첨단 솔루션보다 운동과 영양 밀도 높은 식사가 노화 관리 1순위라는 전문가 설문이 나와 기본기 중심 저속노화 담론에 힘을 실음",
+      "source": "U.S. News & World Report, 2026년 8월 17일(9월 1일 업데이트) (https://www.usnews.com/info/blogs/press-room/articles/2026-09-01/u-s-news-world-report-survey-health-experts-rank-core-lifestyle-habits-ahead-of-biohacks-for-longevity)",
+      "category": "TREND",
+      "formatType": "해외짜집기",
+      "viralPoint": "저장"
+    },
+    {
+      "topic": "'갱년기'라는 말 대신 '호르몬 밸런스' - 이름이 바뀐 이유",
+      "summary": "소비자들이 폐경이라는 단어를 피하고 호르몬 밸런스로 바꿔 부르는 시장 변화가 포착되며, 중년 여성의 인식 변화와 소비 트렌드를 동시에 보여줌",
+      "source": "NutraIngredients, 2026년 10월 6일 (https://www.nutraingredients.com/Article/2026/10/06/women-still-want-menopause-relief-they-have-stopped-calling-it-menopause/)",
+      "category": "TREND",
+      "formatType": "트렌드",
+      "viralPoint": "공유"
     }
   ],
-  "rawResponse": "주제 1: 건강 관심 1위는 '수면'인데, 실제 수면시간은 더 줄었다\n한줄요약: 4050이 가장 신경 쓰는 건강 영역 1위가 수면인데도 평균 수면시간은 작년보다 더 줄어든 역설적 현상이 최신 보고서로 확인됨\n출처: KB금융지주 경영연구소, 《2026 한국 웰니스 보고서》, 2026-10-26 보도 (http://www.nbnnews.co.kr/news/articleView.html?idxno=1065011) / 2026-10-25 네이버 뉴스 (https://n.news.naver.com/mnews/article/138/0002245898)\n카테고리: ENERGY\n포맷유형: 트렌드\n바이럴포인트: 댓글 (나는 몇 시간 자는지 공유하는 반응 유도)\n\n주제 2: 갱년기 다이어트약, 살은 빠져도 근육·뼈가 함께 빠진다\n한줄요약: 호르몬치료+GLP-1 비만약 병용이 체중감량엔 효과적이지만 근육·뼈 손실 위험이 함께 거론되며 4050 여성에게 직접적인 경고 메시지가 됨\n출처: 미국 Menopause Society 보도자료, 2026-10-08 (https://menopause.org/press-releases/hormone-therapy-may-increase-weight-loss-effectiveness-of-glp-1s) / Everyday Health, 2026-10-20\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 저장 (체중감량 전 꼭 알아야 할 경고로 저장 유도)\n\n주제 3: 영양제 여러 개 한꺼번에 먹다간 간이 상한다 - 정부가 제동 걸었다\n한줄요약: 식약처가 기능성 원료 중복 섭취 관리 강화를 추진 중이라는 소식으로, 보충제 여러 개 '스택' 복용하는 4050에게 직접적 경각심을 줌\n출처: 뉴스1, 2026-10-23/10-26 업데이트 (https://www.news1.kr/bio/welfare-medical/6330154)\n카테고리: BODY\n포맷유형: 꿀팁\n바이럴포인트: 저장 (내가 먹는 영양제 성분표 체크리스트로 저장 유도)\n\n주제 4: \"장이 좋아지면 멘탈도 좋아진다\"는 말, 얼마나 사실일까\n한줄요약: 최신 해외 RCT 체계적 고찰에서 프로바이오틱스가 우울·불안·수면 개선 가능성은 보였지만 스트레스(코르티솔) 효과는 들쭉날쭉하다는 결과가 나와 '장-뇌 축' 열풍에 균형 잡힌 시각 제공\n출처: PMC 체계적 문헌고찰, 2026-09-01 (https://pmc.ncbi.nlm.nih.gov/articles/PMC13538292/) / PMC, 2026-09-04 (https://pmc.ncbi.nlm.nih.gov/articles/PMC13567437/)\n카테고리: MIND\n포맷유형: 해외짜집기\n바이럴포인트: 공유 (장건강 챙기는 지인에게 공유할 팩트체크 콘텐츠)\n\n주제 5: 깜빡깜빡하는 게 갱년기 때문만은 아니다 - 브레인포그의 진짜 원인\n한줄요약: 갱년기 집중력 저하에 대한 최신 연구 정리에서 일부 약물이 주관적 개선은 보였지만 실제 작업기억·주의력은 개선되지 않아, 노화 탓으로만 돌리기 전에 수면·스트레스·갱년기를 함께 봐야 한다는 시각 제공\n출처: AARP, 2026-10-23/10-26 업데이트 (https://www.aarp.org/health/conditions"
+  "rawResponse": "주제 1: 폐경은 서서히 오지 않는다, '전신 절벽'처럼 온다\n한줄요약: 100만명 이상 데이터 분석 결과 폐경 전후로 뼈·간·신장·지질 수치가 급격히 무너지는 '절벽' 패턴이 확인돼 4050 여성에게 경고 신호가 될 만함\n출처: Nature Medicine 연구, 2026년 10월 12일 보도 (Medical Xpress, https://medicalxpress.com/news/2026-10-menopause-body-wide-physiological-cliff.html)\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 저장\n\n주제 2: 내 몸이 보내는 신호, 10명 중 7명은 못 알아챘다\n한줄요약: 갱년기 증상(수면장애·불안·관절통·기억력저하)을 다른 문제로 착각한 여성이 70%에 달한다는 설문 결과로 자가진단 체크리스트형 콘텐츠에 적합\n출처: Charlotte Observer, 2026년 10월 21일 (https://www.charlotteobserver.com/health-wellness/article317720868.html)\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글\n\n주제 3: 살은 빠졌는데 근육이 사라졌다 - GLP-1의 숨겨진 함정\n한줄요약: 체중 감량제로 빠진 무게 중 상당 부분이 근육이라는 리뷰 결과가 나오며, 중장년층 감량 방식 자체를 재점검해야 한다는 경고가 떠오름\n출처: The Lancet Obstetrics, Gynaecology, & Women's Health 리뷰, 2026년 9월 29일 (보도: Nutritional Outlook, 2026년 10월 5일, https://www.nutritionaloutlook.com/view/lancet-review-flags-lean-mass-loss-access-barriers-women-glp-1s)\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 저장\n\n주제 4: 전문가 63명이 말하는 '안티에이징의 진실' - 바이오해킹보다 이것부터\n한줄요약: 웨어러블·AI코칭 같은 첨단 솔루션보다 운동과 영양 밀도 높은 식사가 노화 관리 1순위라는 전문가 설문이 나와 기본기 중심 저속노화 담론에 힘을 실음\n출처: U.S. News & World Report, 2026년 8월 17일(9월 1일 업데이트) (https://www.usnews.com/info/blogs/press-room/articles/2026-09-01/u-s-news-world-report-survey-health-experts-rank-core-lifestyle-habits-ahead-of-biohacks-for-longevity)\n카테고리: TREND\n포맷유형: 해외짜집기\n바이럴포인트: 저장\n\n주제 5: '갱년기'라는 말 대신 '호르몬 밸런스' - 이름이 바뀐 이유\n한줄요약: 소비자들이 폐경이라는 단어를 피하고 호르몬 밸런스로 바꿔 부르는 시장 변화가 포착되며, 중년 여성의 인식 변화와 소비 트렌드를 동시에 보여줌\n출처: NutraIngredients, 2026년 10월 6일 (https://www.nutraingredients.com/Article/2026/10/06/women-still-want-menopause-relief-they-have-stopped-calling-it-menopause/)\n카테고리: TREND\n포맷유형: 트렌드\n바이럴포인트: 공유"
 }
