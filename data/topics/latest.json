@@ -1,47 +1,47 @@
 {
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-28T00:15:27.209Z",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T00:36:40.164Z",
   "topics": [
     {
-      "topic": "폐경은 서서히 오지 않는다, '전신 절벽'처럼 온다",
-      "summary": "100만명 이상 데이터 분석 결과 폐경 전후로 뼈·간·신장·지질 수치가 급격히 무너지는 '절벽' 패턴이 확인돼 4050 여성에게 경고 신호가 될 만함",
-      "source": "Nature Medicine 연구, 2026년 10월 12일 보도 (Medical Xpress, https://medicalxpress.com/news/2026-10-menopause-body-wide-physiological-cliff.html)",
+      "topic": "\"생리적 절벽\" - 폐경기, 어느 날 갑자기 몸이 무너지는 변곡점이 있다?",
+      "summary": "100만 명 데이터 분석에서 폐경 전후 여러 건강 지표가 급변하는 시점이 포착되며 \"서서히 늙는 게 아니다\"는 공포성 화제가 됨",
+      "source": "Nature Medicine, 2026년 10월 12일 / Newsweek 보도(https://www.newsweek.com/scientists-find-sudden-health-changes-menopause-12559329)",
       "category": "BODY",
       "formatType": "공포유발",
-      "viralPoint": "저장"
+      "viralPoint": "댓글(본인/가족 경험담 유발), 저장(체크리스트성)"
     },
     {
-      "topic": "내 몸이 보내는 신호, 10명 중 7명은 못 알아챘다",
-      "summary": "갱년기 증상(수면장애·불안·관절통·기억력저하)을 다른 문제로 착각한 여성이 70%에 달한다는 설문 결과로 자가진단 체크리스트형 콘텐츠에 적합",
-      "source": "Charlotte Observer, 2026년 10월 21일 (https://www.charlotteobserver.com/health-wellness/article317720868.html)",
+      "topic": "운동이 갱년기 통증을 줄인다? \"연관성\"과 \"효과\"는 다르다",
+      "summary": "3,523명 분석에서 운동하는 여성이 전신 통증 보고가 적었지만, 연구진도 \"인과관계 아님\"을 강조해 정보 오남용 논쟁거리",
+      "source": "Menopause 저널, 2026년 10월 13일 / PubMed(https://pubmed.ncbi.nlm.nih.gov/42868076/)",
+      "category": "BODY",
+      "formatType": "공포유발",
+      "viralPoint": "댓글(찬반 유발 - \"그럼 운동 안 하면?\")"
+    },
+    {
+      "topic": "체력 좋은 노인은 뇌도 젊다? - 심폐 체력과 뇌 구조의 숨겨진 상관관계",
+      "summary": "심폐 체력 높은 노인일수록 회백질·측두엽이 두꺼운 경향이 확인돼 \"운동=뇌 노화 방지\" 기대감 확산 중이나 인과관계는 미입증",
+      "source": "npj Aging, 2026년 9월 17일 / 다음뉴스(https://v.daum.net/v/20260918113207546)",
       "category": "MIND",
-      "formatType": "공포유발",
-      "viralPoint": "댓글"
+      "formatType": "생체나이",
+      "viralPoint": "저장(자가 체크 욕구 자극)"
     },
     {
-      "topic": "살은 빠졌는데 근육이 사라졌다 - GLP-1의 숨겨진 함정",
-      "summary": "체중 감량제로 빠진 무게 중 상당 부분이 근육이라는 리뷰 결과가 나오며, 중장년층 감량 방식 자체를 재점검해야 한다는 경고가 떠오름",
-      "source": "The Lancet Obstetrics, Gynaecology, & Women's Health 리뷰, 2026년 9월 29일 (보도: Nutritional Outlook, 2026년 10월 5일, https://www.nutritionaloutlook.com/view/lancet-review-flags-lean-mass-loss-access-barriers-women-glp-1s)",
-      "category": "BODY",
-      "formatType": "공포유발",
-      "viralPoint": "저장"
+      "topic": "한국인 건강 관심 1위는 '수면'인데, 실제 수면시간은 더 줄었다",
+      "summary": "수면·스트레스 관리 관심도가 체중·식단을 제쳤지만 평균 수면시간은 6.3시간에 불과해 \"관심과 실천의 괴리\" 지적",
+      "source": "KB금융지주 「2026 한국 웰니스 보고서」/ 아시아타임즈 2026.10.25(https://www.asiatime.co.kr/article/20261025500065), 아시아경제 2026.10.25(https://view.asiae.co.kr/article/2026102510534121577)",
+      "category": "ENERGY",
+      "formatType": "꿀팁",
+      "viralPoint": "공유(내 얘기 같다는 공감대)"
     },
     {
-      "topic": "전문가 63명이 말하는 '안티에이징의 진실' - 바이오해킹보다 이것부터",
-      "summary": "웨어러블·AI코칭 같은 첨단 솔루션보다 운동과 영양 밀도 높은 식사가 노화 관리 1순위라는 전문가 설문이 나와 기본기 중심 저속노화 담론에 힘을 실음",
-      "source": "U.S. News & World Report, 2026년 8월 17일(9월 1일 업데이트) (https://www.usnews.com/info/blogs/press-room/articles/2026-09-01/u-s-news-world-report-survey-health-experts-rank-core-lifestyle-habits-ahead-of-biohacks-for-longevity)",
-      "category": "TREND",
-      "formatType": "해외짜집기",
-      "viralPoint": "저장"
-    },
-    {
-      "topic": "'갱년기'라는 말 대신 '호르몬 밸런스' - 이름이 바뀐 이유",
-      "summary": "소비자들이 폐경이라는 단어를 피하고 호르몬 밸런스로 바꿔 부르는 시장 변화가 포착되며, 중년 여성의 인식 변화와 소비 트렌드를 동시에 보여줌",
-      "source": "NutraIngredients, 2026년 10월 6일 (https://www.nutraingredients.com/Article/2026/10/06/women-still-want-menopause-relief-they-have-stopped-calling-it-menopause/)",
-      "category": "TREND",
+      "topic": "멜라토닌·테아닌 매출 9배 급증 - '꿀잠 아이템', 효과보다 불안 마케팅?",
+      "summary": "수면보조제 매출 급증이 보도됐지만 \"판매량=효능 증명 아님\"이라는 경고가 함께 제기되며 소비자 혼란 가중",
+      "source": "한국경제, 2026년 10월 28일(https://www.hankyung.com/article/202610281704i)",
+      "category": "RITUAL",
       "formatType": "트렌드",
-      "viralPoint": "공유"
+      "viralPoint": "댓글(내가 먹는 제품 효과 있나 갑론을박)"
     }
   ],
-  "rawResponse": "주제 1: 폐경은 서서히 오지 않는다, '전신 절벽'처럼 온다\n한줄요약: 100만명 이상 데이터 분석 결과 폐경 전후로 뼈·간·신장·지질 수치가 급격히 무너지는 '절벽' 패턴이 확인돼 4050 여성에게 경고 신호가 될 만함\n출처: Nature Medicine 연구, 2026년 10월 12일 보도 (Medical Xpress, https://medicalxpress.com/news/2026-10-menopause-body-wide-physiological-cliff.html)\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 저장\n\n주제 2: 내 몸이 보내는 신호, 10명 중 7명은 못 알아챘다\n한줄요약: 갱년기 증상(수면장애·불안·관절통·기억력저하)을 다른 문제로 착각한 여성이 70%에 달한다는 설문 결과로 자가진단 체크리스트형 콘텐츠에 적합\n출처: Charlotte Observer, 2026년 10월 21일 (https://www.charlotteobserver.com/health-wellness/article317720868.html)\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글\n\n주제 3: 살은 빠졌는데 근육이 사라졌다 - GLP-1의 숨겨진 함정\n한줄요약: 체중 감량제로 빠진 무게 중 상당 부분이 근육이라는 리뷰 결과가 나오며, 중장년층 감량 방식 자체를 재점검해야 한다는 경고가 떠오름\n출처: The Lancet Obstetrics, Gynaecology, & Women's Health 리뷰, 2026년 9월 29일 (보도: Nutritional Outlook, 2026년 10월 5일, https://www.nutritionaloutlook.com/view/lancet-review-flags-lean-mass-loss-access-barriers-women-glp-1s)\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 저장\n\n주제 4: 전문가 63명이 말하는 '안티에이징의 진실' - 바이오해킹보다 이것부터\n한줄요약: 웨어러블·AI코칭 같은 첨단 솔루션보다 운동과 영양 밀도 높은 식사가 노화 관리 1순위라는 전문가 설문이 나와 기본기 중심 저속노화 담론에 힘을 실음\n출처: U.S. News & World Report, 2026년 8월 17일(9월 1일 업데이트) (https://www.usnews.com/info/blogs/press-room/articles/2026-09-01/u-s-news-world-report-survey-health-experts-rank-core-lifestyle-habits-ahead-of-biohacks-for-longevity)\n카테고리: TREND\n포맷유형: 해외짜집기\n바이럴포인트: 저장\n\n주제 5: '갱년기'라는 말 대신 '호르몬 밸런스' - 이름이 바뀐 이유\n한줄요약: 소비자들이 폐경이라는 단어를 피하고 호르몬 밸런스로 바꿔 부르는 시장 변화가 포착되며, 중년 여성의 인식 변화와 소비 트렌드를 동시에 보여줌\n출처: NutraIngredients, 2026년 10월 6일 (https://www.nutraingredients.com/Article/2026/10/06/women-still-want-menopause-relief-they-have-stopped-calling-it-menopause/)\n카테고리: TREND\n포맷유형: 트렌드\n바이럴포인트: 공유"
+  "rawResponse": "주제 1: \"생리적 절벽\" - 폐경기, 어느 날 갑자기 몸이 무너지는 변곡점이 있다?\n한줄요약: 100만 명 데이터 분석에서 폐경 전후 여러 건강 지표가 급변하는 시점이 포착되며 \"서서히 늙는 게 아니다\"는 공포성 화제가 됨\n출처: Nature Medicine, 2026년 10월 12일 / Newsweek 보도(https://www.newsweek.com/scientists-find-sudden-health-changes-menopause-12559329)\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 댓글(본인/가족 경험담 유발), 저장(체크리스트성)\n\n주제 2: 운동이 갱년기 통증을 줄인다? \"연관성\"과 \"효과\"는 다르다\n한줄요약: 3,523명 분석에서 운동하는 여성이 전신 통증 보고가 적었지만, 연구진도 \"인과관계 아님\"을 강조해 정보 오남용 논쟁거리\n출처: Menopause 저널, 2026년 10월 13일 / PubMed(https://pubmed.ncbi.nlm.nih.gov/42868076/)\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 댓글(찬반 유발 - \"그럼 운동 안 하면?\")\n\n주제 3: 체력 좋은 노인은 뇌도 젊다? - 심폐 체력과 뇌 구조의 숨겨진 상관관계\n한줄요약: 심폐 체력 높은 노인일수록 회백질·측두엽이 두꺼운 경향이 확인돼 \"운동=뇌 노화 방지\" 기대감 확산 중이나 인과관계는 미입증\n출처: npj Aging, 2026년 9월 17일 / 다음뉴스(https://v.daum.net/v/20260918113207546)\n카테고리: MIND\n포맷유형: 생체나이\n바이럴포인트: 저장(자가 체크 욕구 자극)\n\n주제 4: 한국인 건강 관심 1위는 '수면'인데, 실제 수면시간은 더 줄었다\n한줄요약: 수면·스트레스 관리 관심도가 체중·식단을 제쳤지만 평균 수면시간은 6.3시간에 불과해 \"관심과 실천의 괴리\" 지적\n출처: KB금융지주 「2026 한국 웰니스 보고서」/ 아시아타임즈 2026.10.25(https://www.asiatime.co.kr/article/20261025500065), 아시아경제 2026.10.25(https://view.asiae.co.kr/article/2026102510534121577)\n카테고리: ENERGY\n포맷유형: 꿀팁\n바이럴포인트: 공유(내 얘기 같다는 공감대)\n\n주제 5: 멜라토닌·테아닌 매출 9배 급증 - '꿀잠 아이템', 효과보다 불안 마케팅?\n한줄요약: 수면보조제 매출 급증이 보도됐지만 \"판매량=효능 증명 아님\"이라는 경고가 함께 제기되며 소비자 혼란 가중\n출처: 한국경제, 2026년 10월 28일(https://www.hankyung.com/article/202610281704i)\n카테고리: RITUAL\n포맷유형: 트렌드\n바이럴포인트: 댓글(내가 먹는 제품 효과 있나 갑론을박)"
 }
