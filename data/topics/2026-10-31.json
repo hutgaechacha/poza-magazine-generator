@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T00:22:31.267Z",
+  "topics": [
+    {
+      "topic": "\"8시간 수면\" 집착은 틀렸다, 진짜 중요한 건 '시간표'",
+      "summary": "몇 시간 잤는지보다 매일 같은 시간에 자고 일어나는 규칙성이 건강 위험을 더 잘 예측한다는 보도가 나오며 수면 관리의 초점이 바뀌고 있음",
+      "source": "Real Simple, 2026-10-27, https://www.realsimple.com/sleep-habit-that-matters-the-most-12197034",
+      "category": "ENERGY",
+      "formatType": "꿀팁",
+      "viralPoint": "저장"
+    },
+    {
+      "topic": "많이 잘수록 건강하다? 중년엔 오히려 독이 될 수 있음",
+      "summary": "45세 이상 1만8천명 추적 결과 9시간 초과 수면군의 노쇠 위험이 적정수면군보다 높게 나타나 '오래 잘수록 좋다'는 통념이 흔들림",
+      "source": "npj Aging 연구를 소개한 SBS English, 2026-09-29, https://news.sbs.co.kr/english/article.do?news_id=N1008773951",
+      "category": "BODY",
+      "formatType": "공포유발",
+      "viralPoint": "댓글"
+    },
+    {
+      "topic": "무설탕이라 안심했는데… 인공감미료와 뇌 노화 논란",
+      "summary": "1만3천명 대상 연구에서 인공감미료 섭취가 많은 사람의 기억력·사고력 저하가 더 빠르게 나타났다는 보도가 나오며 제로음료 애용자들 사이 불안이 확산됨",
+      "source": "ScienceDaily, 2026-10-29, https://www.sciencedaily.com/news/health_medicine/staying_healthy/",
+      "category": "MIND",
+      "formatType": "공포유발",
+      "viralPoint": "공유"
+    },
+    {
+      "topic": "'안티에이징'은 끝났다, 요즘은 '웰에이징'이 대세",
+      "summary": "응답자 60%가 웰에이징에 관심 있지만 실제 관리는 30%에 그쳐, 관심과 실천 사이 괴리가 드러난 국내 웰니스 보고서가 화제",
+      "source": "아시아타임즈, 2026-10-29, https://www.asiatime.co.kr/article/20261025500065",
+      "category": "TREND",
+      "formatType": "트렌드",
+      "viralPoint": "댓글"
+    },
+    {
+      "topic": "\"나이 들수록 잠 부족에 약하다\"는 상식, 틀렸을 수도",
+      "summary": "캐나다 연구팀이 20~30대와 65~75대의 급성 수면 제한 반응을 비교한 결과 뇌 연결성 변화가 정반대로 나타나 고령층이 더 취약하다는 통념에 의문을 제기함",
+      "source": "Simon Fraser University, 2026-10-29, https://www.sfu.ca/sfunews/media/media-releases/2026/10/Older-brains-cope-better-lack-sleep-SFU-study.html",
+      "category": "MIND",
+      "formatType": "해외짜집기",
+      "viralPoint": "저장"
+    }
+  ],
+  "rawResponse": "주제 1: \"8시간 수면\" 집착은 틀렸다, 진짜 중요한 건 '시간표'\n한줄요약: 몇 시간 잤는지보다 매일 같은 시간에 자고 일어나는 규칙성이 건강 위험을 더 잘 예측한다는 보도가 나오며 수면 관리의 초점이 바뀌고 있음\n출처: Real Simple, 2026-10-27, https://www.realsimple.com/sleep-habit-that-matters-the-most-12197034\n카테고리: ENERGY\n포맷유형: 꿀팁\n바이럴포인트: 저장\n\n주제 2: 많이 잘수록 건강하다? 중년엔 오히려 독이 될 수 있음\n한줄요약: 45세 이상 1만8천명 추적 결과 9시간 초과 수면군의 노쇠 위험이 적정수면군보다 높게 나타나 '오래 잘수록 좋다'는 통념이 흔들림\n출처: npj Aging 연구를 소개한 SBS English, 2026-09-29, https://news.sbs.co.kr/english/article.do?news_id=N1008773951\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 댓글\n\n주제 3: 무설탕이라 안심했는데… 인공감미료와 뇌 노화 논란\n한줄요약: 1만3천명 대상 연구에서 인공감미료 섭취가 많은 사람의 기억력·사고력 저하가 더 빠르게 나타났다는 보도가 나오며 제로음료 애용자들 사이 불안이 확산됨\n출처: ScienceDaily, 2026-10-29, https://www.sciencedaily.com/news/health_medicine/staying_healthy/\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 공유\n\n주제 4: '안티에이징'은 끝났다, 요즘은 '웰에이징'이 대세\n한줄요약: 응답자 60%가 웰에이징에 관심 있지만 실제 관리는 30%에 그쳐, 관심과 실천 사이 괴리가 드러난 국내 웰니스 보고서가 화제\n출처: 아시아타임즈, 2026-10-29, https://www.asiatime.co.kr/article/20261025500065\n카테고리: TREND\n포맷유형: 트렌드\n바이럴포인트: 댓글\n\n주제 5: \"나이 들수록 잠 부족에 약하다\"는 상식, 틀렸을 수도\n한줄요약: 캐나다 연구팀이 20~30대와 65~75대의 급성 수면 제한 반응을 비교한 결과 뇌 연결성 변화가 정반대로 나타나 고령층이 더 취약하다는 통념에 의문을 제기함\n출처: Simon Fraser University, 2026-10-29, https://www.sfu.ca/sfunews/media/media-releases/2026/10/Older-brains-cope-better-lack-sleep-SFU-study.html\n카테고리: MIND\n포맷유형: 해외짜집기\n바이럴포인트: 저장"
+}
