@@ -1,47 +1,39 @@
 {
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T00:14:05.808Z",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T02:46:02.342Z",
   "topics": [
     {
-      "topic": "뇌 노화, 증상 나타나기 수십 년 전부터 장에서 신호 보낸다?",
-      "summary": "치매 증상이 오기 전 장-뇌 축 이상이 먼저 감지될 수 있다는 최신 연구로, 4050 세대 치매 공포를 직접 자극하는 소재임",
-      "source": "eBioMedicine, 2026년 9월 9일 공개 / Scientific Inquirer, 2026년 9월 19일 - https://pmc.ncbi.nlm.nih.gov/articles/PMC13628603/, https://scientificinquirer.com/2026/09/19/brain-aging-may-be-detectable-decades-before-symptoms-appear-and-its-linked-to-gut-health/",
+      "topic": "1만 보 신화는 틀렸다, 걸음 \"속도\"가 수명을 가른다",
+      "summary": "6만 명 넘는 데이터 분석 결과 하루 5천 보 미만이어도 빠르게 걸으면 많이 걷지만 느린 사람과 비슷한 사망 위험이 나타나, \"걸음 수 집착\"에 반기를 드는 최신 연구임",
+      "source": "British Journal of Sports Medicine 연구를 소개한 Harvard Health, 2026년 10월 2일, https://www.health.harvard.edu/heart-health/people-who-walk-more-or-walk-faster-live-longer-study-finds",
+      "category": "TREND",
+      "formatType": "해외짜집기",
+      "viralPoint": "저장"
+    },
+    {
+      "topic": "운동은 \"오래\"보다 \"세게\", 96,408명 연구가 뒤집은 상식",
+      "summary": "전체 운동량이 같아도 격렬한 활동 비중이 높을수록 만성질환·조기사망 위험이 낮게 관찰돼, 중년층의 \"짧고 굵은 운동\" 전략에 힘을 실어주는 최신 보도임",
+      "source": "European Heart Journal 연구를 소개한 Yahoo Health, 2026년 10월 26일, https://health.yahoo.com/wellness/fitness/exercise/articles/scientists-studied-96-000-adults-013936799.html",
+      "category": "ENERGY",
+      "formatType": "트렌드",
+      "viralPoint": "공유"
+    },
+    {
+      "topic": "뇌가 늙기 전에 장이 먼저 보낸다는 신호",
+      "summary": "UCLA 연구에서 뇌 노화 지표가 높을수록 기억력·실행기능이 낮고 장내 미생물 패턴까지 달랐다는 결과가 나와, \"장 건강=뇌 건강\"이라는 불안과 호기심을 동시에 자극하는 주제임",
+      "source": "UCLA Health, 2026년 9월 10일(연구 저널 eBioMedicine), https://www.uclahealth.org/news/release/brain-aging-may-be-detected-decades-before-symptoms-appear",
       "category": "MIND",
       "formatType": "공포유발",
-      "viralPoint": "댓글(본인 장건강 상태 공유·걱정 토로)"
+      "viralPoint": "저장"
     },
     {
-      "topic": "\"16시간 단식 그만하세요\" 장수 전문가가 뒤집은 공복의 정석",
-      "summary": "간헐적 단식 열풍 속에서 장수학자 발테르 롱고가 장시간 공복보다 12시간 식사 창을 권고해 기존 상식과 충돌하는 논쟁적 주제",
-      "source": "The Independent, 2026년 10월 28일 - https://independent.co.uk/health-and-fitness/how-to-live-longer-professor-valter-longo-b3074209.html",
-      "category": "RITUAL",
-      "formatType": "해외짜집기",
-      "viralPoint": "저장(식사 시간표 다시 짜려는 수요)"
-    },
-    {
-      "topic": "폐경기, 안면홍조로 끝나지 않는다 — 뇌·심장·뼈까지 흔든다",
-      "summary": "미국 NIH가 44억원 이상을 투입해 폐경이 뇌·심혈관·뼈 건강에 미치는 장기 영향을 연구하기 시작, 4050 여성 타겟에게 직접적 경고 메시지",
-      "source": "University of Pittsburgh, 2026년 9월 23일 - https://www.health.pitt.edu/news/swan-receives-more-than-44m-from-nih-to-understand-the-impact-of-aging-on-women/",
-      "category": "BODY",
-      "formatType": "공포유발",
-      "viralPoint": "공유(또래 여성에게 태그해서 공유)"
-    },
-    {
-      "topic": "몇 시간 잤는지보다 '몇 시에 잤는지'가 수명을 가른다",
-      "summary": "8만9천명 추적 결과 수면 시간보다 '규칙성'이 사망 위험과 더 밀접하게 연관되어, 기존 '7시간 수면' 상식을 흔드는 주제",
-      "source": "The State, 2026년 10월 30일 - https://www.thestate.com/health-wellness/article317849102.html",
-      "category": "ENERGY",
-      "formatType": "공포유발",
-      "viralPoint": "저장(본인 수면 패턴 체크 욕구)"
-    },
-    {
-      "topic": "NAD+ 보충제·사우나, '항노화 치트키' 믿어도 될까",
-      "summary": "장수템으로 각광받는 NAD+ 보충제·사우나가 실제로는 사람 대상 근거가 부족하다는 지적이 나오며 상업적 과장과 실제 효과 사이 간극을 짚는 주제",
-      "source": "Yahoo Health, 2026년 10월 20일(11월 1일 업데이트) - https://health.yahoo.com/wellness/healthy-aging/longevity/articles/five-habits-really-slow-ageing-100000285.html",
-      "category": "TREND",
-      "formatType": "꿀팁",
-      "viralPoint": "댓글(써본 제품 효과 논쟁 유발)"
+      "topic": "\"저녁 운동하면 잠 망친다\"는 말, 사실 근거가 약했다",
+      "summary": "60~80세 불면 증상자 대상 무작위 교차시험에서 아침·저녁 운동 간 수면 지표 차이가 뚜렷하지 않아, 퇴근 후 운동을 꺼리던 4050의 죄책감을 덜어줄 수 있는 실용 정보임",
+      "source": "Sleep Medicine, 2",
+      "category": "미분류",
+      "formatType": "",
+      "viralPoint": ""
     }
   ],
-  "rawResponse": "주제 1: 뇌 노화, 증상 나타나기 수십 년 전부터 장에서 신호 보낸다?\n한줄요약: 치매 증상이 오기 전 장-뇌 축 이상이 먼저 감지될 수 있다는 최신 연구로, 4050 세대 치매 공포를 직접 자극하는 소재임\n출처: eBioMedicine, 2026년 9월 9일 공개 / Scientific Inquirer, 2026년 9월 19일 - https://pmc.ncbi.nlm.nih.gov/articles/PMC13628603/, https://scientificinquirer.com/2026/09/19/brain-aging-may-be-detectable-decades-before-symptoms-appear-and-its-linked-to-gut-health/\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글(본인 장건강 상태 공유·걱정 토로)\n\n주제 2: \"16시간 단식 그만하세요\" 장수 전문가가 뒤집은 공복의 정석\n한줄요약: 간헐적 단식 열풍 속에서 장수학자 발테르 롱고가 장시간 공복보다 12시간 식사 창을 권고해 기존 상식과 충돌하는 논쟁적 주제\n출처: The Independent, 2026년 10월 28일 - https://independent.co.uk/health-and-fitness/how-to-live-longer-professor-valter-longo-b3074209.html\n카테고리: RITUAL\n포맷유형: 해외짜집기\n바이럴포인트: 저장(식사 시간표 다시 짜려는 수요)\n\n주제 3: 폐경기, 안면홍조로 끝나지 않는다 — 뇌·심장·뼈까지 흔든다\n한줄요약: 미국 NIH가 44억원 이상을 투입해 폐경이 뇌·심혈관·뼈 건강에 미치는 장기 영향을 연구하기 시작, 4050 여성 타겟에게 직접적 경고 메시지\n출처: University of Pittsburgh, 2026년 9월 23일 - https://www.health.pitt.edu/news/swan-receives-more-than-44m-from-nih-to-understand-the-impact-of-aging-on-women/\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 공유(또래 여성에게 태그해서 공유)\n\n주제 4: 몇 시간 잤는지보다 '몇 시에 잤는지'가 수명을 가른다\n한줄요약: 8만9천명 추적 결과 수면 시간보다 '규칙성'이 사망 위험과 더 밀접하게 연관되어, 기존 '7시간 수면' 상식을 흔드는 주제\n출처: The State, 2026년 10월 30일 - https://www.thestate.com/health-wellness/article317849102.html\n카테고리: ENERGY\n포맷유형: 공포유발\n바이럴포인트: 저장(본인 수면 패턴 체크 욕구)\n\n주제 5: NAD+ 보충제·사우나, '항노화 치트키' 믿어도 될까\n한줄요약: 장수템으로 각광받는 NAD+ 보충제·사우나가 실제로는 사람 대상 근거가 부족하다는 지적이 나오며 상업적 과장과 실제 효과 사이 간극을 짚는 주제\n출처: Yahoo Health, 2026년 10월 20일(11월 1일 업데이트) - https://health.yahoo.com/wellness/healthy-aging/longevity/articles/five-habits-really-slow-ageing-100000285.html\n카테고리: TREND\n포맷유형: 꿀팁\n바이럴포인트: 댓글(써본 제품 효과 논쟁 유발)"
+  "rawResponse": "주제 1: 1만 보 신화는 틀렸다, 걸음 \"속도\"가 수명을 가른다\n한줄요약: 6만 명 넘는 데이터 분석 결과 하루 5천 보 미만이어도 빠르게 걸으면 많이 걷지만 느린 사람과 비슷한 사망 위험이 나타나, \"걸음 수 집착\"에 반기를 드는 최신 연구임\n출처: British Journal of Sports Medicine 연구를 소개한 Harvard Health, 2026년 10월 2일, https://www.health.harvard.edu/heart-health/people-who-walk-more-or-walk-faster-live-longer-study-finds\n카테고리: TREND\n포맷유형: 해외짜집기\n바이럴포인트: 저장\n\n주제 2: 운동은 \"오래\"보다 \"세게\", 96,408명 연구가 뒤집은 상식\n한줄요약: 전체 운동량이 같아도 격렬한 활동 비중이 높을수록 만성질환·조기사망 위험이 낮게 관찰돼, 중년층의 \"짧고 굵은 운동\" 전략에 힘을 실어주는 최신 보도임\n출처: European Heart Journal 연구를 소개한 Yahoo Health, 2026년 10월 26일, https://health.yahoo.com/wellness/fitness/exercise/articles/scientists-studied-96-000-adults-013936799.html\n카테고리: ENERGY\n포맷유형: 트렌드\n바이럴포인트: 공유\n\n주제 3: 뇌가 늙기 전에 장이 먼저 보낸다는 신호\n한줄요약: UCLA 연구에서 뇌 노화 지표가 높을수록 기억력·실행기능이 낮고 장내 미생물 패턴까지 달랐다는 결과가 나와, \"장 건강=뇌 건강\"이라는 불안과 호기심을 동시에 자극하는 주제임\n출처: UCLA Health, 2026년 9월 10일(연구 저널 eBioMedicine), https://www.uclahealth.org/news/release/brain-aging-may-be-detected-decades-before-symptoms-appear\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 저장\n\n주제 4: \"저녁 운동하면 잠 망친다\"는 말, 사실 근거가 약했다\n한줄요약: 60~80세 불면 증상자 대상 무작위 교차시험에서 아침·저녁 운동 간 수면 지표 차이가 뚜렷하지 않아, 퇴근 후 운동을 꺼리던 4050의 죄책감을 덜어줄 수 있는 실용 정보임\n출처: Sleep Medicine, 2"
 }
