@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T01:22:57.913Z",
+  "topics": [
+    {
+      "topic": "바이오해킹 vs 기본기, 전문가 63명이 내린 결론",
+      "summary": "웨어러블·최신 항노화 기기보다 운동·식사가 압도적으로 중요하다는 전문가 설문 결과가 \"새로운 비법\"을 강조하는 웰니스 마케팅에 반기를 들며 화제됨",
+      "source": "U.S. News & World Report, 2026-09-01, https://health.usnews.com/wellness/articles/2026-healthy-aging-survey-5-proven-habits-that-matter-more-than-biohacks",
+      "category": "TREND",
+      "formatType": "해외짜집기",
+      "viralPoint": "저장"
+    },
+    {
+      "topic": "노화를 앞당기는 숨은 요인, '외로움'",
+      "summary": "전문가 59%가 사회적 고립을 가장 과소평가된 노화 가속 요인으로 꼽아, 식단·운동만 챙기던 4050에게 새로운 경각심을 줌",
+      "source": "U.S. News & World Report, 2026-09-01, https://www.usnews.com/info/blogs/press-room/articles/2026-09-01/u-s-news-world-report-survey-health-experts-rank-core-lifestyle-habits-ahead-of-biohacks-for-longevity",
+      "category": "MIND",
+      "formatType": "공포유발",
+      "viralPoint": "댓글"
+    },
+    {
+      "topic": "헬스장 갈 시간 없어도 괜찮다, 근력운동의 최소 기준선",
+      "summary": "조금이라도 하는 근력운동이 전혀 안 하는 것보다 사망위험을 낮춘다는 분석이 소개되며 '시간 없다'는 핑계를 무너뜨림",
+      "source": "British Journal of Sports Medicine 연구 소개, AgeMatters, 2026-09-21, https://agemed.org/e-journal/fitness-in-medicine-september-2026/",
+      "category": "BODY",
+      "formatType": "꿀팁",
+      "viralPoint": "저장"
+    },
+    {
+      "topic": "장이 좋아지면 잠도 좋아진다? 55세 이상 대상 8주 실험 결과",
+      "summary": "특정 프로바이오틱스 균주가 장건강뿐 아니라 수면의 질·행복감까지 개선했다는 무작위 대조시험 결과로 장-수면 연결축이 주목받음",
+      "source": "The Journal of Nutrition 연구 소개, NutraIngredients, 2026-10-21, https://www.nutraingredients.com/Article/2026/10/21/catching-up-with-sleep-health-supplement-science/",
+      "category": "BODY",
+      "formatType": "해외짜집기",
+      "viralPoint": "저장"
+    },
+    {
+      "topic": "\"호르몬 수치가 달라졌어요\"라는 말의 함정",
+      "summary": "수면 보충제가 멜라토닌·코르티솔 수치는 바꿨지만 실제 수면 개선 효과는 위약과 차이가 없었던 사례로, 광고 문구와 실제 효과를 구분해야 한다는 경각심을 줌",
+      "source": "NutraIngredients, 2026-10-21, https://www.nutraingredients.com/Article/2026/10/21/catching-up-with-sleep-health-supplement-science/",
+      "category": "ENERGY",
+      "formatType": "공포유발",
+      "viralPoint": "댓글"
+    }
+  ],
+  "rawResponse": "주제 1: 바이오해킹 vs 기본기, 전문가 63명이 내린 결론\n한줄요약: 웨어러블·최신 항노화 기기보다 운동·식사가 압도적으로 중요하다는 전문가 설문 결과가 \"새로운 비법\"을 강조하는 웰니스 마케팅에 반기를 들며 화제됨\n출처: U.S. News & World Report, 2026-09-01, https://health.usnews.com/wellness/articles/2026-healthy-aging-survey-5-proven-habits-that-matter-more-than-biohacks\n카테고리: TREND\n포맷유형: 해외짜집기\n바이럴포인트: 저장\n\n주제 2: 노화를 앞당기는 숨은 요인, '외로움'\n한줄요약: 전문가 59%가 사회적 고립을 가장 과소평가된 노화 가속 요인으로 꼽아, 식단·운동만 챙기던 4050에게 새로운 경각심을 줌\n출처: U.S. News & World Report, 2026-09-01, https://www.usnews.com/info/blogs/press-room/articles/2026-09-01/u-s-news-world-report-survey-health-experts-rank-core-lifestyle-habits-ahead-of-biohacks-for-longevity\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글\n\n주제 3: 헬스장 갈 시간 없어도 괜찮다, 근력운동의 최소 기준선\n한줄요약: 조금이라도 하는 근력운동이 전혀 안 하는 것보다 사망위험을 낮춘다는 분석이 소개되며 '시간 없다'는 핑계를 무너뜨림\n출처: British Journal of Sports Medicine 연구 소개, AgeMatters, 2026-09-21, https://agemed.org/e-journal/fitness-in-medicine-september-2026/\n카테고리: BODY\n포맷유형: 꿀팁\n바이럴포인트: 저장\n\n주제 4: 장이 좋아지면 잠도 좋아진다? 55세 이상 대상 8주 실험 결과\n한줄요약: 특정 프로바이오틱스 균주가 장건강뿐 아니라 수면의 질·행복감까지 개선했다는 무작위 대조시험 결과로 장-수면 연결축이 주목받음\n출처: The Journal of Nutrition 연구 소개, NutraIngredients, 2026-10-21, https://www.nutraingredients.com/Article/2026/10/21/catching-up-with-sleep-health-supplement-science/\n카테고리: BODY\n포맷유형: 해외짜집기\n바이럴포인트: 저장\n\n주제 5: \"호르몬 수치가 달라졌어요\"라는 말의 함정\n한줄요약: 수면 보충제가 멜라토닌·코르티솔 수치는 바꿨지만 실제 수면 개선 효과는 위약과 차이가 없었던 사례로, 광고 문구와 실제 효과를 구분해야 한다는 경각심을 줌\n출처: NutraIngredients, 2026-10-21, https://www.nutraingredients.com/Article/2026/10/21/catching-up-with-sleep-health-supplement-science/\n카테고리: ENERGY\n포맷유형: 공포유발\n바이럴포인트: 댓글"
+}
