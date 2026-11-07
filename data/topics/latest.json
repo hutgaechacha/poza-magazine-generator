@@ -1,47 +1,47 @@
 {
-  "date": "2026-11-06",
-  "generatedAt": "2026-11-06T01:22:57.913Z",
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T00:37:44.031Z",
   "topics": [
     {
-      "topic": "바이오해킹 vs 기본기, 전문가 63명이 내린 결론",
-      "summary": "웨어러블·최신 항노화 기기보다 운동·식사가 압도적으로 중요하다는 전문가 설문 결과가 \"새로운 비법\"을 강조하는 웰니스 마케팅에 반기를 들며 화제됨",
-      "source": "U.S. News & World Report, 2026-09-01, https://health.usnews.com/wellness/articles/2026-healthy-aging-survey-5-proven-habits-that-matter-more-than-biohacks",
-      "category": "TREND",
-      "formatType": "해외짜집기",
-      "viralPoint": "저장"
+      "topic": "\"8시간 수면\"은 틀렸다, 생물학적 노화 늦추는 진짜 수면시간",
+      "summary": "영국 바이오뱅크 분석에서 수면 6.4~7.8시간 구간이 생물학적 노화 지표상 가장 양호했다는 결과가 나오며 '무조건 8시간' 통념이 흔들리는 중",
+      "source": "ACE Fitness, Sleep Duration and Healthy Aging: Finding the Sweet Spot, 2026.11.04, https://www.acefitness.org/continuing-education/certified/october-2026/9213/",
+      "category": "ENERGY",
+      "formatType": "생체나이",
+      "viralPoint": "저장 (본인 평균 수면시간과 비교해보려는 욕구)"
     },
     {
-      "topic": "노화를 앞당기는 숨은 요인, '외로움'",
-      "summary": "전문가 59%가 사회적 고립을 가장 과소평가된 노화 가속 요인으로 꼽아, 식단·운동만 챙기던 4050에게 새로운 경각심을 줌",
-      "source": "U.S. News & World Report, 2026-09-01, https://www.usnews.com/info/blogs/press-room/articles/2026-09-01/u-s-news-world-report-survey-health-experts-rank-core-lifestyle-habits-ahead-of-biohacks-for-longevity",
+      "topic": "TV 보는 시간 1시간을 운동으로 바꾸면 벌어지는 일 (28% 수치의 함정)",
+      "summary": "간호사 건강 장기연구에서 TV 시청 1시간을 중강도 운동으로 대체한 모델이 건강한 노화 가능성과 연관됐다는 보도, 단 관찰연구 한계 존재",
+      "source": "Yahoo Health, This Simple Swap Could Increase Your Odds of Living Longer by Up to 28%, 2026.10.04, https://health.yahoo.com/wellness/healthy-aging/longevity/articles/simple-swap-could-increase-odds-013000303.html",
+      "category": "RITUAL",
+      "formatType": "꿀팁",
+      "viralPoint": "공유 (실천 가능한 작은 대체 습관이라 지인에게 공유하고 싶어짐)"
+    },
+    {
+      "topic": "제로 칼로리의 배신, 인공감미료 많이 먹으면 뇌가 1.6년 더 늙는다?",
+      "summary": "성인 1만3천명 분석에서 인공감미료 다량 섭취군의 인지저하 속도가 약 62% 빨랐다는 보도, 다이어트 필수템이 논쟁 대상으로 떠오름",
+      "source": "ScienceDaily, Staying Healthy News, 2026.10.29, http://sciencedaily.com/news/health_medicine/staying_healthy/",
       "category": "MIND",
       "formatType": "공포유발",
-      "viralPoint": "댓글"
+      "viralPoint": "댓글 (제로음료/다이어트 감미료 섭취 경험 공유 및 반박 댓글 유도)"
     },
     {
-      "topic": "헬스장 갈 시간 없어도 괜찮다, 근력운동의 최소 기준선",
-      "summary": "조금이라도 하는 근력운동이 전혀 안 하는 것보다 사망위험을 낮춘다는 분석이 소개되며 '시간 없다'는 핑계를 무너뜨림",
-      "source": "British Journal of Sports Medicine 연구 소개, AgeMatters, 2026-09-21, https://agemed.org/e-journal/fitness-in-medicine-september-2026/",
-      "category": "BODY",
-      "formatType": "꿀팁",
-      "viralPoint": "저장"
-    },
-    {
-      "topic": "장이 좋아지면 잠도 좋아진다? 55세 이상 대상 8주 실험 결과",
-      "summary": "특정 프로바이오틱스 균주가 장건강뿐 아니라 수면의 질·행복감까지 개선했다는 무작위 대조시험 결과로 장-수면 연결축이 주목받음",
-      "source": "The Journal of Nutrition 연구 소개, NutraIngredients, 2026-10-21, https://www.nutraingredients.com/Article/2026/10/21/catching-up-with-sleep-health-supplement-science/",
+      "topic": "뇌까지 도달한 오메가-3, 그런데 기억력은 그대로였다",
+      "summary": "2년 임상시험에서 어유 보충제가 오메가-3를 뇌에 전달했음에도 기억력 개선이나 치매 관련 뇌 위축 방지 효과는 확인되지 않았다는 반전 결과",
+      "source": "ScienceDaily, Healthy Aging News, 2026.10.22, http://www.sciencedaily.com/news/health_medicine/healthy_aging/",
       "category": "BODY",
       "formatType": "해외짜집기",
-      "viralPoint": "저장"
+      "viralPoint": "저장 (복용 중인 보충제 효과를 재점검하게 만드는 정보)"
     },
     {
-      "topic": "\"호르몬 수치가 달라졌어요\"라는 말의 함정",
-      "summary": "수면 보충제가 멜라토닌·코르티솔 수치는 바꿨지만 실제 수면 개선 효과는 위약과 차이가 없었던 사례로, 광고 문구와 실제 효과를 구분해야 한다는 경각심을 줌",
-      "source": "NutraIngredients, 2026-10-21, https://www.nutraingredients.com/Article/2026/10/21/catching-up-with-sleep-health-supplement-science/",
-      "category": "ENERGY",
-      "formatType": "공포유발",
-      "viralPoint": "댓글"
+      "topic": "장 속 세균이 내 뇌 나이를 결정한다? 장-뇌 축 다시 주목",
+      "summary": "특정 장내세균과 대사산물이 더 빠른 뇌 노화 지표 및 기억·집중·기분 문제와 연관됐다는 보도로 장건강=소화 문제라는 인식에 균열",
+      "source": "ScienceDaily, Healthy Aging News, 2026.10.04, http://www.sciencedaily.com/news/health_medicine/healthy_aging/",
+      "category": "BODY",
+      "formatType": "해외짜집기",
+      "viralPoint": "댓글 (본인의 장건강 상태와 기분/집중력 저하를 연결지어 공감 댓글 유도)"
     }
   ],
-  "rawResponse": "주제 1: 바이오해킹 vs 기본기, 전문가 63명이 내린 결론\n한줄요약: 웨어러블·최신 항노화 기기보다 운동·식사가 압도적으로 중요하다는 전문가 설문 결과가 \"새로운 비법\"을 강조하는 웰니스 마케팅에 반기를 들며 화제됨\n출처: U.S. News & World Report, 2026-09-01, https://health.usnews.com/wellness/articles/2026-healthy-aging-survey-5-proven-habits-that-matter-more-than-biohacks\n카테고리: TREND\n포맷유형: 해외짜집기\n바이럴포인트: 저장\n\n주제 2: 노화를 앞당기는 숨은 요인, '외로움'\n한줄요약: 전문가 59%가 사회적 고립을 가장 과소평가된 노화 가속 요인으로 꼽아, 식단·운동만 챙기던 4050에게 새로운 경각심을 줌\n출처: U.S. News & World Report, 2026-09-01, https://www.usnews.com/info/blogs/press-room/articles/2026-09-01/u-s-news-world-report-survey-health-experts-rank-core-lifestyle-habits-ahead-of-biohacks-for-longevity\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글\n\n주제 3: 헬스장 갈 시간 없어도 괜찮다, 근력운동의 최소 기준선\n한줄요약: 조금이라도 하는 근력운동이 전혀 안 하는 것보다 사망위험을 낮춘다는 분석이 소개되며 '시간 없다'는 핑계를 무너뜨림\n출처: British Journal of Sports Medicine 연구 소개, AgeMatters, 2026-09-21, https://agemed.org/e-journal/fitness-in-medicine-september-2026/\n카테고리: BODY\n포맷유형: 꿀팁\n바이럴포인트: 저장\n\n주제 4: 장이 좋아지면 잠도 좋아진다? 55세 이상 대상 8주 실험 결과\n한줄요약: 특정 프로바이오틱스 균주가 장건강뿐 아니라 수면의 질·행복감까지 개선했다는 무작위 대조시험 결과로 장-수면 연결축이 주목받음\n출처: The Journal of Nutrition 연구 소개, NutraIngredients, 2026-10-21, https://www.nutraingredients.com/Article/2026/10/21/catching-up-with-sleep-health-supplement-science/\n카테고리: BODY\n포맷유형: 해외짜집기\n바이럴포인트: 저장\n\n주제 5: \"호르몬 수치가 달라졌어요\"라는 말의 함정\n한줄요약: 수면 보충제가 멜라토닌·코르티솔 수치는 바꿨지만 실제 수면 개선 효과는 위약과 차이가 없었던 사례로, 광고 문구와 실제 효과를 구분해야 한다는 경각심을 줌\n출처: NutraIngredients, 2026-10-21, https://www.nutraingredients.com/Article/2026/10/21/catching-up-with-sleep-health-supplement-science/\n카테고리: ENERGY\n포맷유형: 공포유발\n바이럴포인트: 댓글"
+  "rawResponse": "주제 1: \"8시간 수면\"은 틀렸다, 생물학적 노화 늦추는 진짜 수면시간\n한줄요약: 영국 바이오뱅크 분석에서 수면 6.4~7.8시간 구간이 생물학적 노화 지표상 가장 양호했다는 결과가 나오며 '무조건 8시간' 통념이 흔들리는 중\n출처: ACE Fitness, Sleep Duration and Healthy Aging: Finding the Sweet Spot, 2026.11.04, https://www.acefitness.org/continuing-education/certified/october-2026/9213/\n카테고리: ENERGY\n포맷유형: 생체나이\n바이럴포인트: 저장 (본인 평균 수면시간과 비교해보려는 욕구)\n\n주제 2: TV 보는 시간 1시간을 운동으로 바꾸면 벌어지는 일 (28% 수치의 함정)\n한줄요약: 간호사 건강 장기연구에서 TV 시청 1시간을 중강도 운동으로 대체한 모델이 건강한 노화 가능성과 연관됐다는 보도, 단 관찰연구 한계 존재\n출처: Yahoo Health, This Simple Swap Could Increase Your Odds of Living Longer by Up to 28%, 2026.10.04, https://health.yahoo.com/wellness/healthy-aging/longevity/articles/simple-swap-could-increase-odds-013000303.html\n카테고리: RITUAL\n포맷유형: 꿀팁\n바이럴포인트: 공유 (실천 가능한 작은 대체 습관이라 지인에게 공유하고 싶어짐)\n\n주제 3: 제로 칼로리의 배신, 인공감미료 많이 먹으면 뇌가 1.6년 더 늙는다?\n한줄요약: 성인 1만3천명 분석에서 인공감미료 다량 섭취군의 인지저하 속도가 약 62% 빨랐다는 보도, 다이어트 필수템이 논쟁 대상으로 떠오름\n출처: ScienceDaily, Staying Healthy News, 2026.10.29, http://sciencedaily.com/news/health_medicine/staying_healthy/\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글 (제로음료/다이어트 감미료 섭취 경험 공유 및 반박 댓글 유도)\n\n주제 4: 뇌까지 도달한 오메가-3, 그런데 기억력은 그대로였다\n한줄요약: 2년 임상시험에서 어유 보충제가 오메가-3를 뇌에 전달했음에도 기억력 개선이나 치매 관련 뇌 위축 방지 효과는 확인되지 않았다는 반전 결과\n출처: ScienceDaily, Healthy Aging News, 2026.10.22, http://www.sciencedaily.com/news/health_medicine/healthy_aging/\n카테고리: BODY\n포맷유형: 해외짜집기\n바이럴포인트: 저장 (복용 중인 보충제 효과를 재점검하게 만드는 정보)\n\n주제 5: 장 속 세균이 내 뇌 나이를 결정한다? 장-뇌 축 다시 주목\n한줄요약: 특정 장내세균과 대사산물이 더 빠른 뇌 노화 지표 및 기억·집중·기분 문제와 연관됐다는 보도로 장건강=소화 문제라는 인식에 균열\n출처: ScienceDaily, Healthy Aging News, 2026.10.04, http://www.sciencedaily.com/news/health_medicine/healthy_aging/\n카테고리: BODY\n포맷유형: 해외짜집기\n바이럴포인트: 댓글 (본인의 장건강 상태와 기분/집중력 저하를 연결지어 공감 댓글 유도)"
 }
