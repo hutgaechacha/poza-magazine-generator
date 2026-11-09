@@ -1,15 +1,47 @@
 {
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-08T00:12:02.953Z",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T00:32:57.591Z",
   "topics": [
     {
-      "topic": "무설탕이 더 위험하다?",
-      "summary": "",
-      "source": "",
-      "category": "미분류",
-      "formatType": "",
-      "viralPoint": ""
+      "topic": "살 빼는 약이 노화 시계까지 늦춘다? GLP-1 장수약 논쟁",
+      "summary": "비만·당뇨약이 생물학적 노화 지표까지 늦췄다는 보도가 나오며 '장수약'으로 쓸 수 있는지 논쟁이 커지는 중임",
+      "source": "MIT Technology Review, 2026-10-06, https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/ / Cedars-Sinai(CNN), 2026-10-29, https://www.cedars-sinai.org/newsroom/cnncom-can-glp-1-drugs-slow-aging/",
+      "category": "TREND",
+      "formatType": "해외짜집기",
+      "viralPoint": "댓글(찬반 논쟁 유도)"
+    },
+    {
+      "topic": "밤에 잠 안 오는 게 단순 컨디션이 아니라 기억력 경고일 수 있다",
+      "summary": "40~50대에 잠들기 어려운 빈도가 높으면 이후 기억력 변화와 연관될 수 있다는 분석이 나오며 중년 불면을 다시 보게 만듦",
+      "source": "medRxiv, 2026-09-28, https://pmc.ncbi.nlm.nih.gov/articles/PMC13648747/",
+      "category": "MIND",
+      "formatType": "공포유발",
+      "viralPoint": "저장(내 불면 패턴 체크하려고)"
+    },
+    {
+      "topic": "당뇨·심장병 있어도 잠만 잘 자면 뇌가 더 크다?",
+      "summary": "만성질환이 있는 중장년층도 수면 상태가 좋으면 인지점수와 뇌 용적이 더 나은 경향이 보고되며 수면 관리의 중요성이 부각됨",
+      "source": "Journal of the American Heart Association 연구 소개, Inc., 2026-11-06, https://www.inc.com/lucia-auerbach/getting-7-8-hours-may-not-be-enough-better-brain-health-new-study-4-sleep-traits/91431867",
+      "category": "ENERGY",
+      "formatType": "기억력",
+      "viralPoint": "저장(지병 있는 가족에게 공유하려고)"
+    },
+    {
+      "topic": "폐경 이후 건강, 호르몬보다 장(腸)이 열쇠라는 새 가설",
+      "summary": "폐경기 장내 미생물과 에스트로겐 대사의 관계가 염증·뼈·근육·뇌 건강과 연결될 가능성이 제기되며 장 건강이 새로운 폐경 관리 포인트로 떠오름",
+      "source": "Nutrients, 2026-10-11, https://pubmed.ncbi.nlm.nih.gov/42942900/",
+      "category": "BODY",
+      "formatType": "트렌드",
+      "viralPoint": "공유(동년배 여성에게 태그)"
+    },
+    {
+      "topic": "바이오해킹 다 소용없다? 전문가 89%가 꼽은 장수 비결은 '기본기'",
+      "summary": "화려한 보충제·바이오해킹 도구보다 꾸준한 운동과 균형 잡힌 식사가 건강한 노화의 핵심이라고 전문가 다수가 답하며 기본으로의 회귀가 주목받음",
+      "source": "Chain Drug Review, 2026-09-01, https://chaindrugreview.com/healthy-aging-shifts-focus-from-biohacks-to-the-basics/",
+      "category": "RITUAL",
+      "formatType": "꿀팁",
+      "viralPoint": "저장(실천 체크리스트용)"
     }
   ],
-  "rawResponse": "주제 1: 무설탕이 더 위험하다?"
+  "rawResponse": "주제 1: 살 빼는 약이 노화 시계까지 늦춘다? GLP-1 장수약 논쟁\n한줄요약: 비만·당뇨약이 생물학적 노화 지표까지 늦췄다는 보도가 나오며 '장수약'으로 쓸 수 있는지 논쟁이 커지는 중임\n출처: MIT Technology Review, 2026-10-06, https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/ / Cedars-Sinai(CNN), 2026-10-29, https://www.cedars-sinai.org/newsroom/cnncom-can-glp-1-drugs-slow-aging/\n카테고리: TREND\n포맷유형: 해외짜집기\n바이럴포인트: 댓글(찬반 논쟁 유도)\n\n주제 2: 밤에 잠 안 오는 게 단순 컨디션이 아니라 기억력 경고일 수 있다\n한줄요약: 40~50대에 잠들기 어려운 빈도가 높으면 이후 기억력 변화와 연관될 수 있다는 분석이 나오며 중년 불면을 다시 보게 만듦\n출처: medRxiv, 2026-09-28, https://pmc.ncbi.nlm.nih.gov/articles/PMC13648747/\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 저장(내 불면 패턴 체크하려고)\n\n주제 3: 당뇨·심장병 있어도 잠만 잘 자면 뇌가 더 크다?\n한줄요약: 만성질환이 있는 중장년층도 수면 상태가 좋으면 인지점수와 뇌 용적이 더 나은 경향이 보고되며 수면 관리의 중요성이 부각됨\n출처: Journal of the American Heart Association 연구 소개, Inc., 2026-11-06, https://www.inc.com/lucia-auerbach/getting-7-8-hours-may-not-be-enough-better-brain-health-new-study-4-sleep-traits/91431867\n카테고리: ENERGY\n포맷유형: 기억력\n바이럴포인트: 저장(지병 있는 가족에게 공유하려고)\n\n주제 4: 폐경 이후 건강, 호르몬보다 장(腸)이 열쇠라는 새 가설\n한줄요약: 폐경기 장내 미생물과 에스트로겐 대사의 관계가 염증·뼈·근육·뇌 건강과 연결될 가능성이 제기되며 장 건강이 새로운 폐경 관리 포인트로 떠오름\n출처: Nutrients, 2026-10-11, https://pubmed.ncbi.nlm.nih.gov/42942900/\n카테고리: BODY\n포맷유형: 트렌드\n바이럴포인트: 공유(동년배 여성에게 태그)\n\n주제 5: 바이오해킹 다 소용없다? 전문가 89%가 꼽은 장수 비결은 '기본기'\n한줄요약: 화려한 보충제·바이오해킹 도구보다 꾸준한 운동과 균형 잡힌 식사가 건강한 노화의 핵심이라고 전문가 다수가 답하며 기본으로의 회귀가 주목받음\n출처: Chain Drug Review, 2026-09-01, https://chaindrugreview.com/healthy-aging-shifts-focus-from-biohacks-to-the-basics/\n카테고리: RITUAL\n포맷유형: 꿀팁\n바이럴포인트: 저장(실천 체크리스트용)"
 }
