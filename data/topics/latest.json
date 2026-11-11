@@ -1,47 +1,47 @@
 {
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T03:10:01.733Z",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T01:00:16.921Z",
   "topics": [
     {
-      "topic": "폐경기엔 유산소만 해선 체중 안 빠지는 이유",
-      "summary": "\"예전처럼 먹고 운동해도 살이 안 빠진다\"는 4050 여성의 실제 고민을 다룬 최신 전문가 코멘트, 근력·체중부하 운동의 필요성을 다룸",
-      "source": "U.S. News/HealthDay News, 2026-10-21 (Menopause And Exercise: Experts Share What Works)",
+      "topic": "밤늦게 자고 밤늦게 먹으면 생기는 일 - 대사증후군 경고",
+      "summary": "비만 성인 대상 연구에서 늦은 수면형+늦은 식사 조합이 대사증후군 위험 요인과 함께 관찰돼 \"언제 자고 먹는지\"가 \"무엇을 먹는지\"만큼 중요할 수 있다는 논의가 나옴",
+      "source": "MedicalXpress, Night owls who eat late may face higher health risks, 2026-11-10, https://medicalxpress.com/news/2026-11-night-owls-late-higher-health.html",
       "category": "BODY",
       "formatType": "공포유발",
-      "viralPoint": "댓글(본인 경험 공유), 저장(운동법 정리)"
+      "viralPoint": "댓글(본인 식습관 고백/반박)"
     },
     {
-      "topic": "수면 \"몇 시간\"보다 \"몇 시에\"가 더 중요하다",
-      "summary": "영국 바이오뱅크 분석 기반 해설로, 수면시간 집착보다 규칙적인 취침·기상이 건강과 관련 있다는 상식을 깨는 주장",
-      "source": "Welltory, 2026-11-09 (Health & Wellness Trends 2026: Science vs Hype)",
+      "topic": "취침시간 1시간만 당겨도 살이 빠진다? 당뇨 전단계 실험 결과",
+      "summary": "당뇨병 전단계 성인 196명 대상 8주 프로그램에서 일찍 잠든 사람일수록 체중 감소 폭이 컸다는 연관성이 보고됐으나 혈당 개선 효과는 확인되지 않아 \"단순 인과\"로 오해하기 쉬운 주제",
+      "source": "MedicalXpress(NYU 연구 소개), Earlier bedtime linked to greater weight loss in prediabetes trial, 2026-11-03, https://medicalxpress.com/news/2026-11-earlier-bedtime-linked-greater-weight.html",
       "category": "ENERGY",
       "formatType": "해외짜집기",
-      "viralPoint": "저장(수면 루틴 체크리스트), 댓글(본인 수면패턴 공유)"
+      "viralPoint": "저장(오늘 밤부터 적용 가능)"
     },
     {
-      "topic": "저속노화, 비싼 바이오해킹보다 \"이것\" 하나면 충분",
-      "summary": "전문가 63명 설문 결과 수명연장 보충제보다 기본 습관·사회적 관계가 건강노화에 더 중요하다는 논쟁적 메시지",
-      "source": "Valter Longo Foundation, 2026-11-07 (Healthy Aging: Good Habits Matter More Than \"Biohacks\")",
-      "category": "RITUAL",
+      "topic": "장이 건강하면 잠도 잘 잔다? '장-수면 축' 54개 연구 리뷰",
+      "summary": "수면장애와 장내미생물 다양성·염증지표 사이 연관성을 다룬 54개 연구 리뷰가 나왔지만 특정 균주나 보충제가 수면을 개선한다고 결론 내리긴 이르다는 신중론이 공존",
+      "source": "PubMed, The gut-sleep connection: a scoping review into microbiome alterations in sleep-wake and circadian disorders, 2026-07-01(업데이트 09-12), https://pubmed.ncbi.nlm.nih.gov/42437546/",
+      "category": "BODY",
       "formatType": "해외짜집기",
-      "viralPoint": "공유(바이오해킹 vs 기본습관 논쟁), 저장"
+      "viralPoint": "저장(장건강 체크리스트형)"
     },
     {
-      "topic": "다이어트 주사 열풍이 바꾼 웰니스 소비 지도",
-      "summary": "GLP-1 약물 유행이 단백질·크레아틴·냉수욕·바이오마커 검사까지 번진 최신 소비 트렌드 분석",
-      "source": "McKinsey, 2026-11-03 (Future of Wellness 2027)",
-      "category": "TREND",
+      "topic": "갱년기 스트레스, 유산균 하나로 잡힐까 - 초기 연구가 던진 질문",
+      "summary": "열처리 유산균(포스트바이오틱)이 스트레스 높은 폐경기 여성의 염증·수면·BMI 지표에 변화를 보였다는 2026년 11월 업계 보도가 나왔지만, 소규모 초기 결과라 과장 해석을 경계해야 함",
+      "source": "NutraIngredients, Postbiotic may improve symptoms in menopausal women with high stress, study suggests, 2026-11-09, https://www.nutraingredients.com/Health-conditions/Gut-digestive-health/",
+      "category": "BODY",
       "formatType": "트렌드",
-      "viralPoint": "공유(최신 트렌드 정보), 저장"
+      "viralPoint": "공유(갱년기 지인 태그)"
     },
     {
-      "topic": "아침에 먹는 적응원 보충제, 2주 만에 스트레스·수면 개선?",
-      "summary": "아슈와간다+로디올라 아침 섭취 14일 연구에서 주관적 스트레스·수면 지표 개선 보고, 다만 초기 단계 근거라는 점도 함께 짚을 주제",
-      "source": "PubMed 등재 논문, 2026-10-04 온라인 공개 (https://pubmed.ncbi.nlm.nih.gov/42829807/)",
+      "topic": "비싼 바이오해킹보다 무서운 건 '혼자 있는 시간' - 전문가 63명의 경고",
+      "summary": "2026년 전문가 설문에서 냉수욕·고가 보충제보다 운동·균형식·사회적 연결이 건강한 노화의 핵심으로 꼽혔고, 사회적 고립이 과소평가된 노화 가속 요인으로 지목됨",
+      "source": "U.S. News & World Report, 2026 Healthy Aging Survey: 5 Proven Habits That Matter More Than Biohacks, 2026-09-01(업데이트 10-22), https://health.usnews.com/wellness/articles/2026-healthy-aging-survey-5-proven-habits-that-matter-more-than-biohacks",
       "category": "MIND",
-      "formatType": "꿀팁",
-      "viralPoint": "저장(섭취법 정리), 댓글(효과 후기 궁금증)"
+      "formatType": "트렌드",
+      "viralPoint": "공유(가족·친구 안부 전화 유도)"
     }
   ],
-  "rawResponse": "주제 1: 폐경기엔 유산소만 해선 체중 안 빠지는 이유\n한줄요약: \"예전처럼 먹고 운동해도 살이 안 빠진다\"는 4050 여성의 실제 고민을 다룬 최신 전문가 코멘트, 근력·체중부하 운동의 필요성을 다룸\n출처: U.S. News/HealthDay News, 2026-10-21 (Menopause And Exercise: Experts Share What Works)\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 댓글(본인 경험 공유), 저장(운동법 정리)\n\n주제 2: 수면 \"몇 시간\"보다 \"몇 시에\"가 더 중요하다\n한줄요약: 영국 바이오뱅크 분석 기반 해설로, 수면시간 집착보다 규칙적인 취침·기상이 건강과 관련 있다는 상식을 깨는 주장\n출처: Welltory, 2026-11-09 (Health & Wellness Trends 2026: Science vs Hype)\n카테고리: ENERGY\n포맷유형: 해외짜집기\n바이럴포인트: 저장(수면 루틴 체크리스트), 댓글(본인 수면패턴 공유)\n\n주제 3: 저속노화, 비싼 바이오해킹보다 \"이것\" 하나면 충분\n한줄요약: 전문가 63명 설문 결과 수명연장 보충제보다 기본 습관·사회적 관계가 건강노화에 더 중요하다는 논쟁적 메시지\n출처: Valter Longo Foundation, 2026-11-07 (Healthy Aging: Good Habits Matter More Than \"Biohacks\")\n카테고리: RITUAL\n포맷유형: 해외짜집기\n바이럴포인트: 공유(바이오해킹 vs 기본습관 논쟁), 저장\n\n주제 4: 다이어트 주사 열풍이 바꾼 웰니스 소비 지도\n한줄요약: GLP-1 약물 유행이 단백질·크레아틴·냉수욕·바이오마커 검사까지 번진 최신 소비 트렌드 분석\n출처: McKinsey, 2026-11-03 (Future of Wellness 2027)\n카테고리: TREND\n포맷유형: 트렌드\n바이럴포인트: 공유(최신 트렌드 정보), 저장\n\n주제 5: 아침에 먹는 적응원 보충제, 2주 만에 스트레스·수면 개선?\n한줄요약: 아슈와간다+로디올라 아침 섭취 14일 연구에서 주관적 스트레스·수면 지표 개선 보고, 다만 초기 단계 근거라는 점도 함께 짚을 주제\n출처: PubMed 등재 논문, 2026-10-04 온라인 공개 (https://pubmed.ncbi.nlm.nih.gov/42829807/)\n카테고리: MIND\n포맷유형: 꿀팁\n바이럴포인트: 저장(섭취법 정리), 댓글(효과 후기 궁금증)"
+  "rawResponse": "주제 1: 밤늦게 자고 밤늦게 먹으면 생기는 일 - 대사증후군 경고\n한줄요약: 비만 성인 대상 연구에서 늦은 수면형+늦은 식사 조합이 대사증후군 위험 요인과 함께 관찰돼 \"언제 자고 먹는지\"가 \"무엇을 먹는지\"만큼 중요할 수 있다는 논의가 나옴\n출처: MedicalXpress, Night owls who eat late may face higher health risks, 2026-11-10, https://medicalxpress.com/news/2026-11-night-owls-late-higher-health.html\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 댓글(본인 식습관 고백/반박)\n\n주제 2: 취침시간 1시간만 당겨도 살이 빠진다? 당뇨 전단계 실험 결과\n한줄요약: 당뇨병 전단계 성인 196명 대상 8주 프로그램에서 일찍 잠든 사람일수록 체중 감소 폭이 컸다는 연관성이 보고됐으나 혈당 개선 효과는 확인되지 않아 \"단순 인과\"로 오해하기 쉬운 주제\n출처: MedicalXpress(NYU 연구 소개), Earlier bedtime linked to greater weight loss in prediabetes trial, 2026-11-03, https://medicalxpress.com/news/2026-11-earlier-bedtime-linked-greater-weight.html\n카테고리: ENERGY\n포맷유형: 해외짜집기\n바이럴포인트: 저장(오늘 밤부터 적용 가능)\n\n주제 3: 장이 건강하면 잠도 잘 잔다? '장-수면 축' 54개 연구 리뷰\n한줄요약: 수면장애와 장내미생물 다양성·염증지표 사이 연관성을 다룬 54개 연구 리뷰가 나왔지만 특정 균주나 보충제가 수면을 개선한다고 결론 내리긴 이르다는 신중론이 공존\n출처: PubMed, The gut-sleep connection: a scoping review into microbiome alterations in sleep-wake and circadian disorders, 2026-07-01(업데이트 09-12), https://pubmed.ncbi.nlm.nih.gov/42437546/\n카테고리: BODY\n포맷유형: 해외짜집기\n바이럴포인트: 저장(장건강 체크리스트형)\n\n주제 4: 갱년기 스트레스, 유산균 하나로 잡힐까 - 초기 연구가 던진 질문\n한줄요약: 열처리 유산균(포스트바이오틱)이 스트레스 높은 폐경기 여성의 염증·수면·BMI 지표에 변화를 보였다는 2026년 11월 업계 보도가 나왔지만, 소규모 초기 결과라 과장 해석을 경계해야 함\n출처: NutraIngredients, Postbiotic may improve symptoms in menopausal women with high stress, study suggests, 2026-11-09, https://www.nutraingredients.com/Health-conditions/Gut-digestive-health/\n카테고리: BODY\n포맷유형: 트렌드\n바이럴포인트: 공유(갱년기 지인 태그)\n\n주제 5: 비싼 바이오해킹보다 무서운 건 '혼자 있는 시간' - 전문가 63명의 경고\n한줄요약: 2026년 전문가 설문에서 냉수욕·고가 보충제보다 운동·균형식·사회적 연결이 건강한 노화의 핵심으로 꼽혔고, 사회적 고립이 과소평가된 노화 가속 요인으로 지목됨\n출처: U.S. News & World Report, 2026 Healthy Aging Survey: 5 Proven Habits That Matter More Than Biohacks, 2026-09-01(업데이트 10-22), https://health.usnews.com/wellness/articles/2026-healthy-aging-survey-5-proven-habits-that-matter-more-than-biohacks\n카테고리: MIND\n포맷유형: 트렌드\n바이럴포인트: 공유(가족·친구 안부 전화 유도)"
 }
