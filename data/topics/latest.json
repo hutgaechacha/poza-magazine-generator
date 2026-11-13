@@ -1,47 +1,47 @@
 {
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T02:07:28.706Z",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T01:40:51.715Z",
   "topics": [
     {
-      "topic": "폐경기 \"브레인 포그\", 호르몬 치료로 12개월 만에 개선됐다?",
-      "summary": "집중력 저하와 깜빡함을 \"나이 탓\"으로만 넘겨온 4050 여성들에게 초기 연구 결과가 화제를 모으는 중임",
-      "source": "UCLA Health, 2026-09-01, https://www.uclahealth.org/news/release/study-suggests-menopause-hormone-treatment-may-ease-brain",
-      "category": "MIND",
-      "formatType": "해외짜집기",
-      "viralPoint": "저장"
-    },
-    {
-      "topic": "걷기만으로는 부족하다? 운동 강도가 수명을 가른다는 9.6만 명 연구",
-      "summary": "\"매일 만보 걷기\"로 충분하다 믿었던 상식에 반박하는 대규모 영국 코호트 연구가 나와 논쟁 중임",
-      "source": "European Heart Journal 연구를 다룬 Yahoo Health, 2026-10-26, https://health.yahoo.com/wellness/fitness/exercise/articles/scientists-studied-96-000-adults-013936799.html",
-      "category": "ENERGY",
-      "formatType": "트렌드",
-      "viralPoint": "댓글"
-    },
-    {
-      "topic": "갱년기가 되면 장이 먼저 샌다? \"장 누수\"와 면역 변화의 실체",
-      "summary": "폐경을 생식 증상이 아니라 장벽 손상·면역 활성화 관점에서 본 새로운 연구가 눈길을 끎",
-      "source": "Journal of Clinical Investigation, 2026-09-01, https://www.jci.org/articles/view/209807",
+      "topic": "\"단백질 많이 먹을수록 좋다\"는 상식, 틀렸을 수도 있음",
+      "summary": "350편 이상의 연구를 검토한 리뷰가 단백질 과잉 섭취가 오히려 노화를 앞당길 수 있다는 결과를 내놓으며 중년 고단백 식단 트렌드와 정면 충돌함",
+      "source": "ScienceDaily, \"Staying Healthy News\", 2026년 11월 10일 - https://www.sciencedaily.com/news/health_medicine/staying_healthy/",
       "category": "BODY",
       "formatType": "공포유발",
-      "viralPoint": "공유"
+      "viralPoint": "댓글(단백질 챙겨먹던 사람들의 반박/동의 댓글 유도)"
     },
     {
-      "topic": "혈액 속에 남는 \"폐경의 흔적\", 치매 위험과 연결될 수 있다",
-      "summary": "폐경 전후 단백질 변화가 뇌세포 기능·알츠하이머 관련 경로와 연관된다는 Nature Medicine 연구가 주목받음",
-      "source": "Nature Medicine, 2026-09-22, https://www.nature.com/articles/s41591-026-04648-4",
+      "topic": "6시간 이하로 자면 치매 위험 올라간다는 장기추적 결과",
+      "summary": "50·60·70대 대상 장기 추적 연구에서 꾸준히 6시간 이하로 잔 그룹이 7시간 수면군보다 치매 위험이 높게 관찰돼 \"수면=뇌 노화의 핵심축\"이라는 담론이 부상함",
+      "source": "Bradenton Herald, \"Why longevity experts are talking about sleep\", 2026년 11월 9일(업데이트 11월 12일) - https://www.bradenton.com/health-wellness/article317995551.html",
       "category": "MIND",
       "formatType": "공포유발",
-      "viralPoint": "저장"
+      "viralPoint": "저장(자신의 평균 수면시간과 비교해보게 만듦)"
     },
     {
-      "topic": "운동 시간 늘리기보다 \"앉은 시간을 무엇으로 바꾸는가\"가 관건",
-      "summary": "노년기 건강을 24시간 전체의 시간 배분 문제로 보는 최신 스코핑 리뷰가 실용적 꿀팁으로 화제임",
-      "source": "Frontiers in Medicine, 2026-10-16, https://pubmed.ncbi.nlm.nih.gov/42964077/",
-      "category": "RITUAL",
+      "topic": "장수 식단, 유행 다이어트 하나보다 '이것' 하나가 공통분모였음",
+      "summary": "6,470명 데이터를 분석한 결과 지중해식·DASH·MIND 등 식단 종류와 무관하게 식이섬유 섭취량이 생물학적 노화 지표와 가장 일관된 연관성을 보임",
+      "source": "Yahoo Health, \"The What and When of Longevity Dieting\", 2026년 11월 11일(인용 연구: Innovation Nutrition) - https://health.yahoo.com/wellness/healthy-aging/longevity/articles/longevity-dieting-070000198.html",
+      "category": "BODY",
       "formatType": "꿀팁",
-      "viralPoint": "저장"
+      "viralPoint": "저장(식단 종류 고민 없이 바로 적용 가능한 실천법)"
+    },
+    {
+      "topic": "'테스토스테론 열풍', 호르몬 결핍 진단 없이 처방받는 사람들",
+      "summary": "피로·성욕 저하·근육량 감소를 전부 남성호르몬 탓으로 돌리는 온라인 처방이 급증했지만, 미국 비뇨기과학회는 처방자 상당수가 실제 결핍 진단을 받지 않았다고 지적함",
+      "source": "El País English, \"Testosterone fever: the only hormone that has an ideology\", 2026년 10월 20일(업데이트 11월 7일) - https://english.elpais.com/health/2026-10-20/testosterone-fever-the-only-hormone-that-has-an-ideology.html",
+      "category": "BODY",
+      "formatType": "공포유발",
+      "viralPoint": "공유(본인 또는 지인의 호르몬 치료 경험과 연결해 공유)"
+    },
+    {
+      "topic": "NAD+ 정맥주사, '노화 역전'이라더니 사람 대상 증거는 아직 없음",
+      "summary": "고가 장수 시술로 떠오른 NAD+ IV와 성장호르몬 보충제가 동물실험·기전 설명에만 의존할 뿐, 사람 대상 수명연장 효과를 입증한 임상 결과는 충분하지 않다는 비판적 분석이 이어짐",
+      "source": "KCM Longevity, \"NAD⁺ IV Infusions and Longevity: What Is Proven Today?\", 2026년 10월 7일(업데이트 11월 12일) - https://www.kcmlongevity.com/insights/healthy-aging/nad-iv-infusions-longevity ; 관련 Genetic Literacy Project, 2026년 10월 21일 - https://geneticliteracyproject.org/2026/10/21/drugs-and-supplements-can-extend-life-and-five-other-longevity-myths/",
+      "category": "TREND",
+      "formatType": "해외짜집기",
+      "viralPoint": "댓글(고가 시술 받아본 경험 공유 유도)"
     }
   ],
-  "rawResponse": "주제 1: 폐경기 \"브레인 포그\", 호르몬 치료로 12개월 만에 개선됐다?\n한줄요약: 집중력 저하와 깜빡함을 \"나이 탓\"으로만 넘겨온 4050 여성들에게 초기 연구 결과가 화제를 모으는 중임\n출처: UCLA Health, 2026-09-01, https://www.uclahealth.org/news/release/study-suggests-menopause-hormone-treatment-may-ease-brain\n카테고리: MIND\n포맷유형: 해외짜집기\n바이럴포인트: 저장\n\n주제 2: 걷기만으로는 부족하다? 운동 강도가 수명을 가른다는 9.6만 명 연구\n한줄요약: \"매일 만보 걷기\"로 충분하다 믿었던 상식에 반박하는 대규모 영국 코호트 연구가 나와 논쟁 중임\n출처: European Heart Journal 연구를 다룬 Yahoo Health, 2026-10-26, https://health.yahoo.com/wellness/fitness/exercise/articles/scientists-studied-96-000-adults-013936799.html\n카테고리: ENERGY\n포맷유형: 트렌드\n바이럴포인트: 댓글\n\n주제 3: 갱년기가 되면 장이 먼저 샌다? \"장 누수\"와 면역 변화의 실체\n한줄요약: 폐경을 생식 증상이 아니라 장벽 손상·면역 활성화 관점에서 본 새로운 연구가 눈길을 끎\n출처: Journal of Clinical Investigation, 2026-09-01, https://www.jci.org/articles/view/209807\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 공유\n\n주제 4: 혈액 속에 남는 \"폐경의 흔적\", 치매 위험과 연결될 수 있다\n한줄요약: 폐경 전후 단백질 변화가 뇌세포 기능·알츠하이머 관련 경로와 연관된다는 Nature Medicine 연구가 주목받음\n출처: Nature Medicine, 2026-09-22, https://www.nature.com/articles/s41591-026-04648-4\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 저장\n\n주제 5: 운동 시간 늘리기보다 \"앉은 시간을 무엇으로 바꾸는가\"가 관건\n한줄요약: 노년기 건강을 24시간 전체의 시간 배분 문제로 보는 최신 스코핑 리뷰가 실용적 꿀팁으로 화제임\n출처: Frontiers in Medicine, 2026-10-16, https://pubmed.ncbi.nlm.nih.gov/42964077/\n카테고리: RITUAL\n포맷유형: 꿀팁\n바이럴포인트: 저장"
+  "rawResponse": "주제 1: \"단백질 많이 먹을수록 좋다\"는 상식, 틀렸을 수도 있음\n한줄요약: 350편 이상의 연구를 검토한 리뷰가 단백질 과잉 섭취가 오히려 노화를 앞당길 수 있다는 결과를 내놓으며 중년 고단백 식단 트렌드와 정면 충돌함\n출처: ScienceDaily, \"Staying Healthy News\", 2026년 11월 10일 - https://www.sciencedaily.com/news/health_medicine/staying_healthy/\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 댓글(단백질 챙겨먹던 사람들의 반박/동의 댓글 유도)\n\n주제 2: 6시간 이하로 자면 치매 위험 올라간다는 장기추적 결과\n한줄요약: 50·60·70대 대상 장기 추적 연구에서 꾸준히 6시간 이하로 잔 그룹이 7시간 수면군보다 치매 위험이 높게 관찰돼 \"수면=뇌 노화의 핵심축\"이라는 담론이 부상함\n출처: Bradenton Herald, \"Why longevity experts are talking about sleep\", 2026년 11월 9일(업데이트 11월 12일) - https://www.bradenton.com/health-wellness/article317995551.html\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 저장(자신의 평균 수면시간과 비교해보게 만듦)\n\n주제 3: 장수 식단, 유행 다이어트 하나보다 '이것' 하나가 공통분모였음\n한줄요약: 6,470명 데이터를 분석한 결과 지중해식·DASH·MIND 등 식단 종류와 무관하게 식이섬유 섭취량이 생물학적 노화 지표와 가장 일관된 연관성을 보임\n출처: Yahoo Health, \"The What and When of Longevity Dieting\", 2026년 11월 11일(인용 연구: Innovation Nutrition) - https://health.yahoo.com/wellness/healthy-aging/longevity/articles/longevity-dieting-070000198.html\n카테고리: BODY\n포맷유형: 꿀팁\n바이럴포인트: 저장(식단 종류 고민 없이 바로 적용 가능한 실천법)\n\n주제 4: '테스토스테론 열풍', 호르몬 결핍 진단 없이 처방받는 사람들\n한줄요약: 피로·성욕 저하·근육량 감소를 전부 남성호르몬 탓으로 돌리는 온라인 처방이 급증했지만, 미국 비뇨기과학회는 처방자 상당수가 실제 결핍 진단을 받지 않았다고 지적함\n출처: El País English, \"Testosterone fever: the only hormone that has an ideology\", 2026년 10월 20일(업데이트 11월 7일) - https://english.elpais.com/health/2026-10-20/testosterone-fever-the-only-hormone-that-has-an-ideology.html\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 공유(본인 또는 지인의 호르몬 치료 경험과 연결해 공유)\n\n주제 5: NAD+ 정맥주사, '노화 역전'이라더니 사람 대상 증거는 아직 없음\n한줄요약: 고가 장수 시술로 떠오른 NAD+ IV와 성장호르몬 보충제가 동물실험·기전 설명에만 의존할 뿐, 사람 대상 수명연장 효과를 입증한 임상 결과는 충분하지 않다는 비판적 분석이 이어짐\n출처: KCM Longevity, \"NAD⁺ IV Infusions and Longevity: What Is Proven Today?\", 2026년 10월 7일(업데이트 11월 12일) - https://www.kcmlongevity.com/insights/healthy-aging/nad-iv-infusions-longevity ; 관련 Genetic Literacy Project, 2026년 10월 21일 - https://geneticliteracyproject.org/2026/10/21/drugs-and-supplements-can-extend-life-and-five-other-longevity-myths/\n카테고리: TREND\n포맷유형: 해외짜집기\n바이럴포인트: 댓글(고가 시술 받아본 경험 공유 유도)"
 }
