@@ -1,47 +1,47 @@
 {
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T00:46:08.725Z",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T00:46:10.768Z",
   "topics": [
     {
-      "topic": "\"완벽한 식단은 없다\" — 7,500명 분석이 밝힌 저속노화 식사법의 배신",
-      "summary": "지중해식이든 북유럽식이든 식물성이든 \"꾸준히 하는 건강식\"이면 다 노화 지표가 느려짐 — 특정 유행 식단에 집착할 필요가 없다는 걸 보여주는 최신 분석임",
-      "source": "Nature Communications 연구 보도, ScienceDaily, 2026년 10월 20일 (https://www.sciencedaily.com/releases////2026/10/261019093439.htm)",
-      "category": "RITUAL",
-      "formatType": "해외짜집기",
-      "viralPoint": "저장"
-    },
-    {
-      "topic": "전문가 89% \"바이오해킹보다 이것부터\" — 웨어러블 무용론",
-      "summary": "첨단 건강기기·보충제 열풍 속에서 전문가 설문 결과 운동·식사가 압도적 1위, 수면은 겨우 30% — 비싼 장비보다 기본이 먼저라는 반전 메시지임",
-      "source": "U.S. News & World Report 설문을 소개한 Fondazione Valter Longo, 2026년 11월 7일 (https://www.fondazionevalterlongo.org/en/healthy-aging-good-habits-matter-more-than-biohacks/)",
+      "topic": "GLP-1 비만약, 저속노화 명약일까 과대광고일까",
+      "summary": "세마글루타이드가 수명을 12% 늘렸다는 보도가 쏟아졌지만 근거는 암컷 생쥐 실험이라 사람 적용은 아직 미지수임",
+      "source": "Popular Mechanics, 2026-11-13 (https://www.popularmechanics.com/science/health/a74424636/semaglutide-anti-aging-research/); People, 2026-10-26 (https://people.com/can-glp-1s-slow-aging-exclusive-12184014)",
       "category": "TREND",
-      "formatType": "트렌드",
-      "viralPoint": "공유"
+      "formatType": "해외짜집기",
+      "viralPoint": "댓글(찬반 논쟁 유도)"
     },
     {
-      "topic": "몇 시간 잤는지보다 \"몇 시에 잤는지\"가 생사를 가른다",
-      "summary": "수면시간 채우기보다 취침·기상 시간의 규칙성이 사망 위험과 더 연관됐다는 최신 보도 — 매일 들쭉날쭉한 수면 패턴을 가진 4050에게 직격탄 되는 주제임",
-      "source": "Health, 2026년 11월 6일 (https://www.health.com/nighttime-habits-for-a-longer-life-12188945)",
-      "category": "ENERGY",
-      "formatType": "공포유발",
-      "viralPoint": "댓글"
-    },
-    {
-      "topic": "단백질만 먹어선 안 됨 — 근육 지키는 조합 공식",
-      "summary": "단백질+HMB+크레아틴+저항운동이 묶여야 근육 건강에 의미 있다는 최신 웨비나·연구 흐름 — 단백질 셰이크만 믿던 사람들에게 꿀팁이 되는 주제임",
-      "source": "Abbott Nutrition Health Institute 웨비나, 2026년 10월 27일 (https://www.anhi.org/events/webinar/27-oct-2026-ANRC-more-than-living-longer); The Journal of Nutrition, 2026년 10월 21일 (https://pubmed.ncbi.nlm.nih.gov/42906854/)",
-      "category": "BODY",
-      "formatType": "꿀팁",
-      "viralPoint": "저장"
-    },
-    {
-      "topic": "전문가 59%가 꼽은 \"숨은 노화 가속기\" — 운동도 식단도 아니다",
-      "summary": "사회적 고립이 건강한 노화에서 가장 과소평가된 요인으로 꼽혔음 — 혼자 밥 먹고 혼자 운동하는 중년에게 경고등 켜는 주제임",
-      "source": "Fondazione Valter Longo, 2026년 11월 7일 (https://www.fondazionevalterlongo.org/en/healthy-aging-good-habits-matter-more-than-biohacks/)",
+      "topic": "갱년기, 단순 생리 변화 아닌 ‘뇌 노화의 변곡점’",
+      "summary": "생식 기간이 길수록 뇌 백질이 더 잘 보존된다는 연구 결과가 나오며 에스트로겐과 치매 위험의 연관성이 재조명됨",
+      "source": "Neurology 연구 인용 Anchorage Daily News, 2026-11-05 (https://www.adn.com/nation-world/2026/11/05/new-estrogen-research-may-change-how-scientists-think-about-womens-aging-brains); Neuron, 2026-10-30 (https://pubmed.ncbi.nlm.nih.gov/42962664/)",
       "category": "MIND",
       "formatType": "공포유발",
-      "viralPoint": "댓글"
+      "viralPoint": "저장"
+    },
+    {
+      "topic": "갱년기, 열감 아니라 더부룩함으로 온다",
+      "summary": "40~60세 여성 1,800여 명 조사에서 복부 팽만·가스가 흔한 갱년기 신호로 보고돼 체감 공감대가 큼",
+      "source": "캘거리대 연구 인용 AARP, 2026-10-23(10-27 업데이트) (https://www.aarp.org/health/conditions-treatments/menopause-research-findings/)",
+      "category": "BODY",
+      "formatType": "꿀팁",
+      "viralPoint": "공유(지인 태그 유도)"
+    },
+    {
+      "topic": "“호르몬 치료는 무조건 위험하다”는 상식 다시 보기",
+      "summary": "갱년기 호르몬 치료를 하나로 묶어 찬반을 가르던 시각에서 벗어나 개인별 위험·편익 평가가 필요하다는 리뷰가 발표됨",
+      "source": "Science, 2026-10-01 「Reframing menopause and menopause hormone therapy as opportunities for healthy aging」 (https://pubmed.ncbi.nlm.nih.gov/42821696/)",
+      "category": "MIND",
+      "formatType": "해외짜집기",
+      "viralPoint": "댓글(경험 공유 유도)"
+    },
+    {
+      "topic": "2027년 웰니스 트렌드는 ‘회복·검사·맥싱’",
+      "summary": "맥킨지가 꼽은 내년 키워드는 냉온욕 회복, 가정용 바이오마커 검사, 단백질·크레아틴·식이섬유 과잉 섭취 트렌드임",
+      "source": "McKinsey 「Future of Wellness 2027」, 2026-11-03(11-06 업데이트) (https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends/); NutraIngredients, 2026-11-10 (https://www.nutraingredients.com/Article/2026/11/10/mckinsey-wellness-consumers-demand-more-proof/)",
+      "category": "TREND",
+      "formatType": "트렌드",
+      "viralPoint": "저장(체크리스트형 정보)"
     }
   ],
-  "rawResponse": "주제 1: \"완벽한 식단은 없다\" — 7,500명 분석이 밝힌 저속노화 식사법의 배신\n한줄요약: 지중해식이든 북유럽식이든 식물성이든 \"꾸준히 하는 건강식\"이면 다 노화 지표가 느려짐 — 특정 유행 식단에 집착할 필요가 없다는 걸 보여주는 최신 분석임\n출처: Nature Communications 연구 보도, ScienceDaily, 2026년 10월 20일 (https://www.sciencedaily.com/releases////2026/10/261019093439.htm)\n카테고리: RITUAL\n포맷유형: 해외짜집기\n바이럴포인트: 저장\n\n주제 2: 전문가 89% \"바이오해킹보다 이것부터\" — 웨어러블 무용론\n한줄요약: 첨단 건강기기·보충제 열풍 속에서 전문가 설문 결과 운동·식사가 압도적 1위, 수면은 겨우 30% — 비싼 장비보다 기본이 먼저라는 반전 메시지임\n출처: U.S. News & World Report 설문을 소개한 Fondazione Valter Longo, 2026년 11월 7일 (https://www.fondazionevalterlongo.org/en/healthy-aging-good-habits-matter-more-than-biohacks/)\n카테고리: TREND\n포맷유형: 트렌드\n바이럴포인트: 공유\n\n주제 3: 몇 시간 잤는지보다 \"몇 시에 잤는지\"가 생사를 가른다\n한줄요약: 수면시간 채우기보다 취침·기상 시간의 규칙성이 사망 위험과 더 연관됐다는 최신 보도 — 매일 들쭉날쭉한 수면 패턴을 가진 4050에게 직격탄 되는 주제임\n출처: Health, 2026년 11월 6일 (https://www.health.com/nighttime-habits-for-a-longer-life-12188945)\n카테고리: ENERGY\n포맷유형: 공포유발\n바이럴포인트: 댓글\n\n주제 4: 단백질만 먹어선 안 됨 — 근육 지키는 조합 공식\n한줄요약: 단백질+HMB+크레아틴+저항운동이 묶여야 근육 건강에 의미 있다는 최신 웨비나·연구 흐름 — 단백질 셰이크만 믿던 사람들에게 꿀팁이 되는 주제임\n출처: Abbott Nutrition Health Institute 웨비나, 2026년 10월 27일 (https://www.anhi.org/events/webinar/27-oct-2026-ANRC-more-than-living-longer); The Journal of Nutrition, 2026년 10월 21일 (https://pubmed.ncbi.nlm.nih.gov/42906854/)\n카테고리: BODY\n포맷유형: 꿀팁\n바이럴포인트: 저장\n\n주제 5: 전문가 59%가 꼽은 \"숨은 노화 가속기\" — 운동도 식단도 아니다\n한줄요약: 사회적 고립이 건강한 노화에서 가장 과소평가된 요인으로 꼽혔음 — 혼자 밥 먹고 혼자 운동하는 중년에게 경고등 켜는 주제임\n출처: Fondazione Valter Longo, 2026년 11월 7일 (https://www.fondazionevalterlongo.org/en/healthy-aging-good-habits-matter-more-than-biohacks/)\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글"
+  "rawResponse": "주제 1: GLP-1 비만약, 저속노화 명약일까 과대광고일까\n한줄요약: 세마글루타이드가 수명을 12% 늘렸다는 보도가 쏟아졌지만 근거는 암컷 생쥐 실험이라 사람 적용은 아직 미지수임\n출처: Popular Mechanics, 2026-11-13 (https://www.popularmechanics.com/science/health/a74424636/semaglutide-anti-aging-research/); People, 2026-10-26 (https://people.com/can-glp-1s-slow-aging-exclusive-12184014)\n카테고리: TREND\n포맷유형: 해외짜집기\n바이럴포인트: 댓글(찬반 논쟁 유도)\n\n주제 2: 갱년기, 단순 생리 변화 아닌 ‘뇌 노화의 변곡점’\n한줄요약: 생식 기간이 길수록 뇌 백질이 더 잘 보존된다는 연구 결과가 나오며 에스트로겐과 치매 위험의 연관성이 재조명됨\n출처: Neurology 연구 인용 Anchorage Daily News, 2026-11-05 (https://www.adn.com/nation-world/2026/11/05/new-estrogen-research-may-change-how-scientists-think-about-womens-aging-brains); Neuron, 2026-10-30 (https://pubmed.ncbi.nlm.nih.gov/42962664/)\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 저장\n\n주제 3: 갱년기, 열감 아니라 더부룩함으로 온다\n한줄요약: 40~60세 여성 1,800여 명 조사에서 복부 팽만·가스가 흔한 갱년기 신호로 보고돼 체감 공감대가 큼\n출처: 캘거리대 연구 인용 AARP, 2026-10-23(10-27 업데이트) (https://www.aarp.org/health/conditions-treatments/menopause-research-findings/)\n카테고리: BODY\n포맷유형: 꿀팁\n바이럴포인트: 공유(지인 태그 유도)\n\n주제 4: “호르몬 치료는 무조건 위험하다”는 상식 다시 보기\n한줄요약: 갱년기 호르몬 치료를 하나로 묶어 찬반을 가르던 시각에서 벗어나 개인별 위험·편익 평가가 필요하다는 리뷰가 발표됨\n출처: Science, 2026-10-01 「Reframing menopause and menopause hormone therapy as opportunities for healthy aging」 (https://pubmed.ncbi.nlm.nih.gov/42821696/)\n카테고리: MIND\n포맷유형: 해외짜집기\n바이럴포인트: 댓글(경험 공유 유도)\n\n주제 5: 2027년 웰니스 트렌드는 ‘회복·검사·맥싱’\n한줄요약: 맥킨지가 꼽은 내년 키워드는 냉온욕 회복, 가정용 바이오마커 검사, 단백질·크레아틴·식이섬유 과잉 섭취 트렌드임\n출처: McKinsey 「Future of Wellness 2027」, 2026-11-03(11-06 업데이트) (https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends/); NutraIngredients, 2026-11-10 (https://www.nutraingredients.com/Article/2026/11/10/mckinsey-wellness-consumers-demand-more-proof/)\n카테고리: TREND\n포맷유형: 트렌드\n바이럴포인트: 저장(체크리스트형 정보)"
 }
