@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T03:24:06.504Z",
+  "topics": [
+    {
+      "topic": "치매 증상 나타나기 전, 뇌는 이미 늙고 있다 - 장이 보내는 신호",
+      "summary": "UCLA가 1,500명 뇌영상을 분석해 증상 전 '뇌 노화 지수'를 찾아냈고, 장내 세균과도 연관성을 확인함. 인지저하 공포가 있는 4050에게 직결되는 이슈.",
+      "source": "UCLA Health, 2026-09-10 공개/2026-11-13 업데이트, https://www.uclahealth.org/news/release/brain-aging-may-be-detected-decades-before-symptoms-appear",
+      "category": "MIND",
+      "formatType": "공포유발",
+      "viralPoint": "댓글"
+    },
+    {
+      "topic": "나이 들수록 변하는 장내 세균, 나쁜 게 아니라 '적응'이라고?",
+      "summary": "UC샌디에이고 연구에서 장수인과 관련된 장내 대사활동을 발견, 통념(장내세균 변화=노화 악화)을 뒤집는 반전 메시지로 논쟁성 높음.",
+      "source": "Cell Metabolism, 2026-11-16 보도(News-Medical 기사), https://www.news-medical.net/news/20261116/Gut-microbiome-changes-could-potentially-be-harnessed-to-support-healthier-aging.aspx",
+      "category": "BODY",
+      "formatType": "해외짜집기",
+      "viralPoint": "저장"
+    },
+    {
+      "topic": "전문가 89%가 입모아 말한 저속노화 1순위, 보충제 아니었다",
+      "summary": "2026 건강노화 설문에서 전문가 89%가 바이오해킹보다 운동·균형식사를 꼽음. 비싼 안티에이징 제품에 혹하는 4050에게 '기본이 답'이라는 역설적 메시지.",
+      "source": "U.S. News & World Report, 2026-09-01 게시/2026-10-22 업데이트, https://health.usnews.com/wellness/articles/2026-healthy-aging-survey-5-proven-habits-that-matter-more-than-biohacks",
+      "category": "RITUAL",
+      "formatType": "꿀팁",
+      "viralPoint": "저장"
+    },
+    {
+      "topic": "몇 시간 잤는지보다 중요한 것 - '매일 같은 시간' 규칙의 힘",
+      "summary": "수면시간보다 취침·기상 규칙성이 사망위험과 연관된다는 분석이 주목받음. 갱년기·불규칙 생활로 수면이 흔들리는 4050에게 실천 가능한 팁.",
+      "source": "Welltory, 2026-07-22 게시/2026-11-16 업데이트, https://welltory.com/blog/wellness-trends-2026",
+      "category": "ENERGY",
+      "formatType": "꿀팁",
+      "viralPoint": "저장"
+    },
+    {
+      "topic": "2027년 웰니스 핵심 키워드 4가지 - GLP-1부터 자가검사까지",
+      "summary": "맥킨지가 전망한 웰니스 산업 트렌드(GLP-1 여파, 회복문화, 단백질, 자가검사)가 국내에도 곧 상륙할 흐름이라 미리 알아두면 좋은 트렌드성 주제.",
+      "source": "McKinsey, 2026-11-03 게시/11-04 업데이트, https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends",
+      "category": "TREND",
+      "formatType": "트렌드",
+      "viralPoint": "공유"
+    }
+  ],
+  "rawResponse": "주제 1: 치매 증상 나타나기 전, 뇌는 이미 늙고 있다 - 장이 보내는 신호\n한줄요약: UCLA가 1,500명 뇌영상을 분석해 증상 전 '뇌 노화 지수'를 찾아냈고, 장내 세균과도 연관성을 확인함. 인지저하 공포가 있는 4050에게 직결되는 이슈.\n출처: UCLA Health, 2026-09-10 공개/2026-11-13 업데이트, https://www.uclahealth.org/news/release/brain-aging-may-be-detected-decades-before-symptoms-appear\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글\n\n주제 2: 나이 들수록 변하는 장내 세균, 나쁜 게 아니라 '적응'이라고?\n한줄요약: UC샌디에이고 연구에서 장수인과 관련된 장내 대사활동을 발견, 통념(장내세균 변화=노화 악화)을 뒤집는 반전 메시지로 논쟁성 높음.\n출처: Cell Metabolism, 2026-11-16 보도(News-Medical 기사), https://www.news-medical.net/news/20261116/Gut-microbiome-changes-could-potentially-be-harnessed-to-support-healthier-aging.aspx\n카테고리: BODY\n포맷유형: 해외짜집기\n바이럴포인트: 저장\n\n주제 3: 전문가 89%가 입모아 말한 저속노화 1순위, 보충제 아니었다\n한줄요약: 2026 건강노화 설문에서 전문가 89%가 바이오해킹보다 운동·균형식사를 꼽음. 비싼 안티에이징 제품에 혹하는 4050에게 '기본이 답'이라는 역설적 메시지.\n출처: U.S. News & World Report, 2026-09-01 게시/2026-10-22 업데이트, https://health.usnews.com/wellness/articles/2026-healthy-aging-survey-5-proven-habits-that-matter-more-than-biohacks\n카테고리: RITUAL\n포맷유형: 꿀팁\n바이럴포인트: 저장\n\n주제 4: 몇 시간 잤는지보다 중요한 것 - '매일 같은 시간' 규칙의 힘\n한줄요약: 수면시간보다 취침·기상 규칙성이 사망위험과 연관된다는 분석이 주목받음. 갱년기·불규칙 생활로 수면이 흔들리는 4050에게 실천 가능한 팁.\n출처: Welltory, 2026-07-22 게시/2026-11-16 업데이트, https://welltory.com/blog/wellness-trends-2026\n카테고리: ENERGY\n포맷유형: 꿀팁\n바이럴포인트: 저장\n\n주제 5: 2027년 웰니스 핵심 키워드 4가지 - GLP-1부터 자가검사까지\n한줄요약: 맥킨지가 전망한 웰니스 산업 트렌드(GLP-1 여파, 회복문화, 단백질, 자가검사)가 국내에도 곧 상륙할 흐름이라 미리 알아두면 좋은 트렌드성 주제.\n출처: McKinsey, 2026-11-03 게시/11-04 업데이트, https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends\n카테고리: TREND\n포맷유형: 트렌드\n바이럴포인트: 공유"
+}
