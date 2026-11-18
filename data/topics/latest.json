@@ -1,47 +1,47 @@
 {
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T03:24:06.504Z",
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T02:43:52.903Z",
   "topics": [
     {
-      "topic": "치매 증상 나타나기 전, 뇌는 이미 늙고 있다 - 장이 보내는 신호",
-      "summary": "UCLA가 1,500명 뇌영상을 분석해 증상 전 '뇌 노화 지수'를 찾아냈고, 장내 세균과도 연관성을 확인함. 인지저하 공포가 있는 4050에게 직결되는 이슈.",
-      "source": "UCLA Health, 2026-09-10 공개/2026-11-13 업데이트, https://www.uclahealth.org/news/release/brain-aging-may-be-detected-decades-before-symptoms-appear",
-      "category": "MIND",
-      "formatType": "공포유발",
-      "viralPoint": "댓글"
-    },
-    {
-      "topic": "나이 들수록 변하는 장내 세균, 나쁜 게 아니라 '적응'이라고?",
-      "summary": "UC샌디에이고 연구에서 장수인과 관련된 장내 대사활동을 발견, 통념(장내세균 변화=노화 악화)을 뒤집는 반전 메시지로 논쟁성 높음.",
-      "source": "Cell Metabolism, 2026-11-16 보도(News-Medical 기사), https://www.news-medical.net/news/20261116/Gut-microbiome-changes-could-potentially-be-harnessed-to-support-healthier-aging.aspx",
+      "topic": "장 속 세균이 내 노화 속도를 15% 결정한다?",
+      "summary": "하와이대 연구에서 장내미생물 구성이 생물학적 노화 지표 차이의 약 15%와 연관된 것으로 나타나 \"노화는 장에서 시작된다\"는 화두가 다시 부상함",
+      "source": "Scientific Reports, \"Gut microbiome signatures associate with DNA methylation-based biological aging,\" 2026-10-27, DOI: https://doi.org/10.1038/s41598-026-52974-x / ScienceDaily 2026-10-27, https://www.sciencedaily.com/releases////2026/10/261026225620.htm",
       "category": "BODY",
-      "formatType": "해외짜집기",
-      "viralPoint": "저장"
+      "formatType": "생체나이",
+      "viralPoint": "저장 (내 장 상태가 노화 속도를 좌우한다는 불안감에 \"나중에 체크리스트로 확인\"하려는 저장 욕구 자극)"
     },
     {
-      "topic": "전문가 89%가 입모아 말한 저속노화 1순위, 보충제 아니었다",
-      "summary": "2026 건강노화 설문에서 전문가 89%가 바이오해킹보다 운동·균형식사를 꼽음. 비싼 안티에이징 제품에 혹하는 4050에게 '기본이 답'이라는 역설적 메시지.",
-      "source": "U.S. News & World Report, 2026-09-01 게시/2026-10-22 업데이트, https://health.usnews.com/wellness/articles/2026-healthy-aging-survey-5-proven-habits-that-matter-more-than-biohacks",
-      "category": "RITUAL",
+      "topic": "폐경 호르몬 치료, 다시 떠오르지만… 혈전 위험은 그대로",
+      "summary": "10월 미국 폐경학회가 호르몬 치료를 안면홍조·수면 문제의 1순위 선택지로 재조명한 동시에, 경구 호르몬제와 정맥혈전 위험 연관 연구도 함께 보도되며 찬반이 극명하게 갈림",
+      "source": "The Menopause Society 보도자료, 2026-10-16, https://menopause.org/press-room/press-releases / Drugs.com 폐경 치료 뉴스, 2026-10-08, https://www.drugs.com/answers/support-group/menopausal-disorders/news/?page=2",
+      "category": "BODY",
+      "formatType": "공포유발",
+      "viralPoint": "댓글 (호르몬 치료 경험자·반대자 간 의견 충돌로 댓글 논쟁 유도)"
+    },
+    {
+      "topic": "폐경기 '감정기복', 약보다 운동이 먼저다?",
+      "summary": "1,800명 이상 조사에서 신체활동이 많을수록 폐경기 불안·기분 증상 부담이 낮게 나타나 \"운동=멘탈 관리\"라는 인식 전환 포인트 제공",
+      "source": "Healthline, 2026-10-24, https://www.healthline.com/health-news/higher-physical-activity-improves-perimenopause-symptoms/ / The Menopause Society 2026 연례 학술대회 보도자료, 2026-10-14, https://menopause.org/press-room/press-releases",
+      "category": "MIND",
       "formatType": "꿀팁",
-      "viralPoint": "저장"
+      "viralPoint": "저장 (당장 실천 가능한 운동 루틴으로 저장 유도)"
     },
     {
-      "topic": "몇 시간 잤는지보다 중요한 것 - '매일 같은 시간' 규칙의 힘",
-      "summary": "수면시간보다 취침·기상 규칙성이 사망위험과 연관된다는 분석이 주목받음. 갱년기·불규칙 생활로 수면이 흔들리는 4050에게 실천 가능한 팁.",
-      "source": "Welltory, 2026-07-22 게시/2026-11-16 업데이트, https://welltory.com/blog/wellness-trends-2026",
+      "topic": "\"수면에 좋다\"던 수소 보충제, 임상시험에서 무너지다",
+      "summary": "무작위 이중맹검 시험에서 수소 보충제가 수면 질을 유의미하게 개선하지 못한 것으로 확인돼, 유행하던 보충제 트렌드에 제동이 걸림",
+      "source": "Scientific Reports, \"Individual variability in hydrogen-producing microbes influences the response to hydrogen supplementation on sleep quality,\" 2026, DOI: https://doi.org/10.1038/s41598-026-52342-9 / MedicalXpress, 2026-10-23, https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementation.html",
       "category": "ENERGY",
-      "formatType": "꿀팁",
-      "viralPoint": "저장"
+      "formatType": "공포유발",
+      "viralPoint": "공유 (\"이거 먹고 있었는데\" 하는 반응으로 공유 유도)"
     },
     {
-      "topic": "2027년 웰니스 핵심 키워드 4가지 - GLP-1부터 자가검사까지",
-      "summary": "맥킨지가 전망한 웰니스 산업 트렌드(GLP-1 여파, 회복문화, 단백질, 자가검사)가 국내에도 곧 상륙할 흐름이라 미리 알아두면 좋은 트렌드성 주제.",
-      "source": "McKinsey, 2026-11-03 게시/11-04 업데이트, https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends",
-      "category": "TREND",
+      "topic": "폐경기 브레인 포그, ADHD 약으로 해결될까?",
+      "summary": "미국 폐경학회가 ADHD 치료제가 폐경기 실행기능 저하(브레인 포그)에 도움될 가능성을 소개하며 초기 단계지만 화제성 높은 접근법으로 떠오름",
+      "source": "The Menopause Society 보도자료 아카이브, 2026-10-08, https://menopause.org/press-room/press-releases/page/2",
+      "category": "MIND",
       "formatType": "트렌드",
-      "viralPoint": "공유"
+      "viralPoint": "댓글 (\"나도 요즘 깜빡깜빡\" 공감형 댓글 유도)"
     }
   ],
-  "rawResponse": "주제 1: 치매 증상 나타나기 전, 뇌는 이미 늙고 있다 - 장이 보내는 신호\n한줄요약: UCLA가 1,500명 뇌영상을 분석해 증상 전 '뇌 노화 지수'를 찾아냈고, 장내 세균과도 연관성을 확인함. 인지저하 공포가 있는 4050에게 직결되는 이슈.\n출처: UCLA Health, 2026-09-10 공개/2026-11-13 업데이트, https://www.uclahealth.org/news/release/brain-aging-may-be-detected-decades-before-symptoms-appear\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글\n\n주제 2: 나이 들수록 변하는 장내 세균, 나쁜 게 아니라 '적응'이라고?\n한줄요약: UC샌디에이고 연구에서 장수인과 관련된 장내 대사활동을 발견, 통념(장내세균 변화=노화 악화)을 뒤집는 반전 메시지로 논쟁성 높음.\n출처: Cell Metabolism, 2026-11-16 보도(News-Medical 기사), https://www.news-medical.net/news/20261116/Gut-microbiome-changes-could-potentially-be-harnessed-to-support-healthier-aging.aspx\n카테고리: BODY\n포맷유형: 해외짜집기\n바이럴포인트: 저장\n\n주제 3: 전문가 89%가 입모아 말한 저속노화 1순위, 보충제 아니었다\n한줄요약: 2026 건강노화 설문에서 전문가 89%가 바이오해킹보다 운동·균형식사를 꼽음. 비싼 안티에이징 제품에 혹하는 4050에게 '기본이 답'이라는 역설적 메시지.\n출처: U.S. News & World Report, 2026-09-01 게시/2026-10-22 업데이트, https://health.usnews.com/wellness/articles/2026-healthy-aging-survey-5-proven-habits-that-matter-more-than-biohacks\n카테고리: RITUAL\n포맷유형: 꿀팁\n바이럴포인트: 저장\n\n주제 4: 몇 시간 잤는지보다 중요한 것 - '매일 같은 시간' 규칙의 힘\n한줄요약: 수면시간보다 취침·기상 규칙성이 사망위험과 연관된다는 분석이 주목받음. 갱년기·불규칙 생활로 수면이 흔들리는 4050에게 실천 가능한 팁.\n출처: Welltory, 2026-07-22 게시/2026-11-16 업데이트, https://welltory.com/blog/wellness-trends-2026\n카테고리: ENERGY\n포맷유형: 꿀팁\n바이럴포인트: 저장\n\n주제 5: 2027년 웰니스 핵심 키워드 4가지 - GLP-1부터 자가검사까지\n한줄요약: 맥킨지가 전망한 웰니스 산업 트렌드(GLP-1 여파, 회복문화, 단백질, 자가검사)가 국내에도 곧 상륙할 흐름이라 미리 알아두면 좋은 트렌드성 주제.\n출처: McKinsey, 2026-11-03 게시/11-04 업데이트, https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends\n카테고리: TREND\n포맷유형: 트렌드\n바이럴포인트: 공유"
+  "rawResponse": "주제 1: 장 속 세균이 내 노화 속도를 15% 결정한다?\n한줄요약: 하와이대 연구에서 장내미생물 구성이 생물학적 노화 지표 차이의 약 15%와 연관된 것으로 나타나 \"노화는 장에서 시작된다\"는 화두가 다시 부상함\n출처: Scientific Reports, \"Gut microbiome signatures associate with DNA methylation-based biological aging,\" 2026-10-27, DOI: https://doi.org/10.1038/s41598-026-52974-x / ScienceDaily 2026-10-27, https://www.sciencedaily.com/releases////2026/10/261026225620.htm\n카테고리: BODY\n포맷유형: 생체나이\n바이럴포인트: 저장 (내 장 상태가 노화 속도를 좌우한다는 불안감에 \"나중에 체크리스트로 확인\"하려는 저장 욕구 자극)\n\n주제 2: 폐경 호르몬 치료, 다시 떠오르지만… 혈전 위험은 그대로\n한줄요약: 10월 미국 폐경학회가 호르몬 치료를 안면홍조·수면 문제의 1순위 선택지로 재조명한 동시에, 경구 호르몬제와 정맥혈전 위험 연관 연구도 함께 보도되며 찬반이 극명하게 갈림\n출처: The Menopause Society 보도자료, 2026-10-16, https://menopause.org/press-room/press-releases / Drugs.com 폐경 치료 뉴스, 2026-10-08, https://www.drugs.com/answers/support-group/menopausal-disorders/news/?page=2\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 댓글 (호르몬 치료 경험자·반대자 간 의견 충돌로 댓글 논쟁 유도)\n\n주제 3: 폐경기 '감정기복', 약보다 운동이 먼저다?\n한줄요약: 1,800명 이상 조사에서 신체활동이 많을수록 폐경기 불안·기분 증상 부담이 낮게 나타나 \"운동=멘탈 관리\"라는 인식 전환 포인트 제공\n출처: Healthline, 2026-10-24, https://www.healthline.com/health-news/higher-physical-activity-improves-perimenopause-symptoms/ / The Menopause Society 2026 연례 학술대회 보도자료, 2026-10-14, https://menopause.org/press-room/press-releases\n카테고리: MIND\n포맷유형: 꿀팁\n바이럴포인트: 저장 (당장 실천 가능한 운동 루틴으로 저장 유도)\n\n주제 4: \"수면에 좋다\"던 수소 보충제, 임상시험에서 무너지다\n한줄요약: 무작위 이중맹검 시험에서 수소 보충제가 수면 질을 유의미하게 개선하지 못한 것으로 확인돼, 유행하던 보충제 트렌드에 제동이 걸림\n출처: Scientific Reports, \"Individual variability in hydrogen-producing microbes influences the response to hydrogen supplementation on sleep quality,\" 2026, DOI: https://doi.org/10.1038/s41598-026-52342-9 / MedicalXpress, 2026-10-23, https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementation.html\n카테고리: ENERGY\n포맷유형: 공포유발\n바이럴포인트: 공유 (\"이거 먹고 있었는데\" 하는 반응으로 공유 유도)\n\n주제 5: 폐경기 브레인 포그, ADHD 약으로 해결될까?\n한줄요약: 미국 폐경학회가 ADHD 치료제가 폐경기 실행기능 저하(브레인 포그)에 도움될 가능성을 소개하며 초기 단계지만 화제성 높은 접근법으로 떠오름\n출처: The Menopause Society 보도자료 아카이브, 2026-10-08, https://menopause.org/press-room/press-releases/page/2\n카테고리: MIND\n포맷유형: 트렌드\n바이럴포인트: 댓글 (\"나도 요즘 깜빡깜빡\" 공감형 댓글 유도)"
 }
