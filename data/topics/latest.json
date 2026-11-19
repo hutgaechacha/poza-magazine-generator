@@ -1,47 +1,47 @@
 {
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T02:43:52.903Z",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T02:16:19.375Z",
   "topics": [
     {
-      "topic": "장 속 세균이 내 노화 속도를 15% 결정한다?",
-      "summary": "하와이대 연구에서 장내미생물 구성이 생물학적 노화 지표 차이의 약 15%와 연관된 것으로 나타나 \"노화는 장에서 시작된다\"는 화두가 다시 부상함",
-      "source": "Scientific Reports, \"Gut microbiome signatures associate with DNA methylation-based biological aging,\" 2026-10-27, DOI: https://doi.org/10.1038/s41598-026-52974-x / ScienceDaily 2026-10-27, https://www.sciencedaily.com/releases////2026/10/261026225620.htm",
-      "category": "BODY",
-      "formatType": "생체나이",
-      "viralPoint": "저장 (내 장 상태가 노화 속도를 좌우한다는 불안감에 \"나중에 체크리스트로 확인\"하려는 저장 욕구 자극)"
+      "topic": "밥 잘 먹으면 운동 좀 덜 해도 된다? 장수 연구가 뒤집은 상식",
+      "summary": "\"식단이 보약\"이라 믿어온 상식과 달리 심폐체력·운동량이 사망 위험과 더 강하게 연관된다는 리뷰 연구가 나와 논쟁 중임",
+      "source": "Mayo Clinic Proceedings, 「Diet Quality Versus Physical Activity and Cardiorespiratory Fitness for Longevity」, 2026-11-11 (PubMed, ASU News 보도 기준, 발행일 표기 이상 있음-원문 확인 필요)",
+      "category": "TREND",
+      "formatType": "공포유발",
+      "viralPoint": "댓글(식단파 vs 운동파 논쟁 유도)"
     },
     {
-      "topic": "폐경 호르몬 치료, 다시 떠오르지만… 혈전 위험은 그대로",
-      "summary": "10월 미국 폐경학회가 호르몬 치료를 안면홍조·수면 문제의 1순위 선택지로 재조명한 동시에, 경구 호르몬제와 정맥혈전 위험 연관 연구도 함께 보도되며 찬반이 극명하게 갈림",
-      "source": "The Menopause Society 보도자료, 2026-10-16, https://menopause.org/press-room/press-releases / Drugs.com 폐경 치료 뉴스, 2026-10-08, https://www.drugs.com/answers/support-group/menopausal-disorders/news/?page=2",
+      "topic": "NMN·NAD+ 안티에이징 보충제, 효과 있다는 근거 약하다는 반박 나왔다",
+      "summary": "노화 늦춘다고 불티나게 팔리는 보충제들의 과학적 근거가 부실하다는 예일대 연구 결과가 공개돼 보충제 맹신층에 경각심을 줄 주제",
+      "source": "ScienceDaily, 「Yale scientists reveal what really slows aging and what doesn't」, 2026-11-18 (발행일 표기 이상 있음-원문 확인 필요)",
       "category": "BODY",
       "formatType": "공포유발",
-      "viralPoint": "댓글 (호르몬 치료 경험자·반대자 간 의견 충돌로 댓글 논쟁 유도)"
+      "viralPoint": "저장(지금 먹는 보충제 다시 점검)"
     },
     {
-      "topic": "폐경기 '감정기복', 약보다 운동이 먼저다?",
-      "summary": "1,800명 이상 조사에서 신체활동이 많을수록 폐경기 불안·기분 증상 부담이 낮게 나타나 \"운동=멘탈 관리\"라는 인식 전환 포인트 제공",
-      "source": "Healthline, 2026-10-24, https://www.healthline.com/health-news/higher-physical-activity-improves-perimenopause-symptoms/ / The Menopause Society 2026 연례 학술대회 보도자료, 2026-10-14, https://menopause.org/press-room/press-releases",
-      "category": "MIND",
+      "topic": "장 건강이 소화만 책임진다는 건 옛말, 수면·기분·면역까지 좌우한다",
+      "summary": "장-뇌 축 연구가 확장되며 장 건강을 수면의 질과 멘탈, 면역력까지 연결짓는 관점이 산업 전반에서 부상 중",
+      "source": "Nutrition Insight, 「Longevity nutrition: The next era of botanical innovation」, 2026-05-20(업데이트 2026-11-17)",
+      "category": "BODY",
       "formatType": "꿀팁",
-      "viralPoint": "저장 (당장 실천 가능한 운동 루틴으로 저장 유도)"
+      "viralPoint": "저장(장 관리 체크리스트)"
     },
     {
-      "topic": "\"수면에 좋다\"던 수소 보충제, 임상시험에서 무너지다",
-      "summary": "무작위 이중맹검 시험에서 수소 보충제가 수면 질을 유의미하게 개선하지 못한 것으로 확인돼, 유행하던 보충제 트렌드에 제동이 걸림",
-      "source": "Scientific Reports, \"Individual variability in hydrogen-producing microbes influences the response to hydrogen supplementation on sleep quality,\" 2026, DOI: https://doi.org/10.1038/s41598-026-52342-9 / MedicalXpress, 2026-10-23, https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementation.html",
-      "category": "ENERGY",
-      "formatType": "공포유발",
-      "viralPoint": "공유 (\"이거 먹고 있었는데\" 하는 반응으로 공유 유도)"
+      "topic": "저속노화, 신약·보충제보다 이 5가지 기본 습관이 더 확실하다",
+      "summary": "거창한 노화 표적 치료보다 심폐체력·근력·수면·사회적 연결 같은 생활습관의 과학적 근거가 더 탄탄하다는 임상 리뷰가 화제",
+      "source": "PubMed, 「Translating Geroscience Into Clinical Practice: Molecular Targets, Emerging Therapies, and Lifestyle Strategies for Healthy Longevity」, 2026-10-15 (발행일 표기 이상 있음-원문 확인 필요)",
+      "category": "RITUAL",
+      "formatType": "꿀팁",
+      "viralPoint": "저장(당장 적용할 습관 리스트)"
     },
     {
-      "topic": "폐경기 브레인 포그, ADHD 약으로 해결될까?",
-      "summary": "미국 폐경학회가 ADHD 치료제가 폐경기 실행기능 저하(브레인 포그)에 도움될 가능성을 소개하며 초기 단계지만 화제성 높은 접근법으로 떠오름",
-      "source": "The Menopause Society 보도자료 아카이브, 2026-10-08, https://menopause.org/press-room/press-releases/page/2",
-      "category": "MIND",
+      "topic": "4050 여성 건강, 이제 폐경 관리가 '건강한 노화'의 핵심으로",
+      "summary": "글로벌 웰니스 시장이 장 건강·대사·인지뿐 아니라 여성 호르몬과 폐경 관리까지 건강한 노화 범주로 묶기 시작한 흐름, 4050 타겟에 직접 관련",
+      "source": "Nutrition Insight, 「SupplySide Global 2026: Healthy aging drives GLP-1, gut & menopause」, 2026-11-03 (발행일 표기 이상 있음-원문 확인 필요)",
+      "category": "BODY",
       "formatType": "트렌드",
-      "viralPoint": "댓글 (\"나도 요즘 깜빡깜빡\" 공감형 댓글 유도)"
+      "viralPoint": "공유(또래 여성에게 공유 유도)"
     }
   ],
-  "rawResponse": "주제 1: 장 속 세균이 내 노화 속도를 15% 결정한다?\n한줄요약: 하와이대 연구에서 장내미생물 구성이 생물학적 노화 지표 차이의 약 15%와 연관된 것으로 나타나 \"노화는 장에서 시작된다\"는 화두가 다시 부상함\n출처: Scientific Reports, \"Gut microbiome signatures associate with DNA methylation-based biological aging,\" 2026-10-27, DOI: https://doi.org/10.1038/s41598-026-52974-x / ScienceDaily 2026-10-27, https://www.sciencedaily.com/releases////2026/10/261026225620.htm\n카테고리: BODY\n포맷유형: 생체나이\n바이럴포인트: 저장 (내 장 상태가 노화 속도를 좌우한다는 불안감에 \"나중에 체크리스트로 확인\"하려는 저장 욕구 자극)\n\n주제 2: 폐경 호르몬 치료, 다시 떠오르지만… 혈전 위험은 그대로\n한줄요약: 10월 미국 폐경학회가 호르몬 치료를 안면홍조·수면 문제의 1순위 선택지로 재조명한 동시에, 경구 호르몬제와 정맥혈전 위험 연관 연구도 함께 보도되며 찬반이 극명하게 갈림\n출처: The Menopause Society 보도자료, 2026-10-16, https://menopause.org/press-room/press-releases / Drugs.com 폐경 치료 뉴스, 2026-10-08, https://www.drugs.com/answers/support-group/menopausal-disorders/news/?page=2\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 댓글 (호르몬 치료 경험자·반대자 간 의견 충돌로 댓글 논쟁 유도)\n\n주제 3: 폐경기 '감정기복', 약보다 운동이 먼저다?\n한줄요약: 1,800명 이상 조사에서 신체활동이 많을수록 폐경기 불안·기분 증상 부담이 낮게 나타나 \"운동=멘탈 관리\"라는 인식 전환 포인트 제공\n출처: Healthline, 2026-10-24, https://www.healthline.com/health-news/higher-physical-activity-improves-perimenopause-symptoms/ / The Menopause Society 2026 연례 학술대회 보도자료, 2026-10-14, https://menopause.org/press-room/press-releases\n카테고리: MIND\n포맷유형: 꿀팁\n바이럴포인트: 저장 (당장 실천 가능한 운동 루틴으로 저장 유도)\n\n주제 4: \"수면에 좋다\"던 수소 보충제, 임상시험에서 무너지다\n한줄요약: 무작위 이중맹검 시험에서 수소 보충제가 수면 질을 유의미하게 개선하지 못한 것으로 확인돼, 유행하던 보충제 트렌드에 제동이 걸림\n출처: Scientific Reports, \"Individual variability in hydrogen-producing microbes influences the response to hydrogen supplementation on sleep quality,\" 2026, DOI: https://doi.org/10.1038/s41598-026-52342-9 / MedicalXpress, 2026-10-23, https://medicalxpress.com/news/2026-10-gut-microbiome-varies-hydrogen-supplementation.html\n카테고리: ENERGY\n포맷유형: 공포유발\n바이럴포인트: 공유 (\"이거 먹고 있었는데\" 하는 반응으로 공유 유도)\n\n주제 5: 폐경기 브레인 포그, ADHD 약으로 해결될까?\n한줄요약: 미국 폐경학회가 ADHD 치료제가 폐경기 실행기능 저하(브레인 포그)에 도움될 가능성을 소개하며 초기 단계지만 화제성 높은 접근법으로 떠오름\n출처: The Menopause Society 보도자료 아카이브, 2026-10-08, https://menopause.org/press-room/press-releases/page/2\n카테고리: MIND\n포맷유형: 트렌드\n바이럴포인트: 댓글 (\"나도 요즘 깜빡깜빡\" 공감형 댓글 유도)"
+  "rawResponse": "주제 1: 밥 잘 먹으면 운동 좀 덜 해도 된다? 장수 연구가 뒤집은 상식\n한줄요약: \"식단이 보약\"이라 믿어온 상식과 달리 심폐체력·운동량이 사망 위험과 더 강하게 연관된다는 리뷰 연구가 나와 논쟁 중임\n출처: Mayo Clinic Proceedings, 「Diet Quality Versus Physical Activity and Cardiorespiratory Fitness for Longevity」, 2026-11-11 (PubMed, ASU News 보도 기준, 발행일 표기 이상 있음-원문 확인 필요)\n카테고리: TREND\n포맷유형: 공포유발\n바이럴포인트: 댓글(식단파 vs 운동파 논쟁 유도)\n\n주제 2: NMN·NAD+ 안티에이징 보충제, 효과 있다는 근거 약하다는 반박 나왔다\n한줄요약: 노화 늦춘다고 불티나게 팔리는 보충제들의 과학적 근거가 부실하다는 예일대 연구 결과가 공개돼 보충제 맹신층에 경각심을 줄 주제\n출처: ScienceDaily, 「Yale scientists reveal what really slows aging and what doesn't」, 2026-11-18 (발행일 표기 이상 있음-원문 확인 필요)\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 저장(지금 먹는 보충제 다시 점검)\n\n주제 3: 장 건강이 소화만 책임진다는 건 옛말, 수면·기분·면역까지 좌우한다\n한줄요약: 장-뇌 축 연구가 확장되며 장 건강을 수면의 질과 멘탈, 면역력까지 연결짓는 관점이 산업 전반에서 부상 중\n출처: Nutrition Insight, 「Longevity nutrition: The next era of botanical innovation」, 2026-05-20(업데이트 2026-11-17)\n카테고리: BODY\n포맷유형: 꿀팁\n바이럴포인트: 저장(장 관리 체크리스트)\n\n주제 4: 저속노화, 신약·보충제보다 이 5가지 기본 습관이 더 확실하다\n한줄요약: 거창한 노화 표적 치료보다 심폐체력·근력·수면·사회적 연결 같은 생활습관의 과학적 근거가 더 탄탄하다는 임상 리뷰가 화제\n출처: PubMed, 「Translating Geroscience Into Clinical Practice: Molecular Targets, Emerging Therapies, and Lifestyle Strategies for Healthy Longevity」, 2026-10-15 (발행일 표기 이상 있음-원문 확인 필요)\n카테고리: RITUAL\n포맷유형: 꿀팁\n바이럴포인트: 저장(당장 적용할 습관 리스트)\n\n주제 5: 4050 여성 건강, 이제 폐경 관리가 '건강한 노화'의 핵심으로\n한줄요약: 글로벌 웰니스 시장이 장 건강·대사·인지뿐 아니라 여성 호르몬과 폐경 관리까지 건강한 노화 범주로 묶기 시작한 흐름, 4050 타겟에 직접 관련\n출처: Nutrition Insight, 「SupplySide Global 2026: Healthy aging drives GLP-1, gut & menopause」, 2026-11-03 (발행일 표기 이상 있음-원문 확인 필요)\n카테고리: BODY\n포맷유형: 트렌드\n바이럴포인트: 공유(또래 여성에게 공유 유도)"
 }
