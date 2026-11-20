@@ -1,47 +1,47 @@
 {
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-19T02:16:19.375Z",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T02:01:04.383Z",
   "topics": [
     {
-      "topic": "밥 잘 먹으면 운동 좀 덜 해도 된다? 장수 연구가 뒤집은 상식",
-      "summary": "\"식단이 보약\"이라 믿어온 상식과 달리 심폐체력·운동량이 사망 위험과 더 강하게 연관된다는 리뷰 연구가 나와 논쟁 중임",
-      "source": "Mayo Clinic Proceedings, 「Diet Quality Versus Physical Activity and Cardiorespiratory Fitness for Longevity」, 2026-11-11 (PubMed, ASU News 보도 기준, 발행일 표기 이상 있음-원문 확인 필요)",
-      "category": "TREND",
+      "topic": "건망증이 심해지면 치매 전조증상일까? \"브레인 포그 vs 치매\" 전문가가 선 긋다",
+      "summary": "폐경 전후 깜빡거림을 치매 신호로 오인하는 4050이 많은데, 최신 전문가 논의는 이를 명확히 구분함. 불안을 자극하면서도 안심시켜주는 양면 구조라 바이럴 적합",
+      "source": "Contemporary OB/GYN, 2026-10-22, https://www.contemporaryobgyn.net/view/brain-fog-at-menopause-separating-normal-change-from-dementia",
+      "category": "MIND",
       "formatType": "공포유발",
-      "viralPoint": "댓글(식단파 vs 운동파 논쟁 유도)"
+      "viralPoint": "댓글(본인 경험 공유 유도)"
     },
     {
-      "topic": "NMN·NAD+ 안티에이징 보충제, 효과 있다는 근거 약하다는 반박 나왔다",
-      "summary": "노화 늦춘다고 불티나게 팔리는 보충제들의 과학적 근거가 부실하다는 예일대 연구 결과가 공개돼 보충제 맹신층에 경각심을 줄 주제",
-      "source": "ScienceDaily, 「Yale scientists reveal what really slows aging and what doesn't」, 2026-11-18 (발행일 표기 이상 있음-원문 확인 필요)",
+      "topic": "\"호르몬 주사 맞으면 머리 맑아진다\"는 말, 근거 없다는 게 밝혀졌다",
+      "summary": "테스토스테론이 폐경기 인지기능을 개선한다는 통념을 깨는 리뷰 연구가 최근 발표됨. 상식을 뒤집는 반전 포인트로 저장/공유 유도 가능",
+      "source": "UCL News, 2026-10-30(업데이트 11-09); Reproduction and Fertility, https://www.ucl.ac.uk/news/2026/oct/no-evidence-testosterone-improves-brain-fog-during-menopause",
+      "category": "MIND",
+      "formatType": "해외짜집기",
+      "viralPoint": "저장(정보성 반전 콘텐츠)"
+    },
+    {
+      "topic": "폐경이 빨리 온 사람, 수십 년 뒤 인지력도 빨리 떨어진다?",
+      "summary": "2,603명 장기추적 결과 이른 폐경과 이후 인지저하·알츠하이머 조기진단 사이 연관성이 보고됨. 4050 여성의 불안을 직접 건드리는 민감 주제",
+      "source": "JAMA Network Open 연구 소개, Association of Health Care Journalists, 2026-10-05, https://healthjournalism.org/blog/2026/10/early-menopause-cognitive-decline/",
       "category": "BODY",
       "formatType": "공포유발",
-      "viralPoint": "저장(지금 먹는 보충제 다시 점검)"
+      "viralPoint": "댓글(본인 폐경 시기 공유)"
     },
     {
-      "topic": "장 건강이 소화만 책임진다는 건 옛말, 수면·기분·면역까지 좌우한다",
-      "summary": "장-뇌 축 연구가 확장되며 장 건강을 수면의 질과 멘탈, 면역력까지 연결짓는 관점이 산업 전반에서 부상 중",
-      "source": "Nutrition Insight, 「Longevity nutrition: The next era of botanical innovation」, 2026-05-20(업데이트 2026-11-17)",
-      "category": "BODY",
-      "formatType": "꿀팁",
-      "viralPoint": "저장(장 관리 체크리스트)"
-    },
-    {
-      "topic": "저속노화, 신약·보충제보다 이 5가지 기본 습관이 더 확실하다",
-      "summary": "거창한 노화 표적 치료보다 심폐체력·근력·수면·사회적 연결 같은 생활습관의 과학적 근거가 더 탄탄하다는 임상 리뷰가 화제",
-      "source": "PubMed, 「Translating Geroscience Into Clinical Practice: Molecular Targets, Emerging Therapies, and Lifestyle Strategies for Healthy Longevity」, 2026-10-15 (발행일 표기 이상 있음-원문 확인 필요)",
+      "topic": "운동이 폐경기 호르몬은 못 바꿔도, 기분은 확실히 바꾼다",
+      "summary": "1,003명 분석 결과 걷기·댄스 같은 유산소, 요가·필라테스 같은 심신운동이 폐경기 우울·삶의 질 개선과 연관됨. 당장 따라할 수 있는 실용 꿀팁형",
+      "source": "Menopause 연구 소개, Yahoo Health, 2026-10-29, https://health.yahoo.com/your-body/womens-health/menopause/articles/research-says-simple-habit-help-152247329.html",
       "category": "RITUAL",
       "formatType": "꿀팁",
-      "viralPoint": "저장(당장 적용할 습관 리스트)"
+      "viralPoint": "저장(운동 루틴표)"
     },
     {
-      "topic": "4050 여성 건강, 이제 폐경 관리가 '건강한 노화'의 핵심으로",
-      "summary": "글로벌 웰니스 시장이 장 건강·대사·인지뿐 아니라 여성 호르몬과 폐경 관리까지 건강한 노화 범주로 묶기 시작한 흐름, 4050 타겟에 직접 관련",
-      "source": "Nutrition Insight, 「SupplySide Global 2026: Healthy aging drives GLP-1, gut & menopause」, 2026-11-03 (발행일 표기 이상 있음-원문 확인 필요)",
-      "category": "BODY",
-      "formatType": "트렌드",
-      "viralPoint": "공유(또래 여성에게 공유 유도)"
+      "topic": "땅콩 하루 한 줌, 16주 먹었더니 뇌혈류가 달라졌다",
+      "summary": "고령자 31명 교차시험에서 무염 땅콩 60g 섭취 후 뇌 혈류 반응 변화가 관찰됨. 작은 연구지만 \"특정 식품이 뇌 노화를 늦춘다\"는 제목 자체가 화제성 높음",
+      "source": "Food & Function, 2026-10월 말 보도 요약, Sports, Health & Nutrition Daily Digest, https://news.supwil.com/en/news/sports-health-nutrition/2026-10-30",
+      "category": "TREND",
+      "formatType": "해외짜집기",
+      "viralPoint": "공유(흥미로운 연구결과 전달)"
     }
   ],
-  "rawResponse": "주제 1: 밥 잘 먹으면 운동 좀 덜 해도 된다? 장수 연구가 뒤집은 상식\n한줄요약: \"식단이 보약\"이라 믿어온 상식과 달리 심폐체력·운동량이 사망 위험과 더 강하게 연관된다는 리뷰 연구가 나와 논쟁 중임\n출처: Mayo Clinic Proceedings, 「Diet Quality Versus Physical Activity and Cardiorespiratory Fitness for Longevity」, 2026-11-11 (PubMed, ASU News 보도 기준, 발행일 표기 이상 있음-원문 확인 필요)\n카테고리: TREND\n포맷유형: 공포유발\n바이럴포인트: 댓글(식단파 vs 운동파 논쟁 유도)\n\n주제 2: NMN·NAD+ 안티에이징 보충제, 효과 있다는 근거 약하다는 반박 나왔다\n한줄요약: 노화 늦춘다고 불티나게 팔리는 보충제들의 과학적 근거가 부실하다는 예일대 연구 결과가 공개돼 보충제 맹신층에 경각심을 줄 주제\n출처: ScienceDaily, 「Yale scientists reveal what really slows aging and what doesn't」, 2026-11-18 (발행일 표기 이상 있음-원문 확인 필요)\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 저장(지금 먹는 보충제 다시 점검)\n\n주제 3: 장 건강이 소화만 책임진다는 건 옛말, 수면·기분·면역까지 좌우한다\n한줄요약: 장-뇌 축 연구가 확장되며 장 건강을 수면의 질과 멘탈, 면역력까지 연결짓는 관점이 산업 전반에서 부상 중\n출처: Nutrition Insight, 「Longevity nutrition: The next era of botanical innovation」, 2026-05-20(업데이트 2026-11-17)\n카테고리: BODY\n포맷유형: 꿀팁\n바이럴포인트: 저장(장 관리 체크리스트)\n\n주제 4: 저속노화, 신약·보충제보다 이 5가지 기본 습관이 더 확실하다\n한줄요약: 거창한 노화 표적 치료보다 심폐체력·근력·수면·사회적 연결 같은 생활습관의 과학적 근거가 더 탄탄하다는 임상 리뷰가 화제\n출처: PubMed, 「Translating Geroscience Into Clinical Practice: Molecular Targets, Emerging Therapies, and Lifestyle Strategies for Healthy Longevity」, 2026-10-15 (발행일 표기 이상 있음-원문 확인 필요)\n카테고리: RITUAL\n포맷유형: 꿀팁\n바이럴포인트: 저장(당장 적용할 습관 리스트)\n\n주제 5: 4050 여성 건강, 이제 폐경 관리가 '건강한 노화'의 핵심으로\n한줄요약: 글로벌 웰니스 시장이 장 건강·대사·인지뿐 아니라 여성 호르몬과 폐경 관리까지 건강한 노화 범주로 묶기 시작한 흐름, 4050 타겟에 직접 관련\n출처: Nutrition Insight, 「SupplySide Global 2026: Healthy aging drives GLP-1, gut & menopause」, 2026-11-03 (발행일 표기 이상 있음-원문 확인 필요)\n카테고리: BODY\n포맷유형: 트렌드\n바이럴포인트: 공유(또래 여성에게 공유 유도)"
+  "rawResponse": "주제 1: 건망증이 심해지면 치매 전조증상일까? \"브레인 포그 vs 치매\" 전문가가 선 긋다\n한줄요약: 폐경 전후 깜빡거림을 치매 신호로 오인하는 4050이 많은데, 최신 전문가 논의는 이를 명확히 구분함. 불안을 자극하면서도 안심시켜주는 양면 구조라 바이럴 적합\n출처: Contemporary OB/GYN, 2026-10-22, https://www.contemporaryobgyn.net/view/brain-fog-at-menopause-separating-normal-change-from-dementia\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글(본인 경험 공유 유도)\n\n주제 2: \"호르몬 주사 맞으면 머리 맑아진다\"는 말, 근거 없다는 게 밝혀졌다\n한줄요약: 테스토스테론이 폐경기 인지기능을 개선한다는 통념을 깨는 리뷰 연구가 최근 발표됨. 상식을 뒤집는 반전 포인트로 저장/공유 유도 가능\n출처: UCL News, 2026-10-30(업데이트 11-09); Reproduction and Fertility, https://www.ucl.ac.uk/news/2026/oct/no-evidence-testosterone-improves-brain-fog-during-menopause\n카테고리: MIND\n포맷유형: 해외짜집기\n바이럴포인트: 저장(정보성 반전 콘텐츠)\n\n주제 3: 폐경이 빨리 온 사람, 수십 년 뒤 인지력도 빨리 떨어진다?\n한줄요약: 2,603명 장기추적 결과 이른 폐경과 이후 인지저하·알츠하이머 조기진단 사이 연관성이 보고됨. 4050 여성의 불안을 직접 건드리는 민감 주제\n출처: JAMA Network Open 연구 소개, Association of Health Care Journalists, 2026-10-05, https://healthjournalism.org/blog/2026/10/early-menopause-cognitive-decline/\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 댓글(본인 폐경 시기 공유)\n\n주제 4: 운동이 폐경기 호르몬은 못 바꿔도, 기분은 확실히 바꾼다\n한줄요약: 1,003명 분석 결과 걷기·댄스 같은 유산소, 요가·필라테스 같은 심신운동이 폐경기 우울·삶의 질 개선과 연관됨. 당장 따라할 수 있는 실용 꿀팁형\n출처: Menopause 연구 소개, Yahoo Health, 2026-10-29, https://health.yahoo.com/your-body/womens-health/menopause/articles/research-says-simple-habit-help-152247329.html\n카테고리: RITUAL\n포맷유형: 꿀팁\n바이럴포인트: 저장(운동 루틴표)\n\n주제 5: 땅콩 하루 한 줌, 16주 먹었더니 뇌혈류가 달라졌다\n한줄요약: 고령자 31명 교차시험에서 무염 땅콩 60g 섭취 후 뇌 혈류 반응 변화가 관찰됨. 작은 연구지만 \"특정 식품이 뇌 노화를 늦춘다\"는 제목 자체가 화제성 높음\n출처: Food & Function, 2026-10월 말 보도 요약, Sports, Health & Nutrition Daily Digest, https://news.supwil.com/en/news/sports-health-nutrition/2026-10-30\n카테고리: TREND\n포맷유형: 해외짜집기\n바이럴포인트: 공유(흥미로운 연구결과 전달)"
 }
