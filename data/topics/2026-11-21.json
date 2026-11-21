@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T01:58:12.724Z",
+  "topics": [
+    {
+      "topic": "호르몬 치료, 그동안 알던 상식이 틀렸다?",
+      "summary": "폐경기 호르몬 치료가 오히려 심혈관 위험을 낮출 수 있다는 관찰 연구가 나오며 기존 공포를 뒤집는 중",
+      "source": "JAMA Internal Medicine, 2026년 11월 1일 게재 (https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2853616)",
+      "category": "BODY",
+      "formatType": "공포유발",
+      "viralPoint": "댓글(찬반 의견 격돌 유도)"
+    },
+    {
+      "topic": "자는 동안 뇌가 청소 안 되고 있다면?",
+      "summary": "나이 들수록 수면 중 뇌 노폐물 제거 시스템이 약해진다는 MIT발 연구가 11월 최신 보도로 화제",
+      "source": "ScienceDaily 건강한 노화 뉴스, 2026년 11월 18일 보도 (https://www.sciencedaily.com/news/health_medicine/healthy_aging/)",
+      "category": "MIND",
+      "formatType": "공포유발",
+      "viralPoint": "저장(수면 체크리스트 만들고 싶은 욕구)"
+    },
+    {
+      "topic": "핑크 노이즈 한 번 틀어봤니? 뇌파 조절의 반전",
+      "summary": "수면 중 특정 타이밍에 약한 핑크 노이즈를 들려주면 뇌파가 강화된다는 초기 연구, 상식을 깨는 접근이라 화제",
+      "source": "ScienceDaily 건강한 노화 뉴스, 2026년 11월 15일 보도 (https://www.sciencedaily.com/news/health_medicine/healthy_aging/)",
+      "category": "TREND",
+      "formatType": "해외짜집기",
+      "viralPoint": "공유(신기한 꿀팁이라 지인에게 전달 욕구)"
+    },
+    {
+      "topic": "뼈 건강 약이 치매까지 막아준다고?",
+      "summary": "흔히 먹는 골다공증 약과 치매 위험 감소의 연관성이 발견되며 4050 이후 세대의 관심을 끄는 중",
+      "source": "ScienceDaily 건강한 노화 뉴스, 2026년 11월 9일 보도 (https://www.sciencedaily.com/news/health_medicine/healthy_aging/)",
+      "category": "BODY",
+      "formatType": "공포유발",
+      "viralPoint": "저장(복용 중인 약 다시 확인하고 싶은 욕구)"
+    },
+    {
+      "topic": "\"이 식단 하나만 먹으면 된다\"는 거짓말",
+      "summary": "7500명 대상 연구에서 장수 식단은 하나가 아니라 여러 패턴이 있다는 결과가 나오며 단일 유행 식단 신화 깨짐",
+      "source": "ScienceDaily, 2026년 10월 19일 연구 보도 (https://www.sciencedaily.com/releases/2026/10/261019093439.htm)",
+      "category": "RITUAL",
+      "formatType": "꿀팁",
+      "viralPoint": "저장(내게 맞는 식단 패턴 찾아보고 싶은 욕구)"
+    }
+  ],
+  "rawResponse": "주제 1: 호르몬 치료, 그동안 알던 상식이 틀렸다?\n한줄요약: 폐경기 호르몬 치료가 오히려 심혈관 위험을 낮출 수 있다는 관찰 연구가 나오며 기존 공포를 뒤집는 중\n출처: JAMA Internal Medicine, 2026년 11월 1일 게재 (https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2853616)\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 댓글(찬반 의견 격돌 유도)\n\n주제 2: 자는 동안 뇌가 청소 안 되고 있다면?\n한줄요약: 나이 들수록 수면 중 뇌 노폐물 제거 시스템이 약해진다는 MIT발 연구가 11월 최신 보도로 화제\n출처: ScienceDaily 건강한 노화 뉴스, 2026년 11월 18일 보도 (https://www.sciencedaily.com/news/health_medicine/healthy_aging/)\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 저장(수면 체크리스트 만들고 싶은 욕구)\n\n주제 3: 핑크 노이즈 한 번 틀어봤니? 뇌파 조절의 반전\n한줄요약: 수면 중 특정 타이밍에 약한 핑크 노이즈를 들려주면 뇌파가 강화된다는 초기 연구, 상식을 깨는 접근이라 화제\n출처: ScienceDaily 건강한 노화 뉴스, 2026년 11월 15일 보도 (https://www.sciencedaily.com/news/health_medicine/healthy_aging/)\n카테고리: TREND\n포맷유형: 해외짜집기\n바이럴포인트: 공유(신기한 꿀팁이라 지인에게 전달 욕구)\n\n주제 4: 뼈 건강 약이 치매까지 막아준다고?\n한줄요약: 흔히 먹는 골다공증 약과 치매 위험 감소의 연관성이 발견되며 4050 이후 세대의 관심을 끄는 중\n출처: ScienceDaily 건강한 노화 뉴스, 2026년 11월 9일 보도 (https://www.sciencedaily.com/news/health_medicine/healthy_aging/)\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 저장(복용 중인 약 다시 확인하고 싶은 욕구)\n\n주제 5: \"이 식단 하나만 먹으면 된다\"는 거짓말\n한줄요약: 7500명 대상 연구에서 장수 식단은 하나가 아니라 여러 패턴이 있다는 결과가 나오며 단일 유행 식단 신화 깨짐\n출처: ScienceDaily, 2026년 10월 19일 연구 보도 (https://www.sciencedaily.com/releases/2026/10/261019093439.htm)\n카테고리: RITUAL\n포맷유형: 꿀팁\n바이럴포인트: 저장(내게 맞는 식단 패턴 찾아보고 싶은 욕구)"
+}
