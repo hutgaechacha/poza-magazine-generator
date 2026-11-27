@@ -1,39 +1,47 @@
 {
-  "date": "2026-11-26",
-  "generatedAt": "2026-11-26T03:22:45.877Z",
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T03:29:22.946Z",
   "topics": [
     {
-      "topic": "폐경기 불면, 방치하면 수십 년 뒤 인지력에 영향 줄 수도 있다",
-      "summary": "중등도 이상 수면장애를 겪은 폐경기 여성 집단에서 장기적으로 낮은 인지 점수가 관찰돼, \"그냥 잠 못 자는 것\"으로 넘기기 어렵다는 경고성 신호가 나옴",
-      "source": "PubMed, 2026-06-16 게재(2026-08 업데이트), https://pubmed.ncbi.nlm.nih.gov/42302113/",
+      "topic": "커피 2~3잔이 치매 위험을 낮춘다?",
+      "summary": "\"커피는 뇌에 안 좋다\"는 통념을 뒤집는 장기 추적 연구 결과가 최근 보도되며 논쟁 재점화",
+      "source": "ScienceDaily, \"Drinking 2–3 Cups of Coffee a Day Linked to Dramatically Lower Dementia Risk,\" 2026-11-07, https://www.sciencedaily.com/news/living_well/",
       "category": "MIND",
-      "formatType": "공포유발",
-      "viralPoint": "댓글(본인/가족 수면 상태 자가진단 댓글 유도), 저장(체크리스트형)"
-    },
-    {
-      "topic": "\"단백질은 많이 먹을수록 좋다\"는 상식, 350개 연구가 뒤집었다",
-      "summary": "수십 년간 믿어온 고단백 신화에 대해 대규모 연구 검토가 반론을 제기하며 논쟁 확산 중",
-      "source": "ScienceDaily, 2026-11-10 보도, https://sciencedaily.com/news/health_medicine/menopause/",
-      "category": "BODY",
       "formatType": "해외짜집기",
-      "viralPoint": "공유(반전 정보로 지인 태그), 댓글(찬반 논쟁 유도)"
+      "viralPoint": "댓글(본인 커피 섭취량 공유·찬반 논쟁)"
     },
     {
-      "topic": "잠을 몇 시간 자느냐보다 '같은 시간에 자고 일어나는 것'이 더 중요하다",
-      "summary": "수면시간 늘리기보다 수면 리듬의 '규칙성'이 건강·장수와 더 강하게 연관된다는 분석이 확산 중",
-      "source": "Welltory, 2026-07-22 게시(2026-11-25 업데이트), https://welltory.com/blog/wellness-trends-2026",
+      "topic": "잠 못 자면 뇌만 늙는 게 아니라 온몸이 늙는다",
+      "summary": "수면 부족이 뇌뿐 아니라 폐·간·근골격·면역·대사 장기까지 노화시킨다는 대규모 관찰연구가 최근 공개돼 \"단순 피로\"로 치부하던 수면 문제에 경각심 부여",
+      "source": "PubMed, \"Association of sleep patterns with organ aging: a large community-based study,\" 2026-11-24, https://pubmed.ncbi.nlm.nih.gov/43077187/",
       "category": "ENERGY",
-      "formatType": "꿀팁",
-      "viralPoint": "저장(루틴 체크리스트), 공유(간단 실천법)"
+      "formatType": "공포유발",
+      "viralPoint": "저장(수면 체크리스트로 활용)"
     },
     {
-      "topic": "2026 웰니스 트렌드, 이제는 '더 최적화'가 아니라 '적당히 즐겁게'",
-      "summary": "과도한 자기관리·바이오해킹 피로에 대한 반작용으로, 현실적이고 즐거운 웰니스가 전 세계적 화두로 떠오름",
-      "source": "Global Wellness Institute, 2026-01-27 발표(2026-10-27 업데이트), https://globalwellnessinstitute.org/press-room/press-releases/global-wellness-summit-releases-10-wellness-trends-for-2026/",
-      "category": "TREND",
-      "formatType": "트렌드",
-      "viralPoint": ""
+      "topic": "제로슈거가 뇌를 더 빨리 늙게 한다?",
+      "summary": "설탕 대신 택한 인공감미료가 오히려 인지기능 저하 속도를 높인다는 1만3천명 대상 연구가 최근 보도되며 \"건강한 선택\"이라는 믿음에 균열",
+      "source": "ScienceDaily, 인공감미료·인지기능 관련 보도, 2026-10-29, https://www.sciencedaily.com/news/mind_brain/nutrition/",
+      "category": "BODY",
+      "formatType": "공포유발",
+      "viralPoint": "댓글(제로 음료 끊을지 논쟁)"
+    },
+    {
+      "topic": "책 읽는 습관 하나로 치매 위험 33% 낮춘다",
+      "summary": "값비싼 뇌건강 제품 대신 여가 독서라는 일상 습관이 치매 위험 감소와 연관된다는 연구가 최근 보도되며 실천 가능한 꿀팁으로 주목",
+      "source": "ScienceDaily, \"This Simple Habit Is Linked to a 33% Lower Risk of Alzheimer's,\" 2026-11-20, https://www.sciencedaily.com/news/living_well/",
+      "category": "MIND",
+      "formatType": "꿀팁",
+      "viralPoint": "저장(오늘부터 실천할 습관으로)"
+    },
+    {
+      "topic": "독하게 운동할 필요 없다, 중요한 건 '꾸준함'",
+      "summary": "고강도·장시간 운동보다 규칙적인 빈도가 정신건강에 더 중요하다는 연구가 최근 보도되며 \"더 세게\"보다 \"지속 가능하게\"라는 운동관 전환 시사",
+      "source": "ScienceDaily, \"For Better Mental Health, How Often You Exercise May Matter More Than How Hard,\" 2026-11-20, https://www.sciencedaily.com/news/health_medicine/staying_healthy/",
+      "category": "MIND",
+      "formatType": "꿀팁",
+      "viralPoint": "공유(운동 부담 줄여주는 위안형 정보)"
     }
   ],
-  "rawResponse": "주제 1: 폐경기 불면, 방치하면 수십 년 뒤 인지력에 영향 줄 수도 있다\n한줄요약: 중등도 이상 수면장애를 겪은 폐경기 여성 집단에서 장기적으로 낮은 인지 점수가 관찰돼, \"그냥 잠 못 자는 것\"으로 넘기기 어렵다는 경고성 신호가 나옴\n출처: PubMed, 2026-06-16 게재(2026-08 업데이트), https://pubmed.ncbi.nlm.nih.gov/42302113/\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 댓글(본인/가족 수면 상태 자가진단 댓글 유도), 저장(체크리스트형)\n\n주제 2: \"단백질은 많이 먹을수록 좋다\"는 상식, 350개 연구가 뒤집었다\n한줄요약: 수십 년간 믿어온 고단백 신화에 대해 대규모 연구 검토가 반론을 제기하며 논쟁 확산 중\n출처: ScienceDaily, 2026-11-10 보도, https://sciencedaily.com/news/health_medicine/menopause/\n카테고리: BODY\n포맷유형: 해외짜집기\n바이럴포인트: 공유(반전 정보로 지인 태그), 댓글(찬반 논쟁 유도)\n\n주제 3: 잠을 몇 시간 자느냐보다 '같은 시간에 자고 일어나는 것'이 더 중요하다\n한줄요약: 수면시간 늘리기보다 수면 리듬의 '규칙성'이 건강·장수와 더 강하게 연관된다는 분석이 확산 중\n출처: Welltory, 2026-07-22 게시(2026-11-25 업데이트), https://welltory.com/blog/wellness-trends-2026\n카테고리: ENERGY\n포맷유형: 꿀팁\n바이럴포인트: 저장(루틴 체크리스트), 공유(간단 실천법)\n\n주제 4: 2026 웰니스 트렌드, 이제는 '더 최적화'가 아니라 '적당히 즐겁게'\n한줄요약: 과도한 자기관리·바이오해킹 피로에 대한 반작용으로, 현실적이고 즐거운 웰니스가 전 세계적 화두로 떠오름\n출처: Global Wellness Institute, 2026-01-27 발표(2026-10-27 업데이트), https://globalwellnessinstitute.org/press-room/press-releases/global-wellness-summit-releases-10-wellness-trends-for-2026/\n카테고리: TREND\n포맷유형: 트렌드\n바이럴"
+  "rawResponse": "주제 1: 커피 2~3잔이 치매 위험을 낮춘다?\n한줄요약: \"커피는 뇌에 안 좋다\"는 통념을 뒤집는 장기 추적 연구 결과가 최근 보도되며 논쟁 재점화\n출처: ScienceDaily, \"Drinking 2–3 Cups of Coffee a Day Linked to Dramatically Lower Dementia Risk,\" 2026-11-07, https://www.sciencedaily.com/news/living_well/\n카테고리: MIND\n포맷유형: 해외짜집기\n바이럴포인트: 댓글(본인 커피 섭취량 공유·찬반 논쟁)\n\n주제 2: 잠 못 자면 뇌만 늙는 게 아니라 온몸이 늙는다\n한줄요약: 수면 부족이 뇌뿐 아니라 폐·간·근골격·면역·대사 장기까지 노화시킨다는 대규모 관찰연구가 최근 공개돼 \"단순 피로\"로 치부하던 수면 문제에 경각심 부여\n출처: PubMed, \"Association of sleep patterns with organ aging: a large community-based study,\" 2026-11-24, https://pubmed.ncbi.nlm.nih.gov/43077187/\n카테고리: ENERGY\n포맷유형: 공포유발\n바이럴포인트: 저장(수면 체크리스트로 활용)\n\n주제 3: 제로슈거가 뇌를 더 빨리 늙게 한다?\n한줄요약: 설탕 대신 택한 인공감미료가 오히려 인지기능 저하 속도를 높인다는 1만3천명 대상 연구가 최근 보도되며 \"건강한 선택\"이라는 믿음에 균열\n출처: ScienceDaily, 인공감미료·인지기능 관련 보도, 2026-10-29, https://www.sciencedaily.com/news/mind_brain/nutrition/\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 댓글(제로 음료 끊을지 논쟁)\n\n주제 4: 책 읽는 습관 하나로 치매 위험 33% 낮춘다\n한줄요약: 값비싼 뇌건강 제품 대신 여가 독서라는 일상 습관이 치매 위험 감소와 연관된다는 연구가 최근 보도되며 실천 가능한 꿀팁으로 주목\n출처: ScienceDaily, \"This Simple Habit Is Linked to a 33% Lower Risk of Alzheimer's,\" 2026-11-20, https://www.sciencedaily.com/news/living_well/\n카테고리: MIND\n포맷유형: 꿀팁\n바이럴포인트: 저장(오늘부터 실천할 습관으로)\n\n주제 5: 독하게 운동할 필요 없다, 중요한 건 '꾸준함'\n한줄요약: 고강도·장시간 운동보다 규칙적인 빈도가 정신건강에 더 중요하다는 연구가 최근 보도되며 \"더 세게\"보다 \"지속 가능하게\"라는 운동관 전환 시사\n출처: ScienceDaily, \"For Better Mental Health, How Often You Exercise May Matter More Than How Hard,\" 2026-11-20, https://www.sciencedaily.com/news/health_medicine/staying_healthy/\n카테고리: MIND\n포맷유형: 꿀팁\n바이럴포인트: 공유(운동 부담 줄여주는 위안형 정보)"
 }
