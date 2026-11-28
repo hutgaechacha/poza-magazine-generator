@@ -1,47 +1,47 @@
 {
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T03:29:22.946Z",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T03:05:47.651Z",
   "topics": [
     {
-      "topic": "커피 2~3잔이 치매 위험을 낮춘다?",
-      "summary": "\"커피는 뇌에 안 좋다\"는 통념을 뒤집는 장기 추적 연구 결과가 최근 보도되며 논쟁 재점화",
-      "source": "ScienceDaily, \"Drinking 2–3 Cups of Coffee a Day Linked to Dramatically Lower Dementia Risk,\" 2026-11-07, https://www.sciencedaily.com/news/living_well/",
-      "category": "MIND",
-      "formatType": "해외짜집기",
-      "viralPoint": "댓글(본인 커피 섭취량 공유·찬반 논쟁)"
-    },
-    {
-      "topic": "잠 못 자면 뇌만 늙는 게 아니라 온몸이 늙는다",
-      "summary": "수면 부족이 뇌뿐 아니라 폐·간·근골격·면역·대사 장기까지 노화시킨다는 대규모 관찰연구가 최근 공개돼 \"단순 피로\"로 치부하던 수면 문제에 경각심 부여",
-      "source": "PubMed, \"Association of sleep patterns with organ aging: a large community-based study,\" 2026-11-24, https://pubmed.ncbi.nlm.nih.gov/43077187/",
+      "topic": "수면 시간보다 \"규칙성\"이 장기 노화를 결정한다",
+      "summary": "11월 24일 공개된 대규모 지역사회 연구가 불규칙한 수면 패턴을 폐·간·근골격·면역·대사·뇌의 빠른 노화와 연관 지으며 \"몇 시간 잤는지\"보다 \"언제 자고 언제 일어나는지\"가 중요하다는 상식 전환형 이슈를 던짐",
+      "source": "PubMed, \"Association of sleep patterns with organ aging: a large community-based study\", 2026-11-24, https://pubmed.ncbi.nlm.nih.gov/43077187/",
       "category": "ENERGY",
-      "formatType": "공포유발",
-      "viralPoint": "저장(수면 체크리스트로 활용)"
+      "formatType": "생체나이",
+      "viralPoint": "저장 (자가진단형 - \"내 수면패턴 체크해보기\")"
     },
     {
-      "topic": "제로슈거가 뇌를 더 빨리 늙게 한다?",
-      "summary": "설탕 대신 택한 인공감미료가 오히려 인지기능 저하 속도를 높인다는 1만3천명 대상 연구가 최근 보도되며 \"건강한 선택\"이라는 믿음에 균열",
-      "source": "ScienceDaily, 인공감미료·인지기능 관련 보도, 2026-10-29, https://www.sciencedaily.com/news/mind_brain/nutrition/",
+      "topic": "나이 들면 약해지는 '밤의 뇌 청소 시스템', 방치하면?",
+      "summary": "11월 18일 MIT 연구가 수면 중 뇌 노폐물 제거 체계가 노화에 따라 비효율화될 수 있다는 가능성을 제시, 치매·인지저하 불안과 직결되는 공포소구형 주제",
+      "source": "ScienceDaily, \"MIT Discovers That Aging Weakens the Brain's Nighttime Cleaning System\", 2026-11-18, https://www.sciencedaily.com/news/health_medicine/healthy_aging/",
+      "category": "MIND",
+      "formatType": "공포유발",
+      "viralPoint": "공유 (\"우리 부모님도 보셔야 할 글\")"
+    },
+    {
+      "topic": "\"단백질 많이 먹을수록 좋다\"는 상식, 350개 연구가 뒤집었다",
+      "summary": "11월 10일 350건 이상의 연구를 검토한 리뷰가 단백질 과다섭취보다 적정 섭취가 노화·대사건강에 유리할 가능성을 제시, 근육 유지=단백질 신봉하던 4050 타겟에게 논쟁적 이슈",
+      "source": "ScienceDaily, \"Eating Less Protein Could Slow Aging, Review of 350 Studies Finds\", 2026-11-10, https://www.sciencedaily.com/news/health_medicine/nutrition/",
       "category": "BODY",
-      "formatType": "공포유발",
-      "viralPoint": "댓글(제로 음료 끊을지 논쟁)"
+      "formatType": "해외짜집기",
+      "viralPoint": "댓글 (\"그럼 얼마나 먹어야 하냐\" 논쟁 유발)"
     },
     {
-      "topic": "책 읽는 습관 하나로 치매 위험 33% 낮춘다",
-      "summary": "값비싼 뇌건강 제품 대신 여가 독서라는 일상 습관이 치매 위험 감소와 연관된다는 연구가 최근 보도되며 실천 가능한 꿀팁으로 주목",
-      "source": "ScienceDaily, \"This Simple Habit Is Linked to a 33% Lower Risk of Alzheimer's,\" 2026-11-20, https://www.sciencedaily.com/news/living_well/",
-      "category": "MIND",
-      "formatType": "꿀팁",
-      "viralPoint": "저장(오늘부터 실천할 습관으로)"
+      "topic": "비싼 항노화 보충제, 예일대가 \"효과 제한적\"이라 밝힌 이유",
+      "summary": "11월 13일 Yale 연구 소개 보도가 운동·식단은 생물학적 노화지표 개선과 관련 있지만 인기 항노화 보충제는 효과가 제한적일 수 있다고 지적, 저속노화 시장 기대와 실제 근거 간 간극을 짚는 논쟁형 주제",
+      "source": "ScienceDaily, \"Yale Scientists Reveal What Really Slows Aging and What Doesn't\", 2026-11-13, https://www.sciencedaily.com/releases/2026/11/261112230452.htm",
+      "category": "TREND",
+      "formatType": "트렌드",
+      "viralPoint": "저장 (보충제 구매 전 체크리스트형)"
     },
     {
-      "topic": "독하게 운동할 필요 없다, 중요한 건 '꾸준함'",
-      "summary": "고강도·장시간 운동보다 규칙적인 빈도가 정신건강에 더 중요하다는 연구가 최근 보도되며 \"더 세게\"보다 \"지속 가능하게\"라는 운동관 전환 시사",
-      "source": "ScienceDaily, \"For Better Mental Health, How Often You Exercise May Matter More Than How Hard,\" 2026-11-20, https://www.sciencedaily.com/news/health_medicine/staying_healthy/",
-      "category": "MIND",
+      "topic": "운동 시간 낼 필요 없다, \"짧게 자주 걷기\"가 혈당 잡는다",
+      "summary": "11월 22일 보도가 오래 앉아있는 시간을 끊는 짧은 걷기 휴식이 혈당 관리에 유리할 가능성을 제시, 바쁜 직장인·중년층이 당장 실천 가능한 저난도 꿀팁형 주제",
+      "source": "Medical News Today, 2026-11-22, 짧은 걷기 휴식과 혈당 관리 관련 보도, https://www.medicalnewstoday.com/news",
+      "category": "RITUAL",
       "formatType": "꿀팁",
-      "viralPoint": "공유(운동 부담 줄여주는 위안형 정보)"
+      "viralPoint": "저장 (오늘부터 바로 따라할 루틴)"
     }
   ],
-  "rawResponse": "주제 1: 커피 2~3잔이 치매 위험을 낮춘다?\n한줄요약: \"커피는 뇌에 안 좋다\"는 통념을 뒤집는 장기 추적 연구 결과가 최근 보도되며 논쟁 재점화\n출처: ScienceDaily, \"Drinking 2–3 Cups of Coffee a Day Linked to Dramatically Lower Dementia Risk,\" 2026-11-07, https://www.sciencedaily.com/news/living_well/\n카테고리: MIND\n포맷유형: 해외짜집기\n바이럴포인트: 댓글(본인 커피 섭취량 공유·찬반 논쟁)\n\n주제 2: 잠 못 자면 뇌만 늙는 게 아니라 온몸이 늙는다\n한줄요약: 수면 부족이 뇌뿐 아니라 폐·간·근골격·면역·대사 장기까지 노화시킨다는 대규모 관찰연구가 최근 공개돼 \"단순 피로\"로 치부하던 수면 문제에 경각심 부여\n출처: PubMed, \"Association of sleep patterns with organ aging: a large community-based study,\" 2026-11-24, https://pubmed.ncbi.nlm.nih.gov/43077187/\n카테고리: ENERGY\n포맷유형: 공포유발\n바이럴포인트: 저장(수면 체크리스트로 활용)\n\n주제 3: 제로슈거가 뇌를 더 빨리 늙게 한다?\n한줄요약: 설탕 대신 택한 인공감미료가 오히려 인지기능 저하 속도를 높인다는 1만3천명 대상 연구가 최근 보도되며 \"건강한 선택\"이라는 믿음에 균열\n출처: ScienceDaily, 인공감미료·인지기능 관련 보도, 2026-10-29, https://www.sciencedaily.com/news/mind_brain/nutrition/\n카테고리: BODY\n포맷유형: 공포유발\n바이럴포인트: 댓글(제로 음료 끊을지 논쟁)\n\n주제 4: 책 읽는 습관 하나로 치매 위험 33% 낮춘다\n한줄요약: 값비싼 뇌건강 제품 대신 여가 독서라는 일상 습관이 치매 위험 감소와 연관된다는 연구가 최근 보도되며 실천 가능한 꿀팁으로 주목\n출처: ScienceDaily, \"This Simple Habit Is Linked to a 33% Lower Risk of Alzheimer's,\" 2026-11-20, https://www.sciencedaily.com/news/living_well/\n카테고리: MIND\n포맷유형: 꿀팁\n바이럴포인트: 저장(오늘부터 실천할 습관으로)\n\n주제 5: 독하게 운동할 필요 없다, 중요한 건 '꾸준함'\n한줄요약: 고강도·장시간 운동보다 규칙적인 빈도가 정신건강에 더 중요하다는 연구가 최근 보도되며 \"더 세게\"보다 \"지속 가능하게\"라는 운동관 전환 시사\n출처: ScienceDaily, \"For Better Mental Health, How Often You Exercise May Matter More Than How Hard,\" 2026-11-20, https://www.sciencedaily.com/news/health_medicine/staying_healthy/\n카테고리: MIND\n포맷유형: 꿀팁\n바이럴포인트: 공유(운동 부담 줄여주는 위안형 정보)"
+  "rawResponse": "주제 1: 수면 시간보다 \"규칙성\"이 장기 노화를 결정한다\n한줄요약: 11월 24일 공개된 대규모 지역사회 연구가 불규칙한 수면 패턴을 폐·간·근골격·면역·대사·뇌의 빠른 노화와 연관 지으며 \"몇 시간 잤는지\"보다 \"언제 자고 언제 일어나는지\"가 중요하다는 상식 전환형 이슈를 던짐\n출처: PubMed, \"Association of sleep patterns with organ aging: a large community-based study\", 2026-11-24, https://pubmed.ncbi.nlm.nih.gov/43077187/\n카테고리: ENERGY\n포맷유형: 생체나이\n바이럴포인트: 저장 (자가진단형 - \"내 수면패턴 체크해보기\")\n\n주제 2: 나이 들면 약해지는 '밤의 뇌 청소 시스템', 방치하면?\n한줄요약: 11월 18일 MIT 연구가 수면 중 뇌 노폐물 제거 체계가 노화에 따라 비효율화될 수 있다는 가능성을 제시, 치매·인지저하 불안과 직결되는 공포소구형 주제\n출처: ScienceDaily, \"MIT Discovers That Aging Weakens the Brain's Nighttime Cleaning System\", 2026-11-18, https://www.sciencedaily.com/news/health_medicine/healthy_aging/\n카테고리: MIND\n포맷유형: 공포유발\n바이럴포인트: 공유 (\"우리 부모님도 보셔야 할 글\")\n\n주제 3: \"단백질 많이 먹을수록 좋다\"는 상식, 350개 연구가 뒤집었다\n한줄요약: 11월 10일 350건 이상의 연구를 검토한 리뷰가 단백질 과다섭취보다 적정 섭취가 노화·대사건강에 유리할 가능성을 제시, 근육 유지=단백질 신봉하던 4050 타겟에게 논쟁적 이슈\n출처: ScienceDaily, \"Eating Less Protein Could Slow Aging, Review of 350 Studies Finds\", 2026-11-10, https://www.sciencedaily.com/news/health_medicine/nutrition/\n카테고리: BODY\n포맷유형: 해외짜집기\n바이럴포인트: 댓글 (\"그럼 얼마나 먹어야 하냐\" 논쟁 유발)\n\n주제 4: 비싼 항노화 보충제, 예일대가 \"효과 제한적\"이라 밝힌 이유\n한줄요약: 11월 13일 Yale 연구 소개 보도가 운동·식단은 생물학적 노화지표 개선과 관련 있지만 인기 항노화 보충제는 효과가 제한적일 수 있다고 지적, 저속노화 시장 기대와 실제 근거 간 간극을 짚는 논쟁형 주제\n출처: ScienceDaily, \"Yale Scientists Reveal What Really Slows Aging and What Doesn't\", 2026-11-13, https://www.sciencedaily.com/releases/2026/11/261112230452.htm\n카테고리: TREND\n포맷유형: 트렌드\n바이럴포인트: 저장 (보충제 구매 전 체크리스트형)\n\n주제 5: 운동 시간 낼 필요 없다, \"짧게 자주 걷기\"가 혈당 잡는다\n한줄요약: 11월 22일 보도가 오래 앉아있는 시간을 끊는 짧은 걷기 휴식이 혈당 관리에 유리할 가능성을 제시, 바쁜 직장인·중년층이 당장 실천 가능한 저난도 꿀팁형 주제\n출처: Medical News Today, 2026-11-22, 짧은 걷기 휴식과 혈당 관리 관련 보도, https://www.medicalnewstoday.com/news\n카테고리: RITUAL\n포맷유형: 꿀팁\n바이럴포인트: 저장 (오늘부터 바로 따라할 루틴)"
 }
